@@ -66,7 +66,9 @@ becomes affordable. Zeolites (not carbon) survive the hot desorption cycle and
 cannot burn. Rotor design, limits and the species that foul wheels are covered in
 [Concentration Wheels](zeolite-concentration-wheel.md)
 - [Adsorption Mechanism](molecular-sieve-adsorption-mechanism.md) — pore selectivity, working capacity.
-- [Dehydration](molecular-sieve-dehydration.md) — drying gas streams below dew point..
+- [Dehydration](molecular-sieve-dehydration.md)
+- [Quality Indicators](molecular-sieve-quality-indicators.md) — capacity, strength, attrition.
+- [VOC Treatment Roles](molecular-sieve-voc-treatment.md) — rotors, guard beds, polishing. — drying gas streams below dew point..
 
 ## 6. Zeolite vs activated carbon for VOC
 

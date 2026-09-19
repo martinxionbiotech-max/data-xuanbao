@@ -44,7 +44,8 @@ Emission obligations come from multiple layers:
   requires and how it changed the industry.
 - [CEMS and Continuous Monitoring](cems-continuous-monitoring.md) — analyzers, data handling and
   availability obligations.
-- [Compliance Management and Reporting](compliance-reporting-audit.md) — records, inspections and the
+- [Compliance Management and Reporting](compliance-reporting-audit.md)
+- [EU IED & BREF](eu-ied-bref-standards.md) — the European BAT framework in brief. — records, inspections and the
   audit trail.
 
 ## Related products

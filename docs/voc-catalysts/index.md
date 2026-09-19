@@ -44,7 +44,9 @@ Sizing step-by-step — including adiabatic temperature rise and deactivation
 margin — is in [Space Velocity Design](voc-space-velocity-design.md)
 - [Catalytic vs Thermal Oxidation](voc-catalytic-vs-thermal-oxidation.md) — choosing the route.
 - [Precious vs Non-Precious Metal](voc-precious-vs-non-precious.md) — chemistry, cost, lifecycle.
-- [Halogenated VOC Treatment](voc-halogenated-treatment.md) — what catalysts can and cannot do..
+- [Halogenated VOC Treatment](voc-halogenated-treatment.md)
+- [Coating & Paint Shops](voc-coating-industry.md) — concentration + oxidation architecture.
+- [Printing Industry](voc-printing-industry.md) — solvents, dryers, recovery economics. — what catalysts can and cannot do..
 
 ## 4. What kills VOC catalysts
 

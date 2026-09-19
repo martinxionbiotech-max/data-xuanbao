@@ -75,7 +75,9 @@ steam regeneration (solvent-recovery duty), or single-use replacement (honeycomb
 Cycle estimation and budget practice in
 [Replacement Cycles](activated-carbon-replacement-cycles.md)
 - [Capacity Calculation](activated-carbon-capacity-calculation.md) — isotherms, breakthrough, bed sizing.
-- [Regeneration](activated-carbon-regeneration.md) — steam desorption vs thermal reactivation..
+- [Regeneration](activated-carbon-regeneration.md)
+- [Flue Gas Treatment](activated-carbon-flue-gas-treatment.md) — mercury, dioxins, trace removal.
+- [Impregnated Carbon](activated-carbon-impregnated.md) — chemisorption for special species. — steam desorption vs thermal reactivation..
 
 ## 6. Zeolite vs activated carbon
 

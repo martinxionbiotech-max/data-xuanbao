@@ -2,11 +2,11 @@
 
 **Start here:** This knowledge center is the technical documentation hub of
 [Yancheng Xuanbao Environmental Technology Co., Ltd.](https://xuanbaoenvironment.com/) —
-structured as **seven pillar guides**, each supported by focused cluster articles.
+structured as **eight pillar guides**, each supported by focused cluster articles.
 Whether you are selecting a catalyst, troubleshooting a unit or writing a
 specification, start at the pillar that matches your pollutant or technology.
 
-## The seven pillars
+## The eight pillars
 
 ### 1. [SCR DeNOx: The Complete Guide](scr-denox/)
 
@@ -42,6 +42,11 @@ and the zeolite-vs-carbon decision.
 
 Standards, continuous monitoring and the audit-ready compliance record — China's
 ultra-low emission program, CEMS obligations and reporting discipline.
+
+### 8. [Testing & Analysis: The Complete Guide](testing/)
+
+The measurement backbone: catalyst activity evaluation, flue gas sampling,
+laboratory characterization and how to read test reports critically.
 
 ## How the knowledge is organized
 

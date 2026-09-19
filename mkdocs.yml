@@ -34,6 +34,8 @@ nav:
       - Reducing Agent Systems: scr-denox/scr-reducing-agent-systems.md
       - Volume Calculation: scr-denox/scr-catalyst-volume-calculation.md
       - Flow Distribution & CFD: scr-denox/scr-flow-distribution-cfd.md
+      - SNCR vs SCR: scr-denox/scr-sncr-comparison.md
+      - Cleaning & Maintenance: scr-denox/scr-cleaning-maintenance.md
   - CO Oxidation:
       - Complete Guide: co-oxidation/index.md
       - Catalyst Selection: co-oxidation/co-catalyst-selection.md
@@ -42,6 +44,8 @@ nav:
       - Reactor Bed Design: co-oxidation/co-reactor-bed-design.md
       - Exotherm Management: co-oxidation/co-exotherm-management.md
       - Catalyst Deactivation: co-oxidation/co-catalyst-deactivation.md
+      - Sintering Machine CO: co-oxidation/co-sintering-machine.md
+      - Waste Incineration CO: co-oxidation/co-waste-incineration.md
   - VOC Catalysts:
       - Complete Guide: voc-catalysts/index.md
       - Catalyst Selection: voc-catalysts/voc-catalyst-selection.md
@@ -51,6 +55,8 @@ nav:
       - Catalytic vs Thermal: voc-catalysts/voc-catalytic-vs-thermal-oxidation.md
       - Precious vs Non-Precious: voc-catalysts/voc-precious-vs-non-precious.md
       - Halogenated VOC Treatment: voc-catalysts/voc-halogenated-treatment.md
+      - Coating & Paint Shops: voc-catalysts/voc-coating-industry.md
+      - Printing Industry: voc-catalysts/voc-printing-industry.md
   - Molecular Sieves:
       - Complete Guide: molecular-sieves/index.md
       - Type Selection: molecular-sieves/molecular-sieve-type-selection.md
@@ -58,6 +64,8 @@ nav:
       - Concentration Wheels: molecular-sieves/zeolite-concentration-wheel.md
       - Adsorption Mechanism: molecular-sieves/molecular-sieve-adsorption-mechanism.md
       - Dehydration: molecular-sieves/molecular-sieve-dehydration.md
+      - Quality Indicators: molecular-sieves/molecular-sieve-quality-indicators.md
+      - VOC Treatment Roles: molecular-sieves/molecular-sieve-voc-treatment.md
   - Activated Carbon:
       - Complete Guide: activated-carbon/index.md
       - Quality Indicators: activated-carbon/activated-carbon-quality-indicators.md
@@ -65,6 +73,8 @@ nav:
       - Replacement Cycles: activated-carbon/activated-carbon-replacement-cycles.md
       - Capacity Calculation: activated-carbon/activated-carbon-capacity-calculation.md
       - Regeneration: activated-carbon/activated-carbon-regeneration.md
+      - Flue Gas Treatment: activated-carbon/activated-carbon-flue-gas-treatment.md
+      - Impregnated Carbon: activated-carbon/activated-carbon-impregnated.md
   - VOC Engineering:
       - Complete Guide: voc-engineering/index.md
       - Zeolite vs Activated Carbon: voc-engineering/zeolite-vs-activated-carbon.md
@@ -75,8 +85,17 @@ nav:
       - Emission Limits & Monitoring: voc-engineering/voc-emission-limits-monitoring.md
       - LEL Control & Process Safety: voc-engineering/voc-lel-process-safety.md
       - Energy Management: voc-engineering/voc-energy-management.md
+      - Combined Systems: voc-engineering/voc-combined-systems.md
+      - Wet Scrubbers: voc-engineering/voc-wet-scrubbers.md
   - Emission Compliance:
       - Complete Guide: compliance/index.md
       - China ULE Standards: compliance/china-ultra-low-emission-standards.md
       - CEMS & Monitoring: compliance/cems-continuous-monitoring.md
       - Reporting & Audit: compliance/compliance-reporting-audit.md
+      - EU IED & BREF: compliance/eu-ied-bref-standards.md
+  - Testing & Analysis:
+      - Complete Guide: testing/index.md
+      - Catalyst Activity Evaluation: testing/catalyst-activity-evaluation.md
+      - Flue Gas Sampling: testing/flue-gas-sampling.md
+      - Laboratory Characterization: testing/lab-characterization-methods.md
+      - Reading Test Reports: testing/reading-test-reports.md

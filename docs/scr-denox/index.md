@@ -107,7 +107,9 @@ characterization, simulation with the real gas, and in-situ field testing —
 - [Reactor Positioning](scr-reactor-positioning.md) — high-dust, low-dust and tail-end layouts.
 - [Reducing Agent Systems](scr-reducing-agent-systems.md) — anhydrous ammonia, aqueous ammonia, urea.
 - [Catalyst Volume Calculation](scr-catalyst-volume-calculation.md) — K, area velocity, layer management.
-- [Flow Distribution & CFD](scr-flow-distribution-cfd.md) — uniformity, AIG tuning, field verification..
+- [Flow Distribution & CFD](scr-flow-distribution-cfd.md)
+- [SNCR vs SCR](scr-sncr-comparison.md) — choosing the DeNOx route, hybrids, cost curves.
+- [Cleaning & Maintenance](scr-cleaning-maintenance.md) — sootblowing, ΔP monitoring, inspection. — uniformity, AIG tuning, field verification..
 
 ## 8. Quick reference: symptom → cause
 

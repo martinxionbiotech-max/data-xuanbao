@@ -60,7 +60,9 @@ Different industries impose different constraints — detailed in
 [Application Scenarios](co-application-scenarios.md)
 - [Reactor Bed Design](co-reactor-bed-design.md) — space velocity, pressure drop, module sealing.
 - [Exotherm Management](co-exotherm-management.md) — adiabatic rise, staging, heat recovery.
-- [Catalyst Deactivation](co-catalyst-deactivation.md) — sulfur, halogens, sintering, fouling.:
+- [Catalyst Deactivation](co-catalyst-deactivation.md)
+- [Sintering Machine CO Control](co-sintering-machine.md) — the hardest CO duty, field results.
+- [Waste Incineration CO Control](co-waste-incineration.md) — polishing after gas cleaning. — sulfur, halogens, sintering, fouling.:
 
 - **Sintering exhaust:** huge flow, moderate temperature, SO₂ + moisture + dust.
 - **Waste incineration:** dynamic CO spikes, HCl and heavy metals upstream.

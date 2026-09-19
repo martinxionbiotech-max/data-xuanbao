@@ -62,7 +62,9 @@ the poison pre-check — a few ppm of silicone kills RCO economics while an RTO
 ignores it. The full trade-off is in [RCO vs RTO](rco-vs-rto.md)
 - [Emission Limits & Monitoring](voc-emission-limits-monitoring.md) — permit expressions, CEMS, parametric data.
 - [LEL Control & Process Safety](voc-lel-process-safety.md) — flammable range, arrestors, interlocks.
-- [Energy Management](voc-energy-management.md) — heat recovery, self-sustaining operation..
+- [Energy Management](voc-energy-management.md)
+- [Combined Systems](voc-combined-systems.md) — chaining technologies, interface design.
+- [Wet Scrubbers](voc-wet-scrubbers.md) — what they can and cannot capture. — heat recovery, self-sustaining operation..
 
 ## 5. Adsorbent selection: zeolite vs carbon
 
