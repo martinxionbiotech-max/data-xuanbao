@@ -1,0 +1,37 @@
+site_name: Xuanbao Knowledge Center
+site_description: Industrial Emission Control Knowledge Center — SCR DeNOx, CO oxidation, VOC catalysts, zeolite molecular sieves and activated carbon technical documentation by Xuanbao Environmental Technology.
+site_url: https://data.xuanbaoenvironment.com
+site_author: Yancheng Xuanbao Environmental Technology Co., Ltd.
+copyright: © 2026 Yancheng Xuanbao Environmental Technology Co., Ltd.
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: green
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - SCR DeNOx:
+      - SCR Fundamentals: scr-denox/scr-fundamentals.md
+      - Plate vs Honeycomb SCR: scr-denox/plate-vs-honeycomb-scr.md
+      - SCR Catalyst Poisoning: scr-denox/scr-catalyst-poisoning.md
+  - CO Oxidation:
+      - CO Oxidation Fundamentals: co-oxidation/co-oxidation-fundamentals.md
+  - VOC Catalysts:
+      - VOC Catalytic Oxidation Guide: voc-catalysts/voc-catalytic-oxidation-guide.md
+      - VOC Catalyst Selection: voc-catalysts/voc-catalyst-selection.md
+  - Molecular Sieves:
+      - Zeolite Molecular Sieve Guide: molecular-sieves/zeolite-molecular-sieve-guide.md
+  - Activated Carbon:
+      - Activated Carbon Guide: activated-carbon/activated-carbon-guide.md
+  - VOC Engineering:
+      - Zeolite vs Activated Carbon for VOC: voc-engineering/zeolite-vs-activated-carbon.md
+      - VOC Adsorption Engineering: voc-engineering/voc-adsorption-engineering.md
