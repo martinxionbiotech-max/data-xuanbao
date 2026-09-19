@@ -1,5 +1,9 @@
 # VOC Treatment Technology Comparison: Adsorption, Oxidation, RTO/RCO and Wheels
 
+> **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** The VOC technology landscape sorts by concentration and flow:
 adsorption for low concentration and recovery, catalytic oxidation (RCO) for
 medium concentration with heat recovery, thermal oxidation (RTO) for high flow
@@ -47,6 +51,14 @@ continuous lines favour RTOs and wheels.
 We start from the species list and the flow-concentration pair, then shortlist
 technologies against duty pattern and available energy. Most selection errors
 come from choosing the technology before measuring the stream.
+
+## Related articles
+
+- [RCO vs RTO](rco-vs-rto.md)
+- [Zeolite vs Activated Carbon](zeolite-vs-activated-carbon.md)
+- [Adsorption Engineering](voc-adsorption-engineering.md)
+
+[← Back to the VOC Treatment Engineering: The Complete Guide](index.md)
 
 ## Related products
 

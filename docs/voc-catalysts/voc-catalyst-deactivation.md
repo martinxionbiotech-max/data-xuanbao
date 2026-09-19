@@ -1,5 +1,9 @@
 # VOC Catalyst Deactivation: Poisoning, Fouling and Aging
 
+> **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** VOC oxidation catalysts lose performance through chemical
 poisoning (sulfur, halogens, silicones, heavy metals), surface fouling (polymerized
 organics, particulates), and thermal aging (sintering, washcoat degradation). Most
@@ -61,6 +65,13 @@ The single most valuable document we receive is the stream's species-level VOC
 analysis. With it we can predict deactivation modes and design accordingly; without
 it, every catalyst is a gamble. We ask for it before quoting non-standard
 applications.
+
+## Related articles
+
+- [VOC Catalyst Selection](voc-catalyst-selection.md)
+- [Regeneration & Lifecycle](voc-catalyst-lifecycle.md)
+
+[← Back to the VOC Catalytic Oxidation: The Complete Guide](index.md)
 
 ## Related products
 

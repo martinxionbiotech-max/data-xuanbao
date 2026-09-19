@@ -1,5 +1,9 @@
 # SCR Catalyst Regeneration: When Washing Works and When It Doesn't
 
+> **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** SCR catalyst regeneration restores a significant part of lost activity
 by removing surface deposits — ammonium bisulfate, alkali salts and loosely bound ash.
 It works well against reversible fouling, poorly against arsenic poisoning and physical
@@ -65,6 +69,14 @@ trend, pressure drop trend — before recommending regeneration versus replaceme
 For fouling-dominated histories we support regeneration planning; for
 arsenic- or erosion-dominated histories we recommend straight replacement, because
 washing an irreversibly poisoned catalyst wastes an outage.
+
+## Related articles
+
+- [SCR Replacement](scr-catalyst-replacement.md)
+- [SCR Catalyst Poisoning](scr-catalyst-poisoning.md)
+- [Activity Testing](scr-activity-testing.md)
+
+[← Back to the SCR DeNOx: The Complete Guide](index.md)
 
 ## Related products
 

@@ -1,5 +1,9 @@
 # Plate-Type vs Honeycomb SCR Catalyst: How to Choose
 
+> **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Choose plate-type SCR catalysts for high-dust flue gas where plugging,
 erosion and pressure drop dominate; choose honeycomb SCR catalysts for low-to-medium dust
 positions where maximum catalytic surface per volume matters. The decision rests on dust
@@ -46,6 +50,14 @@ modules; honeycomb elements are packed into steel module frames.
   more reactor volume for the same catalytic surface.
 - High-cpsi honeycomb in dusty gas plugs and erodes quickly; the saved volume is paid back
   in maintenance.
+
+## Related articles
+
+- [SCR Catalyst Poisoning](scr-catalyst-poisoning.md)
+- [Ash, Erosion & Mechanical Life](scr-ash-erosion.md)
+- [Activity Testing](scr-activity-testing.md)
+
+[← Back to the SCR DeNOx: The Complete Guide](index.md)
 
 ## Related products
 

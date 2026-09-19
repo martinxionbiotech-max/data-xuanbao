@@ -1,5 +1,9 @@
 # Activated Carbon Fire Safety: Ignition, Exotherms and Design Limits
 
+> **Part of the [Activated Carbon for Gas Treatment: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Activated carbon beds can ignite — through external flame,
 self-heating from exothermic adsorption, or hot work during maintenance. The
 governing rules: keep the bed temperature well below ignition onset, control
@@ -55,6 +59,13 @@ We ask about ketone content and concentration peaks before specifying carbon for
 VOC duty, and we flag high-heat applications for zeolite or catalytic alternatives
 where the numbers make carbon marginal. Carbon is a safe, economical adsorbent
 within its design envelope — most incidents come from operating outside it.
+
+## Related articles
+
+- [Quality Indicators](activated-carbon-quality-indicators.md)
+- [Replacement Cycles](activated-carbon-replacement-cycles.md)
+
+[← Back to the Activated Carbon for Gas Treatment: The Complete Guide](index.md)
 
 ## Related products
 

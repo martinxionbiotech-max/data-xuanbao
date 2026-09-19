@@ -1,5 +1,9 @@
 # Fly Ash, Erosion and SCR Catalyst Mechanical Life
 
+> **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Fly ash attacks SCR catalysts mechanically — plugging channels,
 eroding walls and masking chemical activity — long before chemical deactivation ends
 the catalyst's useful life in many high-dust applications. Managing ash means choosing
@@ -57,6 +61,14 @@ We always ask for the dust concentration, ash analysis (abrasiveness, particle s
 and the velocity distribution measurement at the planned reactor location before
 recommending geometry. Ash management is designed in — a catalyst that is chemically
 perfect but mechanically wrong will fail early.
+
+## Related articles
+
+- [Plate vs Honeycomb SCR](plate-vs-honeycomb-scr.md)
+- [SCR Catalyst Poisoning](scr-catalyst-poisoning.md)
+- [SCR Replacement](scr-catalyst-replacement.md)
+
+[← Back to the SCR DeNOx: The Complete Guide](index.md)
 
 ## Related products
 

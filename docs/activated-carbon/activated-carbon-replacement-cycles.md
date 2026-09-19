@@ -1,5 +1,9 @@
 # Activated Carbon Replacement Cycles and Regeneration Options
 
+> **Part of the [Activated Carbon for Gas Treatment: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Activated carbon in VOC service typically reaches saturation in
 months, not years — replacement or regeneration is a routine operating cost, not a
 rare event. On-site thermal regeneration is rarely practical for small beds; most
@@ -57,6 +61,13 @@ to execute.
 We quote working capacity against the customer's actual VOC species and
 concentration — the same carbon lasts 6 months on one stream and 18 on another.
 Replacement planning belongs in the operating budget from day one.
+
+## Related articles
+
+- [Quality Indicators](activated-carbon-quality-indicators.md)
+- [Fire Safety](activated-carbon-fire-safety.md)
+
+[← Back to the Activated Carbon for Gas Treatment: The Complete Guide](index.md)
 
 ## Related products
 

@@ -1,5 +1,9 @@
 # RCO vs RTO: Catalytic or Thermal Oxidation?
 
+> **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** RCO (regenerative catalytic oxidation) destroys VOC over a
 catalyst at 250–400°C; RTO (regenerative thermal oxidation) destroys it in a
 ceramic heat-exchange bed at 750–850°C. RCO wins on fuel cost; RTO wins on
@@ -58,6 +62,13 @@ We ask for the species analysis and the dust loading before recommending either
 route, and we flag catalyst-poison risks explicitly. The correct answer for a
 clean coating line is often RCO; for a metallurgy or incineration stream it is
 usually RTO.
+
+## Related articles
+
+- [Technology Comparison](voc-technology-comparison.md)
+- [VOC Catalyst Selection](../voc-catalysts/voc-catalyst-selection.md)
+
+[← Back to the VOC Treatment Engineering: The Complete Guide](index.md)
 
 ## Related products
 

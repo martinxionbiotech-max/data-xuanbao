@@ -1,5 +1,9 @@
 # VOC Catalyst Selection: Pt, Pt-Pd or Non-Precious Metal?
 
+> **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Choose Pt (YC-XB-A) for standard mixed VOC streams over a wide
 temperature window; Pt-Pd (YC-XB-B) when lower light-off temperature or maximum conversion
 on difficult mixtures matters; Ag-Cu-Mn (YC-XB-C) for cost-sensitive, non-hydrocarbon
@@ -53,10 +57,18 @@ class — testing decides the final formulation.
   documentation; confirm against the current data sheet for commitments.
 - Mixed halogenated streams may require pre-treatment regardless of catalyst class.
 
+## Related articles
+
+- [VOC Catalyst Deactivation](voc-catalyst-deactivation.md)
+- [Regeneration & Lifecycle](voc-catalyst-lifecycle.md)
+- [Space Velocity Design](voc-space-velocity-design.md)
+
+[← Back to the VOC Catalytic Oxidation: The Complete Guide](index.md)
+
 ## Related products
 
 - [VOC Catalysts overview](https://xuanbaoenvironment.com/products/voc-catalysts/)
-- [VOC Catalytic Oxidation Guide](voc-catalytic-oxidation-guide.md)
+- [VOC Catalytic Oxidation: The Complete Guide](index.md)
 
 ## FAQ
 

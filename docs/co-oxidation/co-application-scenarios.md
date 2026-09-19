@@ -1,5 +1,9 @@
 # CO Oxidation Application Scenarios: Sintering, Incineration and Beyond
 
+> **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** CO oxidation catalysts appear wherever CO must be removed from
 oxygen-containing gas below the temperature where thermal oxidation is economical.
 The four largest scenarios are sintering machine exhaust, waste incineration,
@@ -66,6 +70,13 @@ Scenario dictates the guardrails, not the catalyst chemistry alone. We size from
 actual stream data per unit — temperature profile, CO range, moisture, SO₂ and duty
 pattern — because the same CO removal target leads to different designs in each
 scenario.
+
+## Related articles
+
+- [CO Catalyst Selection](co-catalyst-selection.md)
+- [Light-Off Temperature](co-light-off-temperature.md)
+
+[← Back to the CO Oxidation: The Complete Guide](index.md)
 
 ## Related products
 

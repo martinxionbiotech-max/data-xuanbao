@@ -1,5 +1,9 @@
 # Zeolite vs Activated Carbon for VOC Adsorption: An Engineering Comparison
 
+> **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Neither material is universally better. Activated carbon offers high
 capacity at low capital cost but is combustible and limited in desorption temperature;
 zeolite is non-combustible, tolerates high-temperature regeneration, but costs more
@@ -48,8 +52,8 @@ we run adsorption tests on your actual stream before final selection.
 
 ## Related articles
 
-- [Zeolite Molecular Sieve Guide](../molecular-sieves/zeolite-molecular-sieve-guide.md)
-- [Activated Carbon Guide](../activated-carbon/activated-carbon-guide.md)
+- [Zeolite Molecular Sieves: The Complete Guide](../molecular-sieves/index.md)
+- [Activated Carbon: The Complete Guide](../activated-carbon/index.md)
 - [VOC Adsorption Engineering](voc-adsorption-engineering.md)
 
 ## FAQ
@@ -58,3 +62,10 @@ we run adsorption tests on your actual stream before final selection.
 Rarely one-to-one: zeolite adsorption concentration usually uses honeycomb blocks or a
 rotor, not granular beds, and the desorption loop operates at higher temperature.
 A retrofit needs system-level review.
+
+## Related articles
+
+- [Adsorption Bed Design](voc-adsorption-bed-design.md)
+- [Technology Comparison](voc-technology-comparison.md)
+
+[← Back to the VOC Treatment Engineering: The Complete Guide](index.md)

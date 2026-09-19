@@ -1,5 +1,9 @@
 # Ammonia Slip Control in SCR Systems
 
+> **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Ammonia slip — unreacted NH₃ leaving the SCR reactor — is controlled
 by correct NH₃/NOx ratio management, even ammonia distribution across the duct, and
 adequate catalyst activity. It is the key constraint that balances NOx removal against
@@ -54,6 +58,14 @@ catalyst quality.
 When a plant reports high slip, we first ask for the inlet NOx distribution and the
 AIG tuning history — catalyst replacement is the last resort, not the first. A new
 catalyst behind a badly tuned AIG will slip ammonia from day one.
+
+## Related articles
+
+- [SCR Catalyst Poisoning](scr-catalyst-poisoning.md)
+- [SCR Replacement](scr-catalyst-replacement.md)
+- [Activity Testing](scr-activity-testing.md)
+
+[← Back to the SCR DeNOx: The Complete Guide](index.md)
 
 ## Related products
 

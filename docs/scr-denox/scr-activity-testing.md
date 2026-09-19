@@ -1,5 +1,9 @@
 # SCR Catalyst Activity Testing: From Lab Sample to Field Verification
 
+> **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** SCR catalyst activity is quantified as the NOx conversion achieved
 at defined temperature, space velocity and NH₃/NOx ratio — expressed as activity K
 (area or volume based). Testing happens in three tiers: laboratory characterization,
@@ -56,6 +60,14 @@ requirements.
 We provide activity curves and the test conditions behind them, and we strongly
 recommend simulation testing with the customer's own gas before large orders. Data
 with hidden test conditions is worse than no data — it leads to undersized reactors.
+
+## Related articles
+
+- [SCR Regeneration](scr-catalyst-regeneration.md)
+- [SCR Replacement](scr-catalyst-replacement.md)
+- [SCR Catalyst Poisoning](scr-catalyst-poisoning.md)
+
+[← Back to the SCR DeNOx: The Complete Guide](index.md)
 
 ## Related products
 

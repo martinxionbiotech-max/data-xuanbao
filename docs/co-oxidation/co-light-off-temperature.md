@@ -1,5 +1,9 @@
 # CO Oxidation Light-Off Temperature: T50 and T90 Explained
 
+> **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** The light-off temperature is the temperature at which a CO
 oxidation catalyst becomes effective — conventionally quoted as T50 and T90, the
 temperatures where 50% and 90% CO conversion are reached under defined test
@@ -54,6 +58,13 @@ operating point. Periodic light-off measurement is a cheap, sensitive health che
 We quote light-off with the test gas specification and recommend margin: choose and
 size so that the normal operating temperature is at least 20–40°C above the expected
 T90 under the real gas — more if the stream is intermittent or SO₂ is present.
+
+## Related articles
+
+- [CO Catalyst Selection](co-catalyst-selection.md)
+- [Application Scenarios](co-application-scenarios.md)
+
+[← Back to the CO Oxidation: The Complete Guide](index.md)
 
 ## Related products
 

@@ -1,5 +1,9 @@
 # Space Velocity and Contact Time in VOC Oxidation Design
 
+> **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Space velocity (GHSV) is the gas flow rate per catalyst volume per
 hour — the inverse of contact time. It is the primary sizing parameter for VOC
 oxidation reactors: typical designs run 10,000–30,000 h⁻¹, with the exact value set
@@ -54,6 +58,13 @@ The reaction heat is proportional to inlet VOC concentration:
 We size with the species list and the flow range, then verify with simulation
 testing on the customer's actual gas when the stream is non-standard. A design that
 is correct at one flow rate but fails at another is not a correct design.
+
+## Related articles
+
+- [VOC Catalyst Selection](voc-catalyst-selection.md)
+- [Regeneration & Lifecycle](voc-catalyst-lifecycle.md)
+
+[← Back to the VOC Catalytic Oxidation: The Complete Guide](index.md)
 
 ## Related products
 

@@ -1,5 +1,9 @@
 # CO Oxidation Catalyst Selection: Precious Metal vs Base Metal
 
+> **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** CO oxidation catalyst selection balances operating temperature,
 gas composition and budget. Precious-metal catalysts (Pt, Pd) win at low temperature
 and high activity density; base-metal (hopcalite-type) systems cost less and tolerate
@@ -63,6 +67,13 @@ The most common sizing mistake is selecting on CO concentration alone. We ask fo
 full stream — CO, O₂, moisture, SO₂, temperature range, flow and duty pattern —
 because a catalyst that lights off at 150°C in dry clean gas may never light off in
 the real stream.
+
+## Related articles
+
+- [Light-Off Temperature](co-light-off-temperature.md)
+- [Application Scenarios](co-application-scenarios.md)
+
+[← Back to the CO Oxidation: The Complete Guide](index.md)
 
 ## Related products
 

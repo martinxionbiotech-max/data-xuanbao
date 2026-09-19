@@ -20,38 +20,39 @@ plugins:
 nav:
   - Home: index.md
   - SCR DeNOx:
-      - SCR Fundamentals: scr-denox/scr-fundamentals.md
-      - Plate vs Honeycomb SCR: scr-denox/plate-vs-honeycomb-scr.md
-      - SCR Catalyst Poisoning: scr-denox/scr-catalyst-poisoning.md
-      - SCR Regeneration: scr-denox/scr-catalyst-regeneration.md
-      - SCR Replacement: scr-denox/scr-catalyst-replacement.md
-      - Ammonia Slip Control: scr-denox/scr-ammonia-slip-control.md
-      - Ash, Erosion & Mechanical Life: scr-denox/scr-ash-erosion.md
+      - Complete Guide: scr-denox/index.md
+      - Plate vs Honeycomb: scr-denox/plate-vs-honeycomb-scr.md
+      - Poisoning: scr-denox/scr-catalyst-poisoning.md
+      - Regeneration: scr-denox/scr-catalyst-regeneration.md
+      - Replacement: scr-denox/scr-catalyst-replacement.md
+      - Ammonia Slip: scr-denox/scr-ammonia-slip-control.md
+      - Ash & Erosion: scr-denox/scr-ash-erosion.md
       - Activity Testing: scr-denox/scr-activity-testing.md
   - CO Oxidation:
-      - CO Oxidation Fundamentals: co-oxidation/co-oxidation-fundamentals.md
-      - CO Catalyst Selection: co-oxidation/co-catalyst-selection.md
+      - Complete Guide: co-oxidation/index.md
+      - Catalyst Selection: co-oxidation/co-catalyst-selection.md
       - Light-Off Temperature: co-oxidation/co-light-off-temperature.md
       - Application Scenarios: co-oxidation/co-application-scenarios.md
   - VOC Catalysts:
-      - VOC Catalytic Oxidation Guide: voc-catalysts/voc-catalytic-oxidation-guide.md
-      - VOC Catalyst Selection: voc-catalysts/voc-catalyst-selection.md
-      - VOC Catalyst Deactivation: voc-catalysts/voc-catalyst-deactivation.md
+      - Complete Guide: voc-catalysts/index.md
+      - Catalyst Selection: voc-catalysts/voc-catalyst-selection.md
+      - Deactivation: voc-catalysts/voc-catalyst-deactivation.md
       - Regeneration & Lifecycle: voc-catalysts/voc-catalyst-lifecycle.md
       - Space Velocity Design: voc-catalysts/voc-space-velocity-design.md
   - Molecular Sieves:
-      - Zeolite Molecular Sieve Guide: molecular-sieves/zeolite-molecular-sieve-guide.md
+      - Complete Guide: molecular-sieves/index.md
       - Type Selection: molecular-sieves/molecular-sieve-type-selection.md
       - Regeneration: molecular-sieves/molecular-sieve-regeneration.md
       - Concentration Wheels: molecular-sieves/zeolite-concentration-wheel.md
   - Activated Carbon:
-      - Activated Carbon Guide: activated-carbon/activated-carbon-guide.md
+      - Complete Guide: activated-carbon/index.md
       - Quality Indicators: activated-carbon/activated-carbon-quality-indicators.md
       - Fire Safety: activated-carbon/activated-carbon-fire-safety.md
       - Replacement Cycles: activated-carbon/activated-carbon-replacement-cycles.md
   - VOC Engineering:
-      - Zeolite vs Activated Carbon for VOC: voc-engineering/zeolite-vs-activated-carbon.md
-      - VOC Adsorption Engineering: voc-engineering/voc-adsorption-engineering.md
+      - Complete Guide: voc-engineering/index.md
+      - Zeolite vs Activated Carbon: voc-engineering/zeolite-vs-activated-carbon.md
+      - Adsorption Engineering: voc-engineering/voc-adsorption-engineering.md
       - Technology Comparison: voc-engineering/voc-technology-comparison.md
       - Adsorption Bed Design: voc-engineering/voc-adsorption-bed-design.md
       - RCO vs RTO: voc-engineering/rco-vs-rto.md

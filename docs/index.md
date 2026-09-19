@@ -1,38 +1,54 @@
-# Industrial Emission Control Knowledge Center
+# Xuanbao Industrial Emission Control Knowledge Center
 
-**Official technical documentation by Yancheng Xuanbao Environmental Technology Co., Ltd.**
+**Start here:** This knowledge center is the technical documentation hub of
+[Yancheng Xuanbao Environmental Technology Co., Ltd.](https://xuanbaoenvironment.com/) —
+structured as **six pillar guides**, each supported by focused cluster articles.
+Whether you are selecting a catalyst, troubleshooting a unit or writing a
+specification, start at the pillar that matches your pollutant or technology.
 
-This knowledge center publishes technical documentation for industrial emission control materials:
-SCR DeNOx catalysts, CO oxidation catalysts, VOC oxidation catalysts, zeolite molecular sieves and
-activated carbon.
+## The six pillars
 
-## What this site covers
+### 1. [SCR DeNOx: The Complete Guide](scr-denox/)
 
-| Category | Topics |
-|---|---|
-| **SCR DeNOx** | SCR fundamentals, plate vs honeycomb structures, operating temperature, catalyst poisoning, regeneration and replacement |
-| **CO Oxidation** | CO oxidation chemistry, light-off temperature, SO₂ / water / alkali effects, service life |
-| **VOC Catalysts** | Catalytic oxidation principles, T50/T90, space velocity, Pt / Pd / Pt-Pd / non-precious-metal systems, selection |
-| **Molecular Sieves** | 3A / 4A / 5A / 13X / NaY / ZSM-5, pore structure, BET, adsorption selectivity, regeneration |
-| **Activated Carbon** | Honeycomb / columnar / coconut-shell / fiber, iodine value, CCl₄ adsorption, fire safety, replacement |
-| **VOC Engineering** | Adsorption concentration, LEL, humidity, pressure drop, heat recovery, zeolite vs activated carbon |
+NOx removal with ammonia over vanadium-based catalysts: chemistry, plate vs
+honeycomb, poisoning, regeneration, replacement, ammonia slip and activity
+testing. For power, steel, cement, glass and incineration flue gas.
 
-## Who should use this documentation
+### 2. [CO Oxidation: The Complete Guide](co-oxidation/)
 
-- **Plant engineers** selecting catalysts or adsorbents for specific gas conditions
-- **EPC contractors** designing SCR, CO removal or VOC treatment systems
-- **Purchasing teams** evaluating material specifications and suppliers
-- **Environmental consultants** comparing treatment technologies
+Carbon monoxide removal at 150–350°C: precious-metal vs base-metal catalysts,
+light-off temperature and the four application scenarios.
 
-## Data principles
+### 3. [VOC Catalytic Oxidation: The Complete Guide](voc-catalysts/)
 
-- Data is classified as **manufacturer specification**, **typical value**, **test result** or
-  **design value** — each article states which class a number belongs to.
-- Test results reference the documented field test (see the main website case studies).
-- Where original documentation contains unit or OCR ambiguities, we mark the value accordingly
-  instead of silently republishing it.
+VOC destruction at 200–450°C: Pt / Pt-Pd / non-precious-metal systems,
+deactivation, lifecycle management and space velocity design.
 
-## Main website
+### 4. [Zeolite Molecular Sieves: The Complete Guide](molecular-sieves/)
 
-Product pages, solutions, industries and case studies are published on the main website:
-[xuanbaoenvironment.com](https://xuanbaoenvironment.com)
+Size-selective adsorption: 3A/4A/5A/13X/NaY/ZSM-5 selection, regeneration and
+concentration wheels.
+
+### 5. [Activated Carbon for Gas Treatment: The Complete Guide](activated-carbon/)
+
+The workhorse adsorbent: quality indicators, fire safety and replacement cycles.
+
+### 6. [VOC Treatment Engineering: The Complete Guide](voc-engineering/)
+
+System-level design: technology comparison, adsorption bed design, RCO vs RTO
+and the zeolite-vs-carbon decision.
+
+## How the knowledge is organized
+
+Every pillar answers the complete topic in one place — principle, parameters,
+selection path, failure modes and a quick-reference table. Each cluster article
+goes deep on one aspect and links back to its pillar. Articles follow the same
+structure: direct answer first, engineering detail in the middle, manufacturer
+perspective and related products at the end.
+
+## Data practice
+
+This knowledge center distinguishes data types explicitly: manufacturer
+specifications, typical values, test results and design values. Wherever the
+source documents contain OCR-derived or unverified figures, the value is marked
+and should be confirmed before use in engineering decisions.

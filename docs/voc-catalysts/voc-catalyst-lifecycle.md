@@ -1,5 +1,9 @@
 # VOC Catalyst Regeneration and Lifecycle Management
 
+> **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** VOC oxidation catalysts typically deliver 2–5 years of service
 before replacement, depending on duty. In-situ regeneration — thermal burn-off of
 carbonaceous fouling — extends life against polymerization deposits, but it cannot
@@ -60,6 +64,13 @@ We provide the expected life range for the actual duty, not a generic number, an
 recommend storing a reference sample of the fresh catalyst — comparing a used sample
 against it in the laboratory gives an unambiguous deactivation diagnosis before
 making regeneration or replacement decisions.
+
+## Related articles
+
+- [VOC Catalyst Deactivation](voc-catalyst-deactivation.md)
+- [Space Velocity Design](voc-space-velocity-design.md)
+
+[← Back to the VOC Catalytic Oxidation: The Complete Guide](index.md)
 
 ## Related products
 

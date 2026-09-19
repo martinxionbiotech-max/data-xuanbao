@@ -1,5 +1,9 @@
 # VOC Adsorption Bed Design: Velocity, Bed Depth and Breakthrough
 
+> **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** A VOC adsorption bed is defined by four design numbers — face
 velocity, bed depth, contact time and breakthrough criterion. Typical designs run
 0.2–0.5 m/s face velocity and 0.3–1.0 m bed depth for granular carbon, giving
@@ -57,6 +61,13 @@ We size from isotherm data at the actual humidity and temperature, not from dry
 catalogue capacity, and we always check the MTZ depth. A bed that looks correct
 on total mass but is too shallow fails early — the most common design error we
 see in inquiries.
+
+## Related articles
+
+- [Adsorption Engineering](voc-adsorption-engineering.md)
+- [Zeolite vs Activated Carbon](zeolite-vs-activated-carbon.md)
+
+[← Back to the VOC Treatment Engineering: The Complete Guide](index.md)
 
 ## Related products
 

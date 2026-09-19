@@ -1,5 +1,9 @@
 # SCR Catalyst Replacement: How to Decide When to Change
 
+> **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Replace an SCR catalyst when it can no longer hold the required NOx
 removal at acceptable NH₃ slip, when pressure drop becomes economically prohibitive,
 or when mechanical failure risk outweighs continued operation. The decision rests on
@@ -58,6 +62,14 @@ original one. The questions that matter: what is the fuel now, what is the measu
 conversion and slip at full load today, what does the pressure drop trend look like,
 and what outage window is available. From there we can decide between regeneration,
 partial layer replacement and full replacement.
+
+## Related articles
+
+- [SCR Regeneration](scr-catalyst-regeneration.md)
+- [SCR Catalyst Poisoning](scr-catalyst-poisoning.md)
+- [Ammonia Slip Control](scr-ammonia-slip-control.md)
+
+[← Back to the SCR DeNOx: The Complete Guide](index.md)
 
 ## Related products
 

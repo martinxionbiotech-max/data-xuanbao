@@ -1,5 +1,9 @@
 # Zeolite Concentration Wheels for VOC Treatment
 
+> **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** A zeolite concentration wheel (rotor) adsorbs VOC from a
 large-volume, low-concentration air stream and releases it into a small-volume,
 high-concentration desorption stream — concentrating the VOC 5–20 times so a
@@ -61,6 +65,14 @@ We ask for the species-level VOC list, the concentration range and the flow
 profile before recommending a wheel-based line. The decision between direct
 oxidation, adsorption beds and wheel + oxidizer is made on these numbers, not on
 vendor preference.
+
+## Related articles
+
+- [Type Selection](molecular-sieve-type-selection.md)
+- [Regeneration](molecular-sieve-regeneration.md)
+- [Zeolite vs Activated Carbon for VOC](../voc-engineering/zeolite-vs-activated-carbon.md)
+
+[← Back to the Zeolite Molecular Sieves: The Complete Guide](index.md)
 
 ## Related products
 

@@ -1,5 +1,9 @@
 # SCR Catalyst Poisoning: Arsenic, Alkali Metals and SO₂ Effects
 
+> **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** SCR catalysts lose activity mainly through three mechanisms: arsenic
 deposition (gas-phase As₂O₃ plugging pores), alkali metal neutralization of acid sites
 (K, Na from fly ash), and SO₂/SO₃ effects including ammonium bisulfate fouling. Each
@@ -53,6 +57,14 @@ indicates plugging.
 We ask for the full coal/fuel analysis (arsenic, alkali, sulfur) before sizing, because
 the same NOx removal target can require 20–40% more catalyst volume on a high-poisoning
 fuel. This is a material-selection decision, not a marketing one.
+
+## Related articles
+
+- [SCR Regeneration](scr-catalyst-regeneration.md)
+- [SCR Replacement](scr-catalyst-replacement.md)
+- [Ash, Erosion & Mechanical Life](scr-ash-erosion.md)
+
+[← Back to the SCR DeNOx: The Complete Guide](index.md)
 
 ## Related products
 

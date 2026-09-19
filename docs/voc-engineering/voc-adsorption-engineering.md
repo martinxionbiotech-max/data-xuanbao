@@ -1,5 +1,9 @@
 # VOC Adsorption Engineering: Concentration, Humidity, Pressure Drop and Heat Recovery
 
+> **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Effective VOC adsorption engineering starts from four numbers —
 concentration, flow rate, humidity and temperature — and then balances working capacity,
 pressure drop, fan energy, desorption energy and heat recovery. Getting any one of the
@@ -60,6 +64,13 @@ technical logic we design around:
 We ask for flow, concentration, temperature, humidity, SO₂ and dust before proposing
 a route. The same plant with 80% RH instead of 50% can flip the recommendation from
 carbon to zeolite — that is how material decisions are made here.
+
+## Related articles
+
+- [Adsorption Bed Design](voc-adsorption-bed-design.md)
+- [Technology Comparison](voc-technology-comparison.md)
+
+[← Back to the VOC Treatment Engineering: The Complete Guide](index.md)
 
 ## Related products
 

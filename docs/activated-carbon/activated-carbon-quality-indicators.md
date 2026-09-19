@@ -1,5 +1,9 @@
 # Activated Carbon Quality Indicators: Iodine, CTC and Beyond
 
+> **Part of the [Activated Carbon for Gas Treatment: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Activated carbon quality is judged by adsorption capacity
 indicators — iodine value (micropores, general activity), CCl₄ (CTC) adsorption
 (pore structure benchmark), methylene blue (mesopores), specific surface area (BET)
@@ -58,6 +62,13 @@ We quote the indicator set per product grade with the test standard behind each
 number, and we recommend dynamic adsorption testing against the actual pollutant
 for non-standard applications — static indicators are screening tools, not
 guarantees.
+
+## Related articles
+
+- [Fire Safety](activated-carbon-fire-safety.md)
+- [Replacement Cycles](activated-carbon-replacement-cycles.md)
+
+[← Back to the Activated Carbon for Gas Treatment: The Complete Guide](index.md)
 
 ## Related products
 

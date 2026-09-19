@@ -1,5 +1,9 @@
 # Molecular Sieve Type Selection: 3A, 4A, 5A, 13X, NaY and ZSM-5
 
+> **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.
+>
+
+
 **Direct answer:** Molecular sieve selection follows the size and polarity of the
 molecules to be handled: 3A for drying small polar molecules, 4A for general drying
 and CO₂, 5A for straight-chain hydrocarbons, 13X and NaY for larger molecules and
@@ -49,6 +53,13 @@ We ask for the complete stream composition before recommending a type — the
 unwritten rule of sieve selection is that the co-adsorbing components decide as
 much as the target. A stream with 3% water changes the answer for VOC adsorption
 completely.
+
+## Related articles
+
+- [Regeneration](molecular-sieve-regeneration.md)
+- [Concentration Wheels](zeolite-concentration-wheel.md)
+
+[← Back to the Zeolite Molecular Sieves: The Complete Guide](index.md)
 
 ## Related products
 
