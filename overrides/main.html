@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://xuanbaoenvironment.com/#organization",
+    "name": "Yancheng Xuanbao Environmental Technology Co., Ltd.",
+    "alternateName": "Xuanbao Environmental Technology",
+    "url": "https://xuanbaoenvironment.com",
+    "sameAs": [
+      "https://data.xuanbaoenvironment.com"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://data.xuanbaoenvironment.com/#website",
+    "name": "Xuanbao Industrial Emission Control Knowledge Center",
+    "url": "https://data.xuanbaoenvironment.com",
+    "inLanguage": "en",
+    "publisher": {
+      "@id": "https://xuanbaoenvironment.com/#organization"
+    }
+  }
+  </script>
+  {% if page and page.url and page.url != '' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": "{{ page.title | replace('"', '\\"') }}",
+    "url": "{{ page.canonical_url }}",
+    "inLanguage": "en",
+    "dateModified": "2026-09-19",
+    "publisher": {
+      "@id": "https://xuanbaoenvironment.com/#organization"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.canonical_url }}"
+    }
+  }
+  </script>
+  {% endif %}
+{% endblock %}

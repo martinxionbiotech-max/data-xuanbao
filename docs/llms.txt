@@ -1,0 +1,58 @@
+# Xuanbao Industrial Emission Control Knowledge Center
+
+> Technical documentation by Yancheng Xuanbao Environmental Technology Co., Ltd.
+> Structured as six pillar guides with supporting cluster articles: SCR DeNOx,
+> CO oxidation, VOC catalytic oxidation, zeolite molecular sieves, activated
+> carbon and VOC treatment engineering. Main site: xuanbaoenvironment.com.
+
+## Pillar guides
+
+- [SCR DeNOx: The Complete Guide](https://data.xuanbaoenvironment.com/scr-denox/): chemistry, plate vs honeycomb, parameters, poisoning, regeneration, replacement.
+- [CO Oxidation: The Complete Guide](https://data.xuanbaoenvironment.com/co-oxidation/): catalyst families, light-off, application scenarios.
+- [VOC Catalytic Oxidation: The Complete Guide](https://data.xuanbaoenvironment.com/voc-catalysts/): Pt/Pt-Pd/non-precious systems, deactivation, lifecycle, space velocity.
+- [Zeolite Molecular Sieves: The Complete Guide](https://data.xuanbaoenvironment.com/molecular-sieves/): type selection, regeneration, concentration wheels.
+- [Activated Carbon: The Complete Guide](https://data.xuanbaoenvironment.com/activated-carbon/): quality indicators, fire safety, replacement cycles.
+- [VOC Treatment Engineering: The Complete Guide](https://data.xuanbaoenvironment.com/voc-engineering/): technology comparison, bed design, RCO vs RTO.
+
+## SCR DeNOx articles
+
+- [Plate vs Honeycomb SCR](https://data.xuanbaoenvironment.com/scr-denox/plate-vs-honeycomb-scr/)
+- [SCR Catalyst Poisoning](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-poisoning/)
+- [SCR Catalyst Regeneration](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-regeneration/)
+- [SCR Catalyst Replacement](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-replacement/)
+- [Ammonia Slip Control](https://data.xuanbaoenvironment.com/scr-denox/scr-ammonia-slip-control/)
+- [Ash, Erosion & Mechanical Life](https://data.xuanbaoenvironment.com/scr-denox/scr-ash-erosion/)
+- [SCR Activity Testing](https://data.xuanbaoenvironment.com/scr-denox/scr-activity-testing/)
+
+## CO Oxidation articles
+
+- [CO Catalyst Selection](https://data.xuanbaoenvironment.com/co-oxidation/co-catalyst-selection/)
+- [Light-Off Temperature](https://data.xuanbaoenvironment.com/co-oxidation/co-light-off-temperature/)
+- [Application Scenarios](https://data.xuanbaoenvironment.com/co-oxidation/co-application-scenarios/)
+
+## VOC Catalyst articles
+
+- [VOC Catalyst Selection](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-selection/)
+- [VOC Catalyst Deactivation](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-deactivation/)
+- [VOC Catalyst Regeneration & Lifecycle](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-lifecycle/)
+- [Space Velocity Design](https://data.xuanbaoenvironment.com/voc-catalysts/voc-space-velocity-design/)
+
+## Molecular Sieve articles
+
+- [Type Selection](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-type-selection/)
+- [Regeneration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-regeneration/)
+- [Zeolite Concentration Wheels](https://data.xuanbaoenvironment.com/molecular-sieves/zeolite-concentration-wheel/)
+
+## Activated Carbon articles
+
+- [Quality Indicators](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-quality-indicators/)
+- [Fire Safety](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-fire-safety/)
+- [Replacement Cycles](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-replacement-cycles/)
+
+## VOC Engineering articles
+
+- [Technology Comparison](https://data.xuanbaoenvironment.com/voc-engineering/voc-technology-comparison/)
+- [Zeolite vs Activated Carbon](https://data.xuanbaoenvironment.com/voc-engineering/zeolite-vs-activated-carbon/)
+- [Adsorption Engineering](https://data.xuanbaoenvironment.com/voc-engineering/voc-adsorption-engineering/)
+- [Adsorption Bed Design](https://data.xuanbaoenvironment.com/voc-engineering/voc-adsorption-bed-design/)
+- [RCO vs RTO](https://data.xuanbaoenvironment.com/voc-engineering/rco-vs-rto/)
