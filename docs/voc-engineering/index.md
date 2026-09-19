@@ -59,7 +59,10 @@ concept are in [Adsorption Bed Design](voc-adsorption-bed-design.md).
 Catalytic oxidation (RCO) destroys VOC at 250–400°C; thermal oxidation (RTO) at
 750–850°C. RCO wins on fuel cost; RTO wins on robustness. The decision hinges on
 the poison pre-check — a few ppm of silicone kills RCO economics while an RTO
-ignores it. The full trade-off is in [RCO vs RTO](rco-vs-rto.md).
+ignores it. The full trade-off is in [RCO vs RTO](rco-vs-rto.md)
+- [Emission Limits & Monitoring](voc-emission-limits-monitoring.md) — permit expressions, CEMS, parametric data.
+- [LEL Control & Process Safety](voc-lel-process-safety.md) — flammable range, arrestors, interlocks.
+- [Energy Management](voc-energy-management.md) — heat recovery, self-sustaining operation..
 
 ## 5. Adsorbent selection: zeolite vs carbon
 

@@ -102,7 +102,12 @@ measured sequence — [Regeneration](scr-catalyst-regeneration.md) and
 Catalyst activity is quantified as the activity K (m/h), derived from conversion at
 defined space velocity. Verification runs in three tiers: laboratory
 characterization, simulation with the real gas, and in-situ field testing —
-[Activity Testing](scr-activity-testing.md).
+[Activity Testing](scr-activity-testing.md)
+- [Low-Temperature SCR](scr-low-temperature-catalyst.md) — 160–250°C operation, ABS control, formulation choices.
+- [Reactor Positioning](scr-reactor-positioning.md) — high-dust, low-dust and tail-end layouts.
+- [Reducing Agent Systems](scr-reducing-agent-systems.md) — anhydrous ammonia, aqueous ammonia, urea.
+- [Catalyst Volume Calculation](scr-catalyst-volume-calculation.md) — K, area velocity, layer management.
+- [Flow Distribution & CFD](scr-flow-distribution-cfd.md) — uniformity, AIG tuning, field verification..
 
 ## 8. Quick reference: symptom → cause
 

@@ -2,11 +2,11 @@
 
 **Start here:** This knowledge center is the technical documentation hub of
 [Yancheng Xuanbao Environmental Technology Co., Ltd.](https://xuanbaoenvironment.com/) —
-structured as **six pillar guides**, each supported by focused cluster articles.
+structured as **seven pillar guides**, each supported by focused cluster articles.
 Whether you are selecting a catalyst, troubleshooting a unit or writing a
 specification, start at the pillar that matches your pollutant or technology.
 
-## The six pillars
+## The seven pillars
 
 ### 1. [SCR DeNOx: The Complete Guide](scr-denox/)
 
@@ -37,6 +37,11 @@ The workhorse adsorbent: quality indicators, fire safety and replacement cycles.
 
 System-level design: technology comparison, adsorption bed design, RCO vs RTO
 and the zeolite-vs-carbon decision.
+
+### 7. [Emission Compliance: The Complete Guide](compliance/)
+
+Standards, continuous monitoring and the audit-ready compliance record — China's
+ultra-low emission program, CEMS obligations and reporting discipline.
 
 ## How the knowledge is organized
 

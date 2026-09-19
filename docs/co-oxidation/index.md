@@ -57,7 +57,10 @@ are covered in [Light-Off Temperature](co-light-off-temperature.md).
 ## 5. The four application scenarios
 
 Different industries impose different constraints — detailed in
-[Application Scenarios](co-application-scenarios.md):
+[Application Scenarios](co-application-scenarios.md)
+- [Reactor Bed Design](co-reactor-bed-design.md) — space velocity, pressure drop, module sealing.
+- [Exotherm Management](co-exotherm-management.md) — adiabatic rise, staging, heat recovery.
+- [Catalyst Deactivation](co-catalyst-deactivation.md) — sulfur, halogens, sintering, fouling.:
 
 - **Sintering exhaust:** huge flow, moderate temperature, SO₂ + moisture + dust.
 - **Waste incineration:** dynamic CO spikes, HCl and heavy metals upstream.

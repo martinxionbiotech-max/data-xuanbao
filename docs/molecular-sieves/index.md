@@ -64,7 +64,9 @@ A zeolite rotor adsorbs VOC from a large, dilute air stream and releases it into
 a small, hot desorption stream — concentrating VOC 5–20× so a downstream oxidizer
 becomes affordable. Zeolites (not carbon) survive the hot desorption cycle and
 cannot burn. Rotor design, limits and the species that foul wheels are covered in
-[Concentration Wheels](zeolite-concentration-wheel.md).
+[Concentration Wheels](zeolite-concentration-wheel.md)
+- [Adsorption Mechanism](molecular-sieve-adsorption-mechanism.md) — pore selectivity, working capacity.
+- [Dehydration](molecular-sieve-dehydration.md) — drying gas streams below dew point..
 
 ## 6. Zeolite vs activated carbon for VOC
 

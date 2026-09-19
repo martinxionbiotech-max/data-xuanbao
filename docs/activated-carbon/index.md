@@ -73,7 +73,9 @@ Carbon beds saturate in months — replacement is a routine operating cost.
 Routes: off-site thermal reactivation (standard for granular/columnar), on-site
 steam regeneration (solvent-recovery duty), or single-use replacement (honeycomb).
 Cycle estimation and budget practice in
-[Replacement Cycles](activated-carbon-replacement-cycles.md).
+[Replacement Cycles](activated-carbon-replacement-cycles.md)
+- [Capacity Calculation](activated-carbon-capacity-calculation.md) — isotherms, breakthrough, bed sizing.
+- [Regeneration](activated-carbon-regeneration.md) — steam desorption vs thermal reactivation..
 
 ## 6. Zeolite vs activated carbon
 
