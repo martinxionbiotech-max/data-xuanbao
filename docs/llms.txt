@@ -22,6 +22,11 @@
 
 ## Activated Carbon articles
 
+- [Raw Materials Comparison](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-raw-materials/)
+- [Adsorption Mechanism](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-adsorption-mechanism/)
+- [Humidity & Temperature Effects](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-humidity-temperature/)
+- [Breakthrough Curves](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-breakthrough-curves/)
+- [CTC & Methylene Blue Tests](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-ctc-methylene-blue/)
 - [Quality Indicators](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-quality-indicators/)
 - [Capacity Calculation](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-capacity-calculation/)
 - [Replacement Cycles](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-replacement-cycles/)

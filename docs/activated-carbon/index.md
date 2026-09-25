@@ -64,6 +64,7 @@ By the application, not by raw-material preference:
 5. Decide replacement vs regeneration economics.
 
 Raw material is an input to selection, never the selection itself.
+Full comparison by feedstock: [Raw Materials Comparison](activated-carbon-raw-materials.md).
 
 ## How do temperature and humidity affect adsorption?
 
@@ -72,7 +73,8 @@ exothermic), so hot gas streams need more carbon or a different route.
 Humidity competes for adsorption sites — water vapor can occupy pores and
 displace organics; the effect depends on the carbon's surface chemistry and
 the contaminant. Both factors are engineering inputs, not afterthoughts —
-see [Adsorption Engineering](../voc-engineering/voc-adsorption-engineering.md).
+see [Humidity & Temperature Effects](activated-carbon-humidity-temperature.md)
+and [Adsorption Engineering](../voc-engineering/voc-adsorption-engineering.md).
 
 ## How is activated carbon used in gas treatment?
 

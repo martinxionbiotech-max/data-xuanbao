@@ -22,6 +22,11 @@ nav:
   - Home: index.md
   - Activated Carbon & Adsorption:
       - Complete Guide: activated-carbon/index.md
+      - Raw Materials Comparison: activated-carbon/activated-carbon-raw-materials.md
+      - Adsorption Mechanism: activated-carbon/activated-carbon-adsorption-mechanism.md
+      - Humidity & Temperature Effects: activated-carbon/activated-carbon-humidity-temperature.md
+      - Breakthrough Curves: activated-carbon/activated-carbon-breakthrough-curves.md
+      - CTC & Methylene Blue Tests: activated-carbon/activated-carbon-ctc-methylene-blue.md
       - Quality Indicators: activated-carbon/activated-carbon-quality-indicators.md
       - Capacity Calculation: activated-carbon/activated-carbon-capacity-calculation.md
       - Replacement Cycles: activated-carbon/activated-carbon-replacement-cycles.md
@@ -36,6 +41,7 @@ nav:
       - Regeneration: molecular-sieves/molecular-sieve-regeneration.md
       - Concentration Wheels: molecular-sieves/zeolite-concentration-wheel.md
       - Dehydration: molecular-sieves/molecular-sieve-dehydration.md
+      - 3A & 4A Sieves: molecular-sieves/molecular-sieve-3a-4a.md
       - Quality Indicators: molecular-sieves/molecular-sieve-quality-indicators.md
       - VOC Treatment Roles: molecular-sieves/molecular-sieve-voc-treatment.md
   - Catalysts:
@@ -90,6 +96,7 @@ nav:
       - Wet Scrubbers: voc-engineering/voc-wet-scrubbers.md
   - Water & Purification:
       - Complete Guide: water-purification/index.md
+      - PAC vs GAC: water-purification/pac-vs-gac.md
   - Testing & Quality:
       - Complete Guide: testing/index.md
       - Catalyst Activity Evaluation: testing/catalyst-activity-evaluation.md

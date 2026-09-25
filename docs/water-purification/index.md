@@ -75,6 +75,7 @@ The application determines the carbon, not the raw material alone:
 ## Related pages
 
 - [Activated Carbon: Properties, Adsorption and Applications](../activated-carbon/index.md)
+- [PAC vs GAC: choosing the carbon form](pac-vs-gac.md)
 - [Quality indicators](../activated-carbon/activated-carbon-quality-indicators.md)
 - [Capacity calculation and breakthrough](../activated-carbon/activated-carbon-capacity-calculation.md)
 - [Replacement cycles](../activated-carbon/activated-carbon-replacement-cycles.md)
