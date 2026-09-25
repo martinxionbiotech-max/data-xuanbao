@@ -1,3 +1,8 @@
+---
+title: "Zeolite vs Activated Carbon for VOC Adsorption"
+description: "Zeolite vs activated carbon for VOC adsorption: hydrophobicity, regeneration temperature, capacity and the selection decision."
+---
+
 # Zeolite vs Activated Carbon for VOC Adsorption: An Engineering Comparison
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "LEL Control and Process Safety in VOC Systems"
+description: "LEL control in VOC treatment: the 25% LEL rule, concentration monitoring and the safety interlocks for adsorbers and oxidizers."
+---
+
 # LEL Control and Process Safety in VOC Treatment Systems
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

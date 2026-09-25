@@ -1,3 +1,8 @@
+---
+title: "SCR Flow Distribution and CFD: Uniformity Requirements"
+description: "Why flow and ammonia distribution decide SCR performance: velocity deviation, mixing and CFD verification of reactor internals."
+---
+
 # SCR Flow Distribution and CFD Modeling: Why Uniformity Decides Performance
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

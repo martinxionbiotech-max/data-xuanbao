@@ -1,3 +1,8 @@
+---
+title: "VOC Adsorption Bed Design: Depth, Velocity and Pressure Drop"
+description: "Designing VOC adsorption beds: bed depth, empty bed contact time, pressure drop budgets and breakthrough-based sizing."
+---
+
 # VOC Adsorption Bed Design: Velocity, Bed Depth and Breakthrough
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

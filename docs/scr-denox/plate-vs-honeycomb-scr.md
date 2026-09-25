@@ -1,3 +1,8 @@
+---
+title: "SCR Plate vs Honeycomb Catalysts: Structure, Pressure Drop and Duty"
+description: "Plate vs honeycomb SCR catalysts compared: structure, ash tolerance, pressure drop, mechanical life and which duty each suits."
+---
+
 # Plate-Type vs Honeycomb SCR Catalyst: How to Choose
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

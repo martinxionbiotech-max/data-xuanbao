@@ -1,5 +1,5 @@
-site_name: Xuanbao Knowledge Center
-site_description: Industrial Emission Control Knowledge Center — SCR DeNOx, CO oxidation, VOC catalysts, zeolite molecular sieves and activated carbon technical documentation by Xuanbao Environmental Technology.
+site_name: Xuanbao Industrial Materials Knowledge Center
+site_description: Technical reference system for activated carbon, adsorption materials, molecular sieves, catalysts and industrial treatment engineering — properties, mechanisms, selection, testing and standards by Xuanbao Environmental Technology.
 site_url: https://data.xuanbaoenvironment.com
 site_author: Yancheng Xuanbao Environmental Technology Co., Ltd.
 copyright: © 2026 Yancheng Xuanbao Environmental Technology Co., Ltd.
@@ -20,62 +20,63 @@ plugins:
 
 nav:
   - Home: index.md
-  - SCR DeNOx:
-      - Complete Guide: scr-denox/index.md
-      - Plate vs Honeycomb: scr-denox/plate-vs-honeycomb-scr.md
-      - Poisoning: scr-denox/scr-catalyst-poisoning.md
-      - Regeneration: scr-denox/scr-catalyst-regeneration.md
-      - Replacement: scr-denox/scr-catalyst-replacement.md
-      - Ammonia Slip: scr-denox/scr-ammonia-slip-control.md
-      - Ash & Erosion: scr-denox/scr-ash-erosion.md
-      - Activity Testing: scr-denox/scr-activity-testing.md
-      - Low-Temperature SCR: scr-denox/scr-low-temperature-catalyst.md
-      - Reactor Positioning: scr-denox/scr-reactor-positioning.md
-      - Reducing Agent Systems: scr-denox/scr-reducing-agent-systems.md
-      - Volume Calculation: scr-denox/scr-catalyst-volume-calculation.md
-      - Flow Distribution & CFD: scr-denox/scr-flow-distribution-cfd.md
-      - SNCR vs SCR: scr-denox/scr-sncr-comparison.md
-      - Cleaning & Maintenance: scr-denox/scr-cleaning-maintenance.md
-  - CO Oxidation:
-      - Complete Guide: co-oxidation/index.md
-      - Catalyst Selection: co-oxidation/co-catalyst-selection.md
-      - Light-Off Temperature: co-oxidation/co-light-off-temperature.md
-      - Application Scenarios: co-oxidation/co-application-scenarios.md
-      - Reactor Bed Design: co-oxidation/co-reactor-bed-design.md
-      - Exotherm Management: co-oxidation/co-exotherm-management.md
-      - Catalyst Deactivation: co-oxidation/co-catalyst-deactivation.md
-      - Sintering Machine CO: co-oxidation/co-sintering-machine.md
-      - Waste Incineration CO: co-oxidation/co-waste-incineration.md
-  - VOC Catalysts:
-      - Complete Guide: voc-catalysts/index.md
-      - Catalyst Selection: voc-catalysts/voc-catalyst-selection.md
-      - Deactivation: voc-catalysts/voc-catalyst-deactivation.md
-      - Regeneration & Lifecycle: voc-catalysts/voc-catalyst-lifecycle.md
-      - Space Velocity Design: voc-catalysts/voc-space-velocity-design.md
-      - Catalytic vs Thermal: voc-catalysts/voc-catalytic-vs-thermal-oxidation.md
-      - Precious vs Non-Precious: voc-catalysts/voc-precious-vs-non-precious.md
-      - Halogenated VOC Treatment: voc-catalysts/voc-halogenated-treatment.md
-      - Coating & Paint Shops: voc-catalysts/voc-coating-industry.md
-      - Printing Industry: voc-catalysts/voc-printing-industry.md
-  - Molecular Sieves:
+  - Activated Carbon & Adsorption:
+      - Complete Guide: activated-carbon/index.md
+      - Quality Indicators: activated-carbon/activated-carbon-quality-indicators.md
+      - Capacity Calculation: activated-carbon/activated-carbon-capacity-calculation.md
+      - Replacement Cycles: activated-carbon/activated-carbon-replacement-cycles.md
+      - Regeneration: activated-carbon/activated-carbon-regeneration.md
+      - Fire Safety: activated-carbon/activated-carbon-fire-safety.md
+      - Flue Gas Treatment: activated-carbon/activated-carbon-flue-gas-treatment.md
+      - Impregnated Carbon: activated-carbon/activated-carbon-impregnated.md
+  - Molecular Sieves & Zeolites:
       - Complete Guide: molecular-sieves/index.md
       - Type Selection: molecular-sieves/molecular-sieve-type-selection.md
+      - Adsorption Mechanism: molecular-sieves/molecular-sieve-adsorption-mechanism.md
       - Regeneration: molecular-sieves/molecular-sieve-regeneration.md
       - Concentration Wheels: molecular-sieves/zeolite-concentration-wheel.md
-      - Adsorption Mechanism: molecular-sieves/molecular-sieve-adsorption-mechanism.md
       - Dehydration: molecular-sieves/molecular-sieve-dehydration.md
       - Quality Indicators: molecular-sieves/molecular-sieve-quality-indicators.md
       - VOC Treatment Roles: molecular-sieves/molecular-sieve-voc-treatment.md
-  - Activated Carbon:
-      - Complete Guide: activated-carbon/index.md
-      - Quality Indicators: activated-carbon/activated-carbon-quality-indicators.md
-      - Fire Safety: activated-carbon/activated-carbon-fire-safety.md
-      - Replacement Cycles: activated-carbon/activated-carbon-replacement-cycles.md
-      - Capacity Calculation: activated-carbon/activated-carbon-capacity-calculation.md
-      - Regeneration: activated-carbon/activated-carbon-regeneration.md
-      - Flue Gas Treatment: activated-carbon/activated-carbon-flue-gas-treatment.md
-      - Impregnated Carbon: activated-carbon/activated-carbon-impregnated.md
-  - VOC Engineering:
+  - Catalysts:
+      - SCR DeNOx:
+          - Complete Guide: scr-denox/index.md
+          - Plate vs Honeycomb: scr-denox/plate-vs-honeycomb-scr.md
+          - Poisoning: scr-denox/scr-catalyst-poisoning.md
+          - Regeneration: scr-denox/scr-catalyst-regeneration.md
+          - Replacement: scr-denox/scr-catalyst-replacement.md
+          - Ammonia Slip: scr-denox/scr-ammonia-slip-control.md
+          - Ash & Erosion: scr-denox/scr-ash-erosion.md
+          - Activity Testing: scr-denox/scr-activity-testing.md
+          - Low-Temperature SCR: scr-denox/scr-low-temperature-catalyst.md
+          - Reactor Positioning: scr-denox/scr-reactor-positioning.md
+          - Reducing Agent Systems: scr-denox/scr-reducing-agent-systems.md
+          - Volume Calculation: scr-denox/scr-catalyst-volume-calculation.md
+          - Flow Distribution & CFD: scr-denox/scr-flow-distribution-cfd.md
+          - SNCR vs SCR: scr-denox/scr-sncr-comparison.md
+          - Cleaning & Maintenance: scr-denox/scr-cleaning-maintenance.md
+      - CO Oxidation:
+          - Complete Guide: co-oxidation/index.md
+          - Catalyst Selection: co-oxidation/co-catalyst-selection.md
+          - Light-Off Temperature: co-oxidation/co-light-off-temperature.md
+          - Application Scenarios: co-oxidation/co-application-scenarios.md
+          - Reactor Bed Design: co-oxidation/co-reactor-bed-design.md
+          - Exotherm Management: co-oxidation/co-exotherm-management.md
+          - Catalyst Deactivation: co-oxidation/co-catalyst-deactivation.md
+          - Sintering Machine CO: co-oxidation/co-sintering-machine.md
+          - Waste Incineration CO: co-oxidation/co-waste-incineration.md
+      - VOC Catalysts:
+          - Complete Guide: voc-catalysts/index.md
+          - Catalyst Selection: voc-catalysts/voc-catalyst-selection.md
+          - Deactivation: voc-catalysts/voc-catalyst-deactivation.md
+          - Regeneration & Lifecycle: voc-catalysts/voc-catalyst-lifecycle.md
+          - Space Velocity Design: voc-catalysts/voc-space-velocity-design.md
+          - Catalytic vs Thermal: voc-catalysts/voc-catalytic-vs-thermal-oxidation.md
+          - Precious vs Non-Precious: voc-catalysts/voc-precious-vs-non-precious.md
+          - Halogenated VOC Treatment: voc-catalysts/voc-halogenated-treatment.md
+          - Coating & Paint Shops: voc-catalysts/voc-coating-industry.md
+          - Printing Industry: voc-catalysts/voc-printing-industry.md
+  - Gas Treatment Engineering:
       - Complete Guide: voc-engineering/index.md
       - Zeolite vs Activated Carbon: voc-engineering/zeolite-vs-activated-carbon.md
       - Adsorption Engineering: voc-engineering/voc-adsorption-engineering.md
@@ -87,15 +88,22 @@ nav:
       - Energy Management: voc-engineering/voc-energy-management.md
       - Combined Systems: voc-engineering/voc-combined-systems.md
       - Wet Scrubbers: voc-engineering/voc-wet-scrubbers.md
-  - Emission Compliance:
-      - Complete Guide: compliance/index.md
-      - China ULE Standards: compliance/china-ultra-low-emission-standards.md
-      - CEMS & Monitoring: compliance/cems-continuous-monitoring.md
-      - Reporting & Audit: compliance/compliance-reporting-audit.md
-      - EU IED & BREF: compliance/eu-ied-bref-standards.md
-  - Testing & Analysis:
+  - Water & Purification:
+      - Complete Guide: water-purification/index.md
+  - Testing & Quality:
       - Complete Guide: testing/index.md
       - Catalyst Activity Evaluation: testing/catalyst-activity-evaluation.md
       - Flue Gas Sampling: testing/flue-gas-sampling.md
       - Laboratory Characterization: testing/lab-characterization-methods.md
       - Reading Test Reports: testing/reading-test-reports.md
+  - Compliance & Standards:
+      - Complete Guide: compliance/index.md
+      - China ULE Standards: compliance/china-ultra-low-emission-standards.md
+      - CEMS & Monitoring: compliance/cems-continuous-monitoring.md
+      - Reporting & Audit: compliance/compliance-reporting-audit.md
+      - EU IED & BREF: compliance/eu-ied-bref-standards.md
+  - Methodology & Data:
+      - Methodology: methodology/index.md
+      - Data Classification: methodology/data-classification.md
+      - Sources & Evidence: methodology/sources.md
+      - Technical Terms: methodology/technical-terms.md

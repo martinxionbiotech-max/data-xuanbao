@@ -1,3 +1,8 @@
+---
+title: "Molecular Sieve Type Selection: 3A, 4A, 5A, 13X, NaY and ZSM-5"
+description: "How to select a molecular sieve type: pore size, adsorption selectivity, polarity and the duty map for 3A, 4A, 5A, 13X, NaY and ZSM-5."
+---
+
 # Molecular Sieve Type Selection: 3A, 4A, 5A, 13X, NaY and ZSM-5
 
 > **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "Combined VOC Treatment Systems"
+description: "Combined VOC treatment systems: adsorption-concentration with oxidation, and multi-stage trains for demanding streams."
+---
+
 # Combined VOC Treatment Systems: When One Technology Is Not Enough
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

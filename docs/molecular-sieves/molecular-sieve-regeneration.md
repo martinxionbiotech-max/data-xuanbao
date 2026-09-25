@@ -1,3 +1,8 @@
+---
+title: "Molecular Sieve Regeneration: Temperature Swing, Pressure Swing and Purging"
+description: "How molecular sieves are regenerated: temperature swing adsorption, pressure swing, purge gas practice and the regeneration temperature windows."
+---
+
 # Molecular Sieve Regeneration: Temperature, Pressure and Lifetime
 
 > **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "Activated Carbon Quality Indicators: Iodine Number, BET, Ash and Hardness"
+description: "What activated carbon quality indicators actually measure: iodine number, BET surface area, CTC, methylene blue, ash, moisture, hardness and bulk density."
+---
+
 # Activated Carbon Quality Indicators: Iodine, CTC and Beyond
 
 > **Part of the [Activated Carbon for Gas Treatment: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

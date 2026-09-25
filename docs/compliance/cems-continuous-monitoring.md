@@ -1,3 +1,8 @@
+---
+title: "CEMS: Continuous Emission Monitoring Systems"
+description: "Continuous emission monitoring systems: measured parameters, data validation, availability requirements and compliance verification."
+---
+
 # CEMS and Continuous Monitoring: Proving Compliance Around the Clock
 
 > **Part of the [Emission Compliance: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

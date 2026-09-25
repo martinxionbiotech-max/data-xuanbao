@@ -1,64 +1,107 @@
-# Xuanbao Industrial Emission Control Knowledge Center
+---
+title: "Xuanbao Industrial Materials Knowledge Center"
+description: "Technical reference system for activated carbon, adsorption materials, molecular sieves, catalysts and industrial treatment engineering - properties, mechanisms, selection, testing and standards."
+---
 
-**Start here:** This knowledge center is the technical documentation hub of
-[Yancheng Xuanbao Environmental Technology Co., Ltd.](https://xuanbaoenvironment.com/) —
-structured as **eight pillar guides**, each supported by focused cluster articles.
-Whether you are selecting a catalyst, troubleshooting a unit or writing a
-specification, start at the pillar that matches your pollutant or technology.
+# Xuanbao Industrial Materials Knowledge Center
 
-## The eight pillars
+A technical reference system covering **activated carbon, adsorption materials,
+molecular sieves, catalysts and industrial treatment engineering** — how
+materials work, how their properties are measured, how they are selected for
+real operating conditions, and how their performance is verified.
 
-### 1. [SCR DeNOx: The Complete Guide](scr-denox/)
+Published by [Yancheng Xuanbao Environmental Technology Co., Ltd.](https://xuanbaoenvironment.com/).
+Commercial product information lives on the [main site](https://xuanbaoenvironment.com/);
+this knowledge center explains the technical basis behind material selection.
 
-NOx removal with ammonia over vanadium-based catalysts: chemistry, plate vs
-honeycomb, poisoning, regeneration, replacement, ammonia slip and activity
-testing. For power, steel, cement, glass and incineration flue gas.
+## What This Knowledge Center Covers
 
-### 2. [CO Oxidation: The Complete Guide](co-oxidation/)
+Three connected knowledge systems:
 
-Carbon monoxide removal at 150–350°C: precious-metal vs base-metal catalysts,
-light-off temperature and the four application scenarios.
+1. **Adsorption materials** — activated carbon and zeolite molecular sieves:
+   raw materials, pore structure, adsorption mechanisms, regeneration and
+   application engineering.
+2. **Catalytic materials** — SCR DeNOx, CO oxidation and VOC oxidation
+   catalysts: chemistry, operating windows, poisoning, deactivation and
+   lifecycle.
+3. **Industrial treatment engineering** — system-level technology: adsorption
+   beds, catalytic oxidation, combined systems, emission limits and process
+   safety.
 
-### 3. [VOC Catalytic Oxidation: The Complete Guide](voc-catalysts/)
+Supporting every domain: testing and quality methodology, compliance and
+standards, and a formal system for how technical data is sourced and classified.
 
-VOC destruction at 200–450°C: Pt / Pt-Pd / non-precious-metal systems,
-deactivation, lifecycle management and space velocity design.
+## Explore by Material
 
-### 4. [Zeolite Molecular Sieves: The Complete Guide](molecular-sieves/)
+- [Activated Carbon](activated-carbon/index.md) — the workhorse adsorbent: properties, forms, selection.
+- [Molecular Sieves & Zeolites](molecular-sieves/index.md) — 3A / 4A / 5A / 13X / NaY / ZSM-5: adsorption, dehydration, VOC concentration.
+- [SCR DeNOx Catalysts](scr-denox/index.md) — NOx reduction: plate vs honeycomb, poisoning, ammonia slip.
+- [CO Oxidation Catalysts](co-oxidation/index.md) — CO removal: light-off, precious vs base metal, bed design.
+- [VOC Oxidation Catalysts](voc-catalysts/index.md) — Pt / Pt-Pd / non-precious systems, deactivation, space velocity.
 
-Size-selective adsorption: 3A/4A/5A/13X/NaY/ZSM-5 selection, regeneration and
-concentration wheels.
+## Explore by Application
 
-### 5. [Activated Carbon for Gas Treatment: The Complete Guide](activated-carbon/)
+- **VOC removal** — [VOC treatment engineering](voc-engineering/index.md) and [VOC catalysts](voc-catalysts/index.md).
+- **NOx reduction** — [SCR DeNOx guide](scr-denox/index.md).
+- **CO removal** — [CO oxidation guide](co-oxidation/index.md).
+- **Water & purification** — [Activated carbon in water treatment](water-purification/index.md).
+- **Gas purification & adsorption** — [Activated carbon guide](activated-carbon/index.md) and [adsorption engineering](voc-engineering/voc-adsorption-engineering.md).
 
-The workhorse adsorbent: quality indicators, fire safety and replacement cycles.
+## Explore by Engineering Question
 
-### 6. [VOC Treatment Engineering: The Complete Guide](voc-engineering/)
+- [How do I select activated carbon?](activated-carbon/index.md#how-should-activated-carbon-be-selected)
+- [What does iodine number actually mean?](activated-carbon/activated-carbon-quality-indicators.md)
+- [Is BET surface area enough to judge activated carbon?](activated-carbon/activated-carbon-quality-indicators.md)
+- [How does humidity affect adsorption?](voc-engineering/voc-adsorption-engineering.md)
+- [How do I estimate activated-carbon service life?](activated-carbon/activated-carbon-capacity-calculation.md)
+- [Activated carbon vs zeolite: when should each be used?](voc-engineering/zeolite-vs-activated-carbon.md)
+- [Adsorption vs catalytic oxidation: what is the difference?](voc-engineering/voc-technology-comparison.md)
+- [How is catalyst activity tested?](testing/catalyst-activity-evaluation.md)
+- [How should I read a catalyst test report?](testing/reading-test-reports.md)
+- [What causes adsorption breakthrough?](activated-carbon/activated-carbon-capacity-calculation.md)
 
-System-level design: technology comparison, adsorption bed design, RCO vs RTO
-and the zeolite-vs-carbon decision.
+## Core Knowledge Areas
 
-### 7. [Emission Compliance: The Complete Guide](compliance/)
+- **[Activated Carbon & Adsorption](activated-carbon/index.md)** — raw materials, pore structure, adsorption mechanisms, regeneration, gas and water applications.
+- **[Molecular Sieves & Zeolites](molecular-sieves/index.md)** — pore structure, adsorption selectivity, dehydration, gas separation and VOC concentration.
+- **[Catalysts](scr-denox/index.md)** — SCR DeNOx, CO oxidation and VOC oxidation catalyst knowledge.
+- **[Gas Treatment Engineering](voc-engineering/index.md)** — adsorption systems, catalytic oxidation, RCO / RTO, pressure drop, LEL and combined systems.
+- **[Water & Purification](water-purification/index.md)** — activated carbon in water treatment: PAC vs GAC, contact time, regeneration.
+- **[Testing & Quality](testing/index.md)** — BET, iodine number, activity evaluation, sampling and test-report reading.
+- **[Compliance & Standards](compliance/index.md)** — emission standards, CEMS and compliance documentation.
+- **[Methodology & Data](methodology/index.md)** — how this site sources, classifies and presents technical data.
 
-Standards, continuous monitoring and the audit-ready compliance record — China's
-ultra-low emission program, CEMS obligations and reporting discipline.
+## How We Treat Technical Data
 
-### 8. [Testing & Analysis: The Complete Guide](testing/)
+Every numerical technical claim in this knowledge center is classified so
+engineering decisions are made on the right basis:
 
-The measurement backbone: catalyst activity evaluation, flue gas sampling,
-laboratory characterization and how to read test reports critically.
+| Data Type | Meaning |
+| --- | --- |
+| Manufacturer Specification | Value specified by the manufacturer for a product. |
+| Typical Value | Representative value under stated conditions — **not** a guarantee. |
+| Laboratory Test Result | Result obtained under stated laboratory test conditions. |
+| Field Test Result | Result from a specific real application — **not** universal performance. |
+| Design Value | Engineering assumption used for design. |
+| Literature Value | Value reported by an external technical source. |
+| Derived Value | Value calculated from documented source data. |
 
-## How the knowledge is organized
+Full rules in [Data Classification](methodology/data-classification.md) and
+[Technical Data & Source Methodology](methodology/index.md).
 
-Every pillar answers the complete topic in one place — principle, parameters,
-selection path, failure modes and a quick-reference table. Each cluster article
-goes deep on one aspect and links back to its pillar. Articles follow the same
-structure: direct answer first, engineering detail in the middle, manufacturer
-perspective and related products at the end.
+## From Technical Question to Material Selection
 
-## Data practice
+Technical Question → **Material** → Properties → Application → Engineering
+Conditions → Testing → **Selection**
 
-This knowledge center distinguishes data types explicitly: manufacturer
-specifications, typical values, test results and design values. Wherever the
-source documents contain OCR-derived or unverified figures, the value is marked
-and should be confirmed before use in engineering decisions.
+This chain is how the knowledge center is organized: start from your pollutant
+or purification target, follow the material's properties through the operating
+conditions, and the testing evidence that supports selection.
+
+## About Xuanbao
+
+Yancheng Xuanbao Environmental Technology Co., Ltd. manufactures activated
+carbon, adsorption materials and industrial emission-control catalysts. This
+knowledge center is the technical documentation layer behind the commercial
+site — visit [xuanbaoenvironment.com](https://xuanbaoenvironment.com/) for
+products, applications and inquiry.

@@ -1,3 +1,8 @@
+---
+title: "Molecular Sieve Dehydration: Drying Gases and Liquids with Zeolites"
+description: "Molecular sieves for dehydration: water adsorption capacity, dew point performance, regeneration and sizing for gas and liquid drying."
+---
+
 # Molecular Sieve Dehydration: Drying Gas Streams Below Dew Point
 
 > **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

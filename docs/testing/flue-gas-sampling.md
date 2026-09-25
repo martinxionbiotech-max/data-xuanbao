@@ -1,3 +1,8 @@
+---
+title: "Flue Gas Sampling: Representative Measurement Practice"
+description: "Flue gas sampling practice: sampling points, isokinetic sampling, sample conditioning and avoiding measurement error."
+---
+
 # Flue Gas Sampling: Getting Numbers You Can Trust
 
 > **Part of the [Testing & Analysis: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

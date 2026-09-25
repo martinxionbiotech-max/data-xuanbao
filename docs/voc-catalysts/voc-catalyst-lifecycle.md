@@ -1,3 +1,8 @@
+---
+title: "VOC Catalyst Lifecycle: Regeneration and Replacement"
+description: "VOC catalyst lifecycle management: activity decline, regeneration options and when replacement is the economically right decision."
+---
+
 # VOC Catalyst Regeneration and Lifecycle Management
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

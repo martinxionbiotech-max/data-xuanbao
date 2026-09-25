@@ -1,3 +1,8 @@
+---
+title: "VOC Treatment for the Printing Industry"
+description: "VOC treatment in printing: ink solvents, dryer exhaust and catalytic oxidation for flexible packaging and commercial printing."
+---
+
 # VOC Treatment in Printing: Solvents, Dryers and Concentration Systems
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

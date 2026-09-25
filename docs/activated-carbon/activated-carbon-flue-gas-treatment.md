@@ -1,3 +1,8 @@
+---
+title: "Activated Carbon for Flue Gas Treatment: Mercury, Dioxins and Trace Removal"
+description: "Activated carbon injection for flue gas: mercury capture, dioxin removal and trace gas polishing in power, steel and incineration applications."
+---
+
 # Activated Carbon in Flue Gas Treatment: Mercury, Dioxins and Trace Removal
 
 > **Part of the [Activated Carbon: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "SCR Catalyst Ash Deposition and Erosion"
+description: "How fly ash deposition and erosion affect SCR catalysts: clogging, abrasion, mechanical life and the design countermeasures."
+---
+
 # Fly Ash, Erosion and SCR Catalyst Mechanical Life
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "EU IED and BREF Standards for Industrial Emissions"
+description: "The EU Industrial Emissions Directive and BREF documents: BAT conclusions, emission levels and their role for industrial operators."
+---
+
 # EU IED and BREF: The European Emission Framework in Brief
 
 > **Part of the [Emission Compliance: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

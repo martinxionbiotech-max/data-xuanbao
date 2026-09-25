@@ -1,3 +1,8 @@
+---
+title: "VOC Treatment Engineering: The Complete System Design Guide"
+description: "VOC treatment system design: flow, concentration, species and duty pattern - adsorption, catalytic oxidation, RCO, RTO and combined systems."
+---
+
 # VOC Treatment Engineering: The Complete Guide
 
 **Direct answer:** VOC treatment system design is decided by four numbers — flow

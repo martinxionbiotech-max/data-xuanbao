@@ -1,3 +1,8 @@
+---
+title: "VOC Catalytic Oxidation: The Complete Guide"
+description: "Complete VOC catalytic oxidation guide: Pt, Pt-Pd and non-precious-metal catalysts, operating temperature, space velocity and lifecycle."
+---
+
 # VOC Catalytic Oxidation: The Complete Guide
 
 **Direct answer:** VOC catalytic oxidation destroys volatile organic compounds by

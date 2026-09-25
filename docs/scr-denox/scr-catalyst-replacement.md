@@ -1,3 +1,8 @@
+---
+title: "SCR Catalyst Replacement: Life Assessment and Changeout Planning"
+description: "Planning SCR catalyst replacement: remaining life assessment, activity decline, layer addition and changeout scheduling."
+---
+
 # SCR Catalyst Replacement: How to Decide When to Change
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

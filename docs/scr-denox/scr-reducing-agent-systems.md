@@ -1,3 +1,8 @@
+---
+title: "SCR Reducing Agent Systems: Ammonia vs Urea"
+description: "Ammonia and urea as SCR reducing agents: storage, vaporization, hydrolysis and injection system design considerations."
+---
+
 # SCR Reducing Agent Systems: Anhydrous Ammonia vs Urea
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

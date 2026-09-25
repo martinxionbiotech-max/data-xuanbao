@@ -20,7 +20,7 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": "https://data.xuanbaoenvironment.com/#website",
-    "name": "Xuanbao Industrial Emission Control Knowledge Center",
+    "name": "Xuanbao Industrial Materials Knowledge Center",
     "url": "https://data.xuanbaoenvironment.com",
     "inLanguage": "en",
     "publisher": {
@@ -32,11 +32,14 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "TechArticle",
+    "@type": "{{ 'CollectionPage' if page.is_index else ('WebPage' if page.is_homepage else 'TechArticle') }}",
     "headline": "{{ page.title | replace('"', '\\"') }}",
     "url": "{{ page.canonical_url }}",
     "inLanguage": "en",
-    "dateModified": "2026-09-19",
+    {% if page.meta and page.meta.description %}
+    "description": "{{ page.meta.description | replace('"', '\\"') | replace('\n', ' ') | trim }}",
+    {% endif %}
+    "dateModified": "{{ build_date_utc.strftime('%Y-%m-%d') }}",
     "publisher": {
       "@id": "https://xuanbaoenvironment.com/#organization"
     },
@@ -46,5 +49,35 @@
     }
   }
   </script>
+  {% if page.ancestors %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://data.xuanbaoenvironment.com/"
+      }
+      {% for ancestor in page.ancestors %}
+      ,{
+        "@type": "ListItem",
+        "position": {{ loop.index + 1 }},
+        "name": "{{ ancestor.title | replace('"', '\\"') }}",
+        "item": "{{ ancestor.url | url }}"
+      }
+      {% endfor %}
+      ,{
+        "@type": "ListItem",
+        "position": {{ page.ancestors | length + 2 }},
+        "name": "{{ page.title | replace('"', '\\"') }}",
+        "item": "{{ page.canonical_url }}"
+      }
+    ]
+  }
+  </script>
+  {% endif %}
   {% endif %}
 {% endblock %}

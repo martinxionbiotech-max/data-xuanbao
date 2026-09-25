@@ -1,3 +1,8 @@
+---
+title: "SCR Catalyst Cleaning and Maintenance"
+description: "SCR catalyst cleaning and routine maintenance: soot blowing, inspection, washing practice and operating discipline that protects activity."
+---
+
 # SCR Catalyst Cleaning and Maintenance: Keeping the Layer Healthy
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

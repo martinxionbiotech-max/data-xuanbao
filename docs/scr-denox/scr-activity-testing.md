@@ -1,3 +1,8 @@
+---
+title: "SCR Catalyst Activity Testing: K/K0 and Laboratory Evaluation"
+description: "How SCR catalyst activity is tested: the K/K0 activity ratio, laboratory evaluation methods and field performance verification."
+---
+
 # SCR Catalyst Activity Testing: From Lab Sample to Field Verification
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

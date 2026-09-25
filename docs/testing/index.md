@@ -1,3 +1,8 @@
+---
+title: "Testing & Analysis: Catalyst and Adsorbent Performance Verification"
+description: "Testing and analysis for catalysts and adsorbents: activity evaluation, flue gas sampling, laboratory characterization and reading test reports."
+---
+
 # Testing & Analysis: The Complete Guide
 
 > **Direct answer:** Catalyst and adsorbent performance is verified by measurement, not by datasheet. This

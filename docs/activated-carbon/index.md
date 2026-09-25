@@ -1,117 +1,158 @@
-# Activated Carbon for Gas Treatment: The Complete Guide
-
-**Direct answer:** Activated carbon removes gas-phase pollutants — VOC, odours,
-trace gases — by physical adsorption onto an enormous internal surface area
-(800–1,500 m²/g). It is the most economical adsorbent for low-concentration duty
-and the only practical option where recovery or polishing matters, but it is
-combustible, capacity-limited and must be replaced or reactivated on a schedule.
-This guide is the hub for the whole activated carbon topic.
-
+---
+title: "Activated Carbon: Properties, Adsorption Mechanisms and Industrial Applications"
+description: "Technical guide to activated carbon: pore structure, iodine number, BET, raw materials, forms, selection, regeneration and gas and water applications."
 ---
 
-## 1. How activated carbon works
+# Activated Carbon: Technical Guide to Properties, Adsorption and Industrial Applications
 
-Activated carbon is carbon processed to develop a vast micropore and mesopore
-network. Adsorption is physical: molecules condense into pores by van der Waals
-forces, so capacity is highest at low temperature and falls as temperature rises.
+**Direct answer:** Activated carbon is a porous carbon material whose internal
+surface area (commonly 500–1,500 m²/g) adsorbs gas-phase and dissolved
+contaminants by physical adsorption. It is used in gas purification, VOC
+control, odor control, water treatment, decolorization and industrial
+purification. Suitability for a specific application is determined by pore
+structure, physical form, surface chemistry and the operating conditions —
+**not by raw material name alone.**
 
-- **Micropores (<2 nm)** — hold small molecules; measured by iodine value.
-- **Mesopores (2–50 nm)** — hold mid-sized molecules; measured by methylene blue.
-- **Working capacity** — the fraction actually usable before breakthrough,
-  typically 10–25 wt% for common VOC, species-dependent.
+This pillar page is the map: each question below is answered briefly and
+links to the cluster article that covers it in depth.
 
-## 2. The product forms
+## What is activated carbon?
+
+Carbonaceous raw material (coconut shell, coal, wood, bamboo, fruit shell)
+processed by carbonization and activation to develop an internal network of
+micropores (< 2 nm), mesopores (2–50 nm) and macropores (> 50 nm).
+Adsorption is primarily physical — molecules condense into pores by van der
+Waals forces — which makes the process reversible by heat or pressure.
+
+## How is activated carbon made?
+
+Two steps: **carbonization** (heating the raw material without oxygen to
+drive off volatiles and leave a char) and **activation** (developing the pore
+structure). Activation is either physical — partial oxidation with steam or
+CO₂ at high temperature — or chemical — treatment with an activating agent
+followed by thermal treatment. The raw material, activation route and
+conditions together determine the pore structure.
+
+## How does pore structure affect adsorption?
+
+- **Micropores** provide the largest share of surface area and hold small
+  molecules.
+- **Mesopores** hold mid-sized molecules and give access to micropores.
+- **Macropores** are transport channels, contributing little capacity.
+
+The target molecule must fit the pores: a carbon optimized for small
+molecules can underperform on large color bodies, and vice versa.
+
+## What do iodine number and BET actually tell us?
+
+Iodine number (mg/g) indicates micropore development and is the standard
+quick check for small-molecule duty. BET surface area (m²/g) measures total
+internal surface. **Neither tells you the working capacity for your specific
+contaminant** — two carbons with identical iodine numbers can differ
+substantially in, for example, toluene working capacity. Full indicator
+guide: [Quality Indicators](activated-carbon-quality-indicators.md).
+
+## How should activated carbon be selected?
+
+By the application, not by raw-material preference:
+
+1. Identify the target contaminant (size, concentration, phase).
+2. Define the medium and conditions (gas or water, temperature, humidity,
+   flow, contact time).
+3. Choose the form (granular, powdered, columnar, honeycomb, fiber).
+4. Check capacity with isotherm data or pilot testing against the target.
+5. Decide replacement vs regeneration economics.
+
+Raw material is an input to selection, never the selection itself.
+
+## How do temperature and humidity affect adsorption?
+
+Adsorption capacity falls as temperature rises (physical adsorption is
+exothermic), so hot gas streams need more carbon or a different route.
+Humidity competes for adsorption sites — water vapor can occupy pores and
+displace organics; the effect depends on the carbon's surface chemistry and
+the contaminant. Both factors are engineering inputs, not afterthoughts —
+see [Adsorption Engineering](../voc-engineering/voc-adsorption-engineering.md).
+
+## How is activated carbon used in gas treatment?
+
+VOC removal, odor control, flue-gas trace removal (mercury, dioxins) and gas
+polishing. Forms: honeycomb for high-flow low-pressure-drop duty, columnar
+and granular for packed beds, fiber for fast-cycling low-concentration duty.
+Details: [Flue Gas Treatment](activated-carbon-flue-gas-treatment.md) and
+[Impregnated Carbon](activated-carbon-impregnated.md).
+
+## How is it used in water treatment?
+
+Drinking-water purification, taste and odor control, decolorization,
+industrial wastewater polishing and process water. Powdered carbon is dosed
+and discarded; granular carbon operates in fixed beds and can be
+regenerated. Full section: [Water & Purification](../water-purification/index.md).
+
+## How do granular, powdered, columnar and honeycomb forms differ?
 
 | Form | Typical use | Characteristics |
 | --- | --- | --- |
-| Honeycomb | High-flow, low-concentration VOC | Low pressure drop, single-use |
-| Columnar (coal-based) | General VOC, packed beds | High density, reactivatable |
-| Granular | Bed-type adsorbers, solvent recovery | Steam-regenerable in closed loops |
-| Coconut shell | Trace gas polishing, respirators | High microporosity, high hardness |
-| Fiber (ACF) | Fast-cycling, low-concentration duty | Very fast kinetics, thin beds |
+| Granular (GAC) | Fixed beds, water and solvent recovery | Regenerable, moderate pressure drop |
+| Powdered (PAC) | Dosing into liquid, batch treatment | Fast kinetics, single use |
+| Columnar (extruded) | Gas-phase packed beds | High density, low dust, reactivatable |
+| Honeycomb | High-flow low-concentration gas | Very low pressure drop, single use |
+| Fiber (ACF) | Fast cycling, low concentration | Very fast kinetics, thin beds |
 
-## 3. Quality indicators — read the right number
+## How do coconut shell, fruit shell, bamboo, coal and wood-based carbons differ?
 
-| Indicator | What it measures | Typical gas-phase range |
-| --- | --- | --- |
-| Iodine value (mg/g) | Micropore activity | 400–1,100 |
-| CTC adsorption (%) | Gas-phase capacity benchmark | 30–70 |
-| Methylene blue (mg/g) | Mesoporosity | Varies |
-| BET surface (m²/g) | Total surface area | 800–1,500 |
-| Bulk density (g/L) | Packing weight, economics | 350–550 |
-| Hardness / abrasion | Mechanical durability | Grade-specific |
+General technical differences, not application assignments:
 
-Match the indicator to the pollutant — two carbons with identical iodine numbers
-can differ 30% in toluene working capacity. Details in
-[Quality Indicators](activated-carbon-quality-indicators.md).
+- **Coconut shell** — hard, low ash, typically highly microporous.
+- **Fruit shell** — varies by species; generally comparable family to
+  coconut shell with product-specific properties.
+- **Bamboo** — moderate density; properties depend on activation.
+- **Coal-based** — higher density, wider pore distribution, commonly
+  reactivated in industrial service.
+- **Wood-based** — lower density, typically high mesoporosity, often used
+  for decolorization.
 
-## 4. Fire safety — the carbon-specific rules
+The actual application is determined by the measured properties (pore
+structure, iodine/BET, hardness, ash, bulk density) of the specific product —
+never by raw-material name alone.
 
-Activated carbon can ignite through external flame, self-heating from high-heat
-adsorption (ketones are the classic case) or maintenance hot work. The governing
-practices:
+## What determines service life?
 
-- Monitor bed temperature at multiple depths + CO at the outlet (CO is the
-  earliest smoulder signal).
-- Limit ketone-rich streams or prefer zeolite/catalytic routes.
-- Keep purge airflow during standby; no welding near a live bed.
-- Never open a hot bed to atmosphere.
+Contaminant loading, bed volume, flow, breakthrough point and regeneration
+practice. See [Replacement Cycles](activated-carbon-replacement-cycles.md).
 
-The full rule set is in [Fire Safety](activated-carbon-fire-safety.md).
+## How does regeneration work?
 
-## 5. Replacement and regeneration
+Thermal reactivation (off-site or on-site) for granular and columnar carbon,
+steam regeneration for solvent-recovery duty, and single-use replacement for
+honeycomb. Each regeneration cycle reduces capacity slightly. See
+[Regeneration](activated-carbon-regeneration.md).
 
-Carbon beds saturate in months — replacement is a routine operating cost.
+## What causes breakthrough?
 
-| Service | Typical cycle |
-| --- | --- |
-| Low-concentration odour control | 6–24 months |
-| Moderate VOC abatement | 3–12 months |
-| High-concentration continuous | Weeks–months |
-| Solvent recovery | Weeks, with regeneration |
+The bed outlet concentration rises when the adsorption front reaches the bed
+exit. Breakthrough defines working capacity — everything adsorbed before
+breakthrough is usable capacity; the rest is waste. Sizing and isotherm
+practice: [Capacity Calculation](activated-carbon-capacity-calculation.md).
 
-Routes: off-site thermal reactivation (standard for granular/columnar), on-site
-steam regeneration (solvent-recovery duty), or single-use replacement (honeycomb).
-Cycle estimation and budget practice in
-[Replacement Cycles](activated-carbon-replacement-cycles.md)
-- [Capacity Calculation](activated-carbon-capacity-calculation.md) — isotherms, breakthrough, bed sizing.
+## What determines whether a carbon is suitable for a specific application?
+
+The combination of **target adsorbate** (size, polarity, concentration),
+**medium and conditions** (temperature, humidity, flow, contact time,
+competing species), **form**, and **economics** (replacement vs
+regeneration). Suitability is established by matching measured properties
+and test data to the operating conditions — see
+[Technical Data & Source Methodology](../methodology/index.md) for how the data
+behind such decisions is classified.
+
+## Related pages
+
+- [Quality Indicators](activated-carbon-quality-indicators.md)
+- [Capacity Calculation](activated-carbon-capacity-calculation.md)
+- [Replacement Cycles](activated-carbon-replacement-cycles.md)
 - [Regeneration](activated-carbon-regeneration.md)
-- [Flue Gas Treatment](activated-carbon-flue-gas-treatment.md) — mercury, dioxins, trace removal.
-- [Impregnated Carbon](activated-carbon-impregnated.md) — chemisorption for special species. — steam desorption vs thermal reactivation..
-
-## 6. Zeolite vs activated carbon
-
-The recurring selection question: carbon offers more capacity per kilogram but is
-flammable, humidity-sensitive and single-use in honeycomb form; zeolites hold less
-but regenerate thermally, resist humidity and cannot burn. The structured
-comparison is in
-[Zeolite vs Activated Carbon](../voc-engineering/zeolite-vs-activated-carbon.md).
-
-## 7. Quick reference: symptom → cause
-
-| Symptom | Most likely cause | Go to |
-| --- | --- | --- |
-| Breakthrough much earlier than planned | Capacity estimated dry, not at service humidity | [Quality Indicators](activated-carbon-quality-indicators.md) |
-| Bed temperature climbing | High-heat adsorption (ketones) | [Fire Safety](activated-carbon-fire-safety.md) |
-| CO detected at outlet | Smouldering begins | [Fire Safety](activated-carbon-fire-safety.md) |
-| Dusting, channeling | Low-hardness grade | [Quality Indicators](activated-carbon-quality-indicators.md) |
-
-## 8. The complete activated carbon series
-
-- [Quality Indicators](activated-carbon-quality-indicators.md) — iodine, CTC, methylene blue, BET: what to read.
-- [Fire Safety](activated-carbon-fire-safety.md) — ignition routes, ketone rule, monitoring.
-- [Replacement Cycles](activated-carbon-replacement-cycles.md) — saturation timing, reactivation, budgeting.
-
-## 9. Manufacturer perspective
-
-We quote working capacity against the customer's actual VOC species, concentration
-and humidity — the same carbon lasts 6 months on one stream and 18 on another.
-Carbon is safe and economical inside its design envelope; most incidents come
-from operating outside it, which is why we flag ketone-rich and high-heat
-applications for zeolite or catalytic alternatives when the numbers say so.
-
-## Related products
-
-- [Honeycomb Activated Carbon](https://xuanbaoenvironment.com/products/activated-carbon/honeycomb-activated-carbon/)
-- [Coal-Based Columnar Carbon](https://xuanbaoenvironment.com/products/activated-carbon/coal-based-columnar-carbon/)
-- [Coconut Shell Carbon](https://xuanbaoenvironment.com/products/activated-carbon/coconut-shell-carbon/)
+- [Fire Safety](activated-carbon-fire-safety.md)
+- [Flue Gas Treatment](activated-carbon-flue-gas-treatment.md)
+- [Impregnated Carbon](activated-carbon-impregnated.md)
+- [Water & Purification](../water-purification/index.md)
+- [Zeolite vs Activated Carbon](../voc-engineering/zeolite-vs-activated-carbon.md)

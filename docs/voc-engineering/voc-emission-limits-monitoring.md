@@ -1,3 +1,8 @@
+---
+title: "VOC Emission Limits and Monitoring"
+description: "VOC emission limits, monitoring requirements and how continuous measurement verifies compliance in industrial plants."
+---
+
 # VOC Emission Limits and Monitoring: Staying Inside the Permit
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

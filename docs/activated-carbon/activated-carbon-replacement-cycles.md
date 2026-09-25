@@ -1,3 +1,8 @@
+---
+title: "Activated Carbon Replacement Cycles: How Long a Carbon Bed Lasts"
+description: "What determines activated carbon service life: contaminant loading, flow, bed volume and regeneration practice - with typical replacement cycle ranges."
+---
+
 # Activated Carbon Replacement Cycles and Regeneration Options
 
 > **Part of the [Activated Carbon for Gas Treatment: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

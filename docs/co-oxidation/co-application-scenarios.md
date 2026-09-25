@@ -1,3 +1,8 @@
+---
+title: "CO Oxidation Application Scenarios: Sintering, Incineration and Safety"
+description: "The four CO oxidation application scenarios: sintering machines, waste incineration, furnace exhaust and CO safety duty."
+---
+
 # CO Oxidation Application Scenarios: Sintering, Incineration and Beyond
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

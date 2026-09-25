@@ -1,3 +1,8 @@
+---
+title: "Molecular Sieve Quality Indicators: Capacity, Crush Strength and Adsorption Rate"
+description: "Quality indicators for molecular sieves: static and dynamic adsorption capacity, crush strength, water content and adsorption rate measurement."
+---
+
 # Molecular Sieve Quality Indicators: What the Specification Numbers Mean
 
 > **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

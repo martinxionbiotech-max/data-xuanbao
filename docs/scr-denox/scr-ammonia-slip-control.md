@@ -1,3 +1,8 @@
+---
+title: "Ammonia Slip Control in SCR Systems"
+description: "What ammonia slip is, why it matters, and how injection control, catalyst management and measurement keep slip within limits."
+---
+
 # Ammonia Slip Control in SCR Systems
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

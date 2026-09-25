@@ -1,3 +1,8 @@
+---
+title: "CO Removal in Waste Incineration"
+description: "CO oxidation catalysts in waste incineration: flue gas conditions, catalyst duty and documented field test results."
+---
+
 # CO Control in Waste Incineration: Polishing Flue Gas After the Furnace
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

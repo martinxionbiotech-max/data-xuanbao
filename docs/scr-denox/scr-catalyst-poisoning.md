@@ -1,3 +1,8 @@
+---
+title: "SCR Catalyst Poisoning: Arsenic, Alkali Metals and Sulfur"
+description: "How SCR catalysts deactivate: arsenic and alkali poisoning, SO3 fouling, masking and the operating conditions that accelerate each mechanism."
+---
+
 # SCR Catalyst Poisoning: Arsenic, Alkali Metals and SO₂ Effects
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

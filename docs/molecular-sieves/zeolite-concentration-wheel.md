@@ -1,3 +1,8 @@
+---
+title: "Zeolite Concentration Wheels: VOC Concentration for Oxidation Systems"
+description: "How zeolite concentration wheels upgrade dilute VOC streams: rotor operation, desorption ratio, concentration factor and system integration."
+---
+
 # Zeolite Concentration Wheels for VOC Treatment
 
 > **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

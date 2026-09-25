@@ -1,3 +1,8 @@
+---
+title: "CO Removal on Sintering Machines"
+description: "CO oxidation catalyst application on sintering machines: operating conditions, catalyst arrangement and documented field test results."
+---
+
 # CO Control on Sintering Machines: The Hardest CO Duty
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

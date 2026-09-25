@@ -1,117 +1,112 @@
-# Xuanbao Industrial Emission Control Knowledge Center
+# Xuanbao Industrial Materials Knowledge Center
 
-> Technical documentation by Yancheng Xuanbao Environmental Technology Co., Ltd.
-> Structured as eight pillar guides with supporting cluster articles: SCR DeNOx,
-> CO oxidation, VOC catalytic oxidation, zeolite molecular sieves, activated
-> carbon and VOC treatment engineering. Main site: xuanbaoenvironment.com.
+> Technical reference system by Yancheng Xuanbao Environmental Technology Co., Ltd.
+> covering activated carbon, adsorption materials, molecular sieves, catalysts and
+> industrial treatment engineering: material properties, adsorption and catalytic
+> mechanisms, engineering conditions, testing, selection and standards.
+> Commercial site: https://xuanbaoenvironment.com/
 
-## Pillar guides
+## Core Knowledge Areas
 
-- [SCR DeNOx: The Complete Guide](https://data.xuanbaoenvironment.com/scr-denox/): chemistry, plate vs honeycomb, parameters, poisoning, regeneration, replacement.
-- [CO Oxidation: The Complete Guide](https://data.xuanbaoenvironment.com/co-oxidation/): catalyst families, light-off, application scenarios.
-- [VOC Catalytic Oxidation: The Complete Guide](https://data.xuanbaoenvironment.com/voc-catalysts/): Pt/Pt-Pd/non-precious systems, deactivation, lifecycle, space velocity.
-- [Zeolite Molecular Sieves: The Complete Guide](https://data.xuanbaoenvironment.com/molecular-sieves/): type selection, regeneration, concentration wheels.
-- [Activated Carbon: The Complete Guide](https://data.xuanbaoenvironment.com/activated-carbon/): quality indicators, fire safety, replacement cycles.
-- [VOC Treatment Engineering: The Complete Guide](https://data.xuanbaoenvironment.com/voc-engineering/): technology comparison, bed design, RCO vs RTO.
-
-## SCR DeNOx articles
-
-- [Plate vs Honeycomb SCR](https://data.xuanbaoenvironment.com/scr-denox/plate-vs-honeycomb-scr/)
-- [SCR Catalyst Poisoning](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-poisoning/)
-- [SCR Catalyst Regeneration](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-regeneration/)
-- [SCR Catalyst Replacement](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-replacement/)
-- [Ammonia Slip Control](https://data.xuanbaoenvironment.com/scr-denox/scr-ammonia-slip-control/)
-- [Ash, Erosion & Mechanical Life](https://data.xuanbaoenvironment.com/scr-denox/scr-ash-erosion/)
-- [SCR Activity Testing](https://data.xuanbaoenvironment.com/scr-denox/scr-activity-testing/
-
-- [Low-Temperature SCR](https://data.xuanbaoenvironment.com/scr-denox/scr-low-temperature-catalyst/)
-- [Reactor Positioning](https://data.xuanbaoenvironment.com/scr-denox/scr-reactor-positioning/)
-- [Reducing Agent Systems](https://data.xuanbaoenvironment.com/scr-denox/scr-reducing-agent-systems/)
-- [Catalyst Volume Calculation](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-volume-calculation/)
-- [Flow Distribution & CFD](https://data.xuanbaoenvironment.com/scr-denox/scr-flow-distribution-cfd/
-
-- [SNCR vs SCR](https://data.xuanbaoenvironment.com/scr-denox/scr-sncr-comparison/)
-- [Cleaning & Maintenance](https://data.xuanbaoenvironment.com/scr-denox/scr-cleaning-maintenance/)))
-
-## CO Oxidation articles
-
-- [CO Catalyst Selection](https://data.xuanbaoenvironment.com/co-oxidation/co-catalyst-selection/)
-- [Light-Off Temperature](https://data.xuanbaoenvironment.com/co-oxidation/co-light-off-temperature/)
-- [Application Scenarios](https://data.xuanbaoenvironment.com/co-oxidation/co-application-scenarios/
-
-- [Reactor Bed Design](https://data.xuanbaoenvironment.com/co-oxidation/co-reactor-bed-design/)
-- [Exotherm Management](https://data.xuanbaoenvironment.com/co-oxidation/co-exotherm-management/)
-- [Catalyst Deactivation](https://data.xuanbaoenvironment.com/co-oxidation/co-catalyst-deactivation/
-
-- [Sintering Machine CO Control](https://data.xuanbaoenvironment.com/co-oxidation/co-sintering-machine/)
-- [Waste Incineration CO Control](https://data.xuanbaoenvironment.com/co-oxidation/co-waste-incineration/)))
-
-## VOC Catalyst articles
-
-- [VOC Catalyst Selection](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-selection/)
-- [VOC Catalyst Deactivation](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-deactivation/)
-- [VOC Catalyst Regeneration & Lifecycle](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-lifecycle/)
-- [Space Velocity Design](https://data.xuanbaoenvironment.com/voc-catalysts/voc-space-velocity-design/
-
-- [Catalytic vs Thermal Oxidation](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalytic-vs-thermal-oxidation/)
-- [Precious vs Non-Precious](https://data.xuanbaoenvironment.com/voc-catalysts/voc-precious-vs-non-precious/)
-- [Halogenated VOC Treatment](https://data.xuanbaoenvironment.com/voc-catalysts/voc-halogenated-treatment/
-
-- [Coating & Paint Shops](https://data.xuanbaoenvironment.com/voc-catalysts/voc-coating-industry/)
-- [Printing Industry](https://data.xuanbaoenvironment.com/voc-catalysts/voc-printing-industry/)))
-
-## Molecular Sieve articles
-
-- [Type Selection](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-type-selection/)
-- [Regeneration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-regeneration/)
-- [Zeolite Concentration Wheels](https://data.xuanbaoenvironment.com/molecular-sieves/zeolite-concentration-wheel/
-
-- [Adsorption Mechanism](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-adsorption-mechanism/)
-- [Dehydration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-dehydration/
-
-- [Quality Indicators](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-quality-indicators/)
-- [VOC Treatment Roles](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-voc-treatment/)))
+- [Home](https://data.xuanbaoenvironment.com/): the knowledge center overview with explore-by paths.
+- [Activated Carbon: Technical Guide](https://data.xuanbaoenvironment.com/activated-carbon/): properties, pore structure, forms, raw materials, selection, regeneration, gas and water applications.
+- [Zeolite Molecular Sieves Guide](https://data.xuanbaoenvironment.com/molecular-sieves/): 3A/4A/5A/13X/NaY/ZSM-5 selection, adsorption mechanism, regeneration, concentration wheels.
+- [SCR DeNOx: Complete Guide](https://data.xuanbaoenvironment.com/scr-denox/): V-Mo-Ti chemistry, plate vs honeycomb, poisoning, ammonia slip, activity testing.
+- [CO Oxidation: Complete Guide](https://data.xuanbaoenvironment.com/co-oxidation/): catalyst families, light-off temperature, bed design, deactivation.
+- [VOC Catalytic Oxidation: Complete Guide](https://data.xuanbaoenvironment.com/voc-catalysts/): Pt/Pt-Pd/non-precious systems, deactivation, lifecycle, space velocity.
+- [VOC Treatment Engineering Guide](https://data.xuanbaoenvironment.com/voc-engineering/): adsorption engineering, RCO vs RTO, LEL safety, combined systems.
+- [Water & Purification Guide](https://data.xuanbaoenvironment.com/water-purification/): activated carbon in water treatment, PAC vs GAC, contact time.
+- [Testing & Analysis Guide](https://data.xuanbaoenvironment.com/testing/): activity evaluation, sampling, laboratory characterization, reading test reports.
+- [Emission Compliance Guide](https://data.xuanbaoenvironment.com/compliance/): standards, CEMS, reporting and audit.
+- [Methodology & Data](https://data.xuanbaoenvironment.com/methodology/): data classification, sources and evidence levels, technical terms.
 
 ## Activated Carbon articles
 
 - [Quality Indicators](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-quality-indicators/)
-- [Fire Safety](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-fire-safety/)
-- [Replacement Cycles](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-replacement-cycles/
-
 - [Capacity Calculation](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-capacity-calculation/)
-- [Regeneration](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-regeneration/
-
+- [Replacement Cycles](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-replacement-cycles/)
+- [Regeneration](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-regeneration/)
+- [Fire Safety](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-fire-safety/)
 - [Flue Gas Treatment](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-flue-gas-treatment/)
-- [Impregnated Carbon](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-impregnated/)))
+- [Impregnated Carbon](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-impregnated/)
+
+## Molecular Sieves articles
+
+- [Type Selection](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-type-selection/)
+- [Adsorption Mechanism](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-adsorption-mechanism/)
+- [Regeneration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-regeneration/)
+- [Concentration Wheels](https://data.xuanbaoenvironment.com/molecular-sieves/zeolite-concentration-wheel/)
+- [Dehydration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-dehydration/)
+- [Quality Indicators](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-quality-indicators/)
+- [VOC Treatment Roles](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-voc-treatment/)
+
+## SCR DeNOx articles
+
+- [Plate vs Honeycomb](https://data.xuanbaoenvironment.com/scr-denox/plate-vs-honeycomb-scr/)
+- [Catalyst Poisoning](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-poisoning/)
+- [Catalyst Regeneration](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-regeneration/)
+- [Catalyst Replacement](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-replacement/)
+- [Ammonia Slip Control](https://data.xuanbaoenvironment.com/scr-denox/scr-ammonia-slip-control/)
+- [Ash & Erosion](https://data.xuanbaoenvironment.com/scr-denox/scr-ash-erosion/)
+- [Activity Testing](https://data.xuanbaoenvironment.com/scr-denox/scr-activity-testing/)
+- [Low-Temperature SCR](https://data.xuanbaoenvironment.com/scr-denox/scr-low-temperature-catalyst/)
+- [Reactor Positioning](https://data.xuanbaoenvironment.com/scr-denox/scr-reactor-positioning/)
+- [Reducing Agent Systems](https://data.xuanbaoenvironment.com/scr-denox/scr-reducing-agent-systems/)
+- [Volume Calculation](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-volume-calculation/)
+- [Flow Distribution & CFD](https://data.xuanbaoenvironment.com/scr-denox/scr-flow-distribution-cfd/)
+- [SNCR vs SCR](https://data.xuanbaoenvironment.com/scr-denox/scr-sncr-comparison/)
+- [Cleaning & Maintenance](https://data.xuanbaoenvironment.com/scr-denox/scr-cleaning-maintenance/)
+
+## CO Oxidation articles
+
+- [Catalyst Selection](https://data.xuanbaoenvironment.com/co-oxidation/co-catalyst-selection/)
+- [Light-Off Temperature](https://data.xuanbaoenvironment.com/co-oxidation/co-light-off-temperature/)
+- [Application Scenarios](https://data.xuanbaoenvironment.com/co-oxidation/co-application-scenarios/)
+- [Reactor Bed Design](https://data.xuanbaoenvironment.com/co-oxidation/co-reactor-bed-design/)
+- [Exotherm Management](https://data.xuanbaoenvironment.com/co-oxidation/co-exotherm-management/)
+- [Catalyst Deactivation](https://data.xuanbaoenvironment.com/co-oxidation/co-catalyst-deactivation/)
+- [Sintering Machine CO](https://data.xuanbaoenvironment.com/co-oxidation/co-sintering-machine/)
+- [Waste Incineration CO](https://data.xuanbaoenvironment.com/co-oxidation/co-waste-incineration/)
+
+## VOC Catalyst articles
+
+- [Catalyst Selection](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-selection/)
+- [Deactivation](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-deactivation/)
+- [Regeneration & Lifecycle](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-lifecycle/)
+- [Space Velocity Design](https://data.xuanbaoenvironment.com/voc-catalysts/voc-space-velocity-design/)
+- [Catalytic vs Thermal](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalytic-vs-thermal-oxidation/)
+- [Precious vs Non-Precious](https://data.xuanbaoenvironment.com/voc-catalysts/voc-precious-vs-non-precious/)
+- [Halogenated VOC Treatment](https://data.xuanbaoenvironment.com/voc-catalysts/voc-halogenated-treatment/)
+- [Coating & Paint Shops](https://data.xuanbaoenvironment.com/voc-catalysts/voc-coating-industry/)
+- [Printing Industry](https://data.xuanbaoenvironment.com/voc-catalysts/voc-printing-industry/)
 
 ## VOC Engineering articles
 
-- [Technology Comparison](https://data.xuanbaoenvironment.com/voc-engineering/voc-technology-comparison/)
 - [Zeolite vs Activated Carbon](https://data.xuanbaoenvironment.com/voc-engineering/zeolite-vs-activated-carbon/)
 - [Adsorption Engineering](https://data.xuanbaoenvironment.com/voc-engineering/voc-adsorption-engineering/)
+- [Technology Comparison](https://data.xuanbaoenvironment.com/voc-engineering/voc-technology-comparison/)
 - [Adsorption Bed Design](https://data.xuanbaoenvironment.com/voc-engineering/voc-adsorption-bed-design/)
-- [RCO vs RTO](https://data.xuanbaoenvironment.com/voc-engineering/rco-vs-rto/
-
+- [RCO vs RTO](https://data.xuanbaoenvironment.com/voc-engineering/rco-vs-rto/)
 - [Emission Limits & Monitoring](https://data.xuanbaoenvironment.com/voc-engineering/voc-emission-limits-monitoring/)
 - [LEL Control & Process Safety](https://data.xuanbaoenvironment.com/voc-engineering/voc-lel-process-safety/)
-- [Energy Management](https://data.xuanbaoenvironment.com/voc-engineering/voc-energy-management/
-
+- [Energy Management](https://data.xuanbaoenvironment.com/voc-engineering/voc-energy-management/)
 - [Combined Systems](https://data.xuanbaoenvironment.com/voc-engineering/voc-combined-systems/)
-- [Wet Scrubbers](https://data.xuanbaoenvironment.com/voc-engineering/voc-wet-scrubbers/)))
+- [Wet Scrubbers](https://data.xuanbaoenvironment.com/voc-engineering/voc-wet-scrubbers/)
 
-## Compliance articles
+## Testing & Compliance articles
 
-- [Emission Compliance: The Complete Guide](https://data.xuanbaoenvironment.com/compliance/)
-- [China's Ultra-Low Emission Standards](https://data.xuanbaoenvironment.com/compliance/china-ultra-low-emission-standards/)
-- [CEMS & Continuous Monitoring](https://data.xuanbaoenvironment.com/compliance/cems-continuous-monitoring/)
-- [Reporting & Audit](https://data.xuanbaoenvironment.com/compliance/compliance-reporting-audit/
-
-- [EU IED & BREF](https://data.xuanbaoenvironment.com/compliance/eu-ied-bref-standards/))
-
-## Testing & Analysis articles
-
-- [Testing & Analysis: The Complete Guide](https://data.xuanbaoenvironment.com/testing/)
 - [Catalyst Activity Evaluation](https://data.xuanbaoenvironment.com/testing/catalyst-activity-evaluation/)
 - [Flue Gas Sampling](https://data.xuanbaoenvironment.com/testing/flue-gas-sampling/)
 - [Laboratory Characterization](https://data.xuanbaoenvironment.com/testing/lab-characterization-methods/)
 - [Reading Test Reports](https://data.xuanbaoenvironment.com/testing/reading-test-reports/)
+- [China ULE Standards](https://data.xuanbaoenvironment.com/compliance/china-ultra-low-emission-standards/)
+- [CEMS & Monitoring](https://data.xuanbaoenvironment.com/compliance/cems-continuous-monitoring/)
+- [Reporting & Audit](https://data.xuanbaoenvironment.com/compliance/compliance-reporting-audit/)
+- [EU IED & BREF](https://data.xuanbaoenvironment.com/compliance/eu-ied-bref-standards/)
+
+## Methodology
+
+- [Technical Data & Source Methodology](https://data.xuanbaoenvironment.com/methodology/)
+- [Data Classification](https://data.xuanbaoenvironment.com/methodology/data-classification/)
+- [Sources & Evidence Levels](https://data.xuanbaoenvironment.com/methodology/sources/)
+- [Technical Terms](https://data.xuanbaoenvironment.com/methodology/technical-terms/)

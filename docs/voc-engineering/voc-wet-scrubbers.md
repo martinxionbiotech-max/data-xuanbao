@@ -1,3 +1,8 @@
+---
+title: "Wet Scrubbers for VOC and Particulate Control"
+description: "Wet scrubbers in VOC treatment: what scrubbers remove, where they fit in a treatment train and their limitations for organics."
+---
+
 # Wet Scrubbers in VOC Service: What They Can and Cannot Capture
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

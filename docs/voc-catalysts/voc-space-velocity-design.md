@@ -1,3 +1,8 @@
+---
+title: "VOC Catalyst Space Velocity Design"
+description: "Space velocity in VOC catalytic oxidation: how GHSV sets catalyst volume, conversion and system cost."
+---
+
 # Space Velocity and Contact Time in VOC Oxidation Design
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

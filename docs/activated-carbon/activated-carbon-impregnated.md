@@ -1,3 +1,8 @@
+---
+title: "Impregnated Activated Carbon: Chemisorption for Specialized Pollutants"
+description: "How impregnated activated carbon adds chemisorption to physical adsorption for acid gases, ammonia, mercury and other specialized pollutants."
+---
+
 # Impregnated Activated Carbon: Chemisorption for Species Plain Carbon Misses
 
 > **Part of the [Activated Carbon: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

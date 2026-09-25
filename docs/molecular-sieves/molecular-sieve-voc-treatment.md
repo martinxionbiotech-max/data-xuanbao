@@ -1,3 +1,8 @@
+---
+title: "Molecular Sieves in VOC Treatment: Adsorption, Concentration and Regeneration"
+description: "The roles molecular sieves play in VOC treatment systems: hydrophobic adsorption, concentration duty and high-temperature regeneration."
+---
+
 # Molecular Sieves in VOC Treatment: Rotors, Guard Beds and Polishing
 
 > **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

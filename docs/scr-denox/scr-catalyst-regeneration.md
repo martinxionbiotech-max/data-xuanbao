@@ -1,3 +1,8 @@
+---
+title: "SCR Catalyst Regeneration: When Cleaning Restores Activity"
+description: "SCR catalyst regeneration explained: cleaning methods, activity recovery, when regeneration makes sense and when replacement is unavoidable."
+---
+
 # SCR Catalyst Regeneration: When Washing Works and When It Doesn't
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "VOC Adsorption Engineering: Capacity, Humidity and Breakthrough"
+description: "VOC adsorption engineering: working capacity, humidity effects, breakthrough curves and adsorber operation."
+---
+
 # VOC Adsorption Engineering: Concentration, Humidity, Pressure Drop and Heat Recovery
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "Zeolite Molecular Sieves: Types, Adsorption and Industrial Applications"
+description: "Complete guide to zeolite molecular sieves: 3A, 4A, 5A, 13X, NaY and ZSM-5 - pore structure, adsorption selectivity, dehydration and VOC concentration."
+---
+
 # Zeolite Molecular Sieves: The Complete Guide
 
 **Direct answer:** Molecular sieves are crystalline aluminosilicate zeolites with

@@ -1,3 +1,8 @@
+---
+title: "VOC Catalyst Selection: Pt, Pt-Pd and Non-Precious Metal Systems"
+description: "How to select a VOC oxidation catalyst: Pt, Pt-Pd and non-precious-metal systems compared by activity, cost and poison tolerance."
+---
+
 # VOC Catalyst Selection: Pt, Pt-Pd or Non-Precious Metal?
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

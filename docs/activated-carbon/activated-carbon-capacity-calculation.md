@@ -1,3 +1,8 @@
+---
+title: "Activated Carbon Capacity Calculation: Isotherms, Breakthrough and Bed Sizing"
+description: "How to size an activated carbon bed: adsorption isotherms, working capacity, breakthrough behaviour and the calculation steps with worked logic."
+---
+
 # Activated Carbon Adsorption Capacity: Calculating Bed Size and Breakthrough
 
 > **Part of the [Activated Carbon: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

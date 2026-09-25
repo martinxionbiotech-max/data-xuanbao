@@ -1,3 +1,8 @@
+---
+title: "VOC Treatment for Coating and Paint Shops"
+description: "VOC treatment in coating and paint shops: solvent loads, spray booth exhaust and catalytic oxidation system design."
+---
+
 # VOC Treatment in Coating and Paint Shops: The Standard Architecture
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

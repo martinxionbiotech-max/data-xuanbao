@@ -1,3 +1,8 @@
+---
+title: "Compliance Reporting and Audit Documentation"
+description: "Emission compliance reporting and audit practice: data records, reporting obligations and evidence that survives inspection."
+---
+
 # Compliance Management and Reporting: The Audit-Ready Plant
 
 > **Part of the [Emission Compliance: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

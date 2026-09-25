@@ -1,3 +1,8 @@
+---
+title: "Catalytic vs Thermal Oxidation for VOC: Energy and Temperature"
+description: "Catalytic vs thermal VOC oxidation compared: operating temperature, fuel consumption, capital cost and suitability by concentration."
+---
+
 # Catalytic Oxidation vs Thermal Oxidation (RTO/RCO): Choosing the Route
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

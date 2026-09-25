@@ -1,3 +1,8 @@
+---
+title: "SCR Reactor Positioning: High-Dust, Low-Dust and Tail-End"
+description: "High-dust, low-dust and tail-end SCR configurations compared: temperature windows, deactivation risks and retrofit implications."
+---
+
 # SCR Reactor Positioning: High-Dust, Low-Dust and Tail-End Layouts
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

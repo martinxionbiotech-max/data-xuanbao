@@ -1,3 +1,8 @@
+---
+title: "Precious Metal vs Non-Precious Metal VOC Catalysts"
+description: "Precious-metal vs non-precious-metal VOC catalysts: activity, sulfur tolerance, cost and the decision framework."
+---
+
 # Precious Metal vs Non-Precious Metal VOC Catalysts: Chemistry and Cost
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

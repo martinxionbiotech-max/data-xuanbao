@@ -1,3 +1,8 @@
+---
+title: "Molecular Sieve Adsorption Mechanism: Pore Size, Polarity and Selectivity"
+description: "How molecular sieves adsorb: size exclusion, polarity effects, adsorption kinetics and why zeolites separate gas components selectively."
+---
+
 # Molecular Sieve Adsorption vs Absorption: Mechanisms and Working Capacity
 
 > **Part of the [Zeolite Molecular Sieves: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

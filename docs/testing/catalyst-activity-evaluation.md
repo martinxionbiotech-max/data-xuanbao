@@ -1,3 +1,8 @@
+---
+title: "Catalyst Activity Evaluation: Laboratory Testing Methods"
+description: "How catalyst activity is evaluated: conversion measurement, activity ratios, laboratory reactors and what the numbers mean for field performance."
+---
+
 # Catalyst Activity Evaluation: From K Value to Field Verification
 
 > **Part of the [Testing & Analysis: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

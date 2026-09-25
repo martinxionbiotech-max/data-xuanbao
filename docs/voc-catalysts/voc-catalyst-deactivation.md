@@ -1,3 +1,8 @@
+---
+title: "VOC Catalyst Deactivation: Poisoning, Masking and Sintering"
+description: "Why VOC catalysts deactivate: catalyst poisons, fouling, thermal sintering and how operating conditions determine catalyst life."
+---
+
 # VOC Catalyst Deactivation: Poisoning, Fouling and Aging
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

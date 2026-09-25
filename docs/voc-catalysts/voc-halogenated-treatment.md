@@ -1,3 +1,8 @@
+---
+title: "Halogenated VOC Treatment: Inhibitors and Catalyst Choice"
+description: "Treating halogenated VOCs: acid formation, catalyst inhibition and the system requirements for safe oxidation."
+---
+
 # Halogenated VOC Treatment: What Catalysts Can and Cannot Do
 
 > **Part of the [VOC Catalytic Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "CO Catalyst Deactivation: Poisoning, Sintering and Fouling"
+description: "Why CO oxidation catalysts lose activity: poisoning, thermal sintering, fouling and the conditions that accelerate each failure mode."
+---
+
 # CO Catalyst Deactivation: Poisoning, Sintering and Fouling
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

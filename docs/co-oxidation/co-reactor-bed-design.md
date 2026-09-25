@@ -1,3 +1,8 @@
+---
+title: "CO Reactor Bed Design: Space Velocity, Exotherm and Sizing"
+description: "Designing a CO oxidation reactor: space velocity, bed depth, pressure drop, exotherm management and sizing logic."
+---
+
 # CO Catalyst Reactor and Bed Design: Sizing for Conversion and Pressure Drop
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

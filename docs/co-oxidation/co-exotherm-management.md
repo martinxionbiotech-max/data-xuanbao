@@ -1,3 +1,8 @@
+---
+title: "CO Oxidation Exotherm Management"
+description: "How CO oxidation heat release is managed: adiabatic temperature rise, bed design and thermal runaway prevention."
+---
+
 # Managing the CO Oxidation Exotherm: Adiabatic Rise and Heat Recovery
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

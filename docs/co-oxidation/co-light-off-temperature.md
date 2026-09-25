@@ -1,3 +1,8 @@
+---
+title: "CO Catalyst Light-Off Temperature: T50, T90 and Operating Windows"
+description: "What light-off temperature means for CO oxidation catalysts: T50 and T90, measurement and how it sets the minimum operating temperature."
+---
+
 # CO Oxidation Light-Off Temperature: T50 and T90 Explained
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

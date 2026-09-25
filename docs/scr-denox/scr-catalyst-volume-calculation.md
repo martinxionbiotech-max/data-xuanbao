@@ -1,3 +1,8 @@
+---
+title: "SCR Catalyst Volume Calculation: Space Velocity and Sizing"
+description: "How SCR catalyst volume is calculated from flue gas flow, NOx removal target, space velocity and activity considerations."
+---
+
 # SCR Catalyst Volume Calculation: Activity, Area Velocity and Life Management
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

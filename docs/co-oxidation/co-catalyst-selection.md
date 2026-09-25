@@ -1,3 +1,8 @@
+---
+title: "CO Catalyst Selection: Precious Metal vs Base Metal"
+description: "How to select a CO oxidation catalyst: precious-metal vs base-metal systems, substrate choice and matching the operating window."
+---
+
 # CO Oxidation Catalyst Selection: Precious Metal vs Base Metal
 
 > **Part of the [CO Oxidation: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

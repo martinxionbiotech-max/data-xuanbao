@@ -1,3 +1,8 @@
+---
+title: "SNCR vs SCR: NOx Reduction Technology Comparison"
+description: "SNCR vs SCR compared: achievable NOx removal, reagent consumption, ammonia slip, temperature windows and when each technology fits."
+---
+
 # SNCR vs SCR: Choosing the Right DeNOx Route
 
 > **Part of the [SCR DeNOx: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "VOC Treatment Energy Management"
+description: "Energy management in VOC treatment: thermal efficiency, heat recovery and the operating cost drivers of adsorbers and oxidizers."
+---
+
 # VOC Treatment Energy Management: Heat Recovery and Operating Cost
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

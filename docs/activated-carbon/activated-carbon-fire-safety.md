@@ -1,3 +1,8 @@
+---
+title: "Activated Carbon Fire Safety: Self-Heating, Hot Work and Monitoring"
+description: "Fire risks specific to activated carbon beds: exothermic adsorption, ketone self-heating, hot work rules, and temperature and CO monitoring practice."
+---
+
 # Activated Carbon Fire Safety: Ignition, Exotherms and Design Limits
 
 > **Part of the [Activated Carbon for Gas Treatment: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

@@ -1,3 +1,8 @@
+---
+title: "SCR DeNOx: The Complete Guide to Selective Catalytic Reduction"
+description: "Complete SCR DeNOx guide: V-Mo-Ti catalyst chemistry, plate vs honeycomb, ammonia slip, poisoning, regeneration and catalyst volume calculation."
+---
+
 # SCR DeNOx: The Complete Guide
 
 **Direct answer:** Selective Catalytic Reduction (SCR) removes NOx from flue gas by

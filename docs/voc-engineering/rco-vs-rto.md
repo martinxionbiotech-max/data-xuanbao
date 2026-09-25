@@ -1,3 +1,8 @@
+---
+title: "RCO vs RTO: Regenerative Catalytic vs Thermal Oxidation"
+description: "RCO vs RTO compared: operating temperature, fuel consumption, catalyst requirements and capital cost by application."
+---
+
 # RCO vs RTO: Catalytic or Thermal Oxidation?
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

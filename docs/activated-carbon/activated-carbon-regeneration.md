@@ -1,3 +1,8 @@
+---
+title: "Activated Carbon Regeneration: Thermal Reactivation vs Steam Regeneration"
+description: "How spent activated carbon is regenerated: thermal reactivation, steam desorption and single-use replacement - and how each cycle affects capacity."
+---
+
 # Activated Carbon Regeneration: Thermal Reactivation and In-Situ Methods
 
 > **Part of the [Activated Carbon: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

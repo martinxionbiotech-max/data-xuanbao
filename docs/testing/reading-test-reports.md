@@ -1,3 +1,8 @@
+---
+title: "How to Read a Catalyst Test Report"
+description: "How to read a catalyst or adsorbent test report critically: conditions, methods, units and the questions to ask before trusting a number."
+---
+
 # Reading Test Reports: The Conditions Section Is the Report
 
 > **Part of the [Testing & Analysis: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

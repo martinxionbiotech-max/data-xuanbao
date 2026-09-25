@@ -1,3 +1,8 @@
+---
+title: "VOC Treatment Technology Comparison: Adsorption vs Oxidation"
+description: "VOC treatment technologies compared: adsorption, catalytic oxidation, RTO and combined systems by concentration and flow."
+---
+
 # VOC Treatment Technology Comparison: Adsorption, Oxidation, RTO/RCO and Wheels
 
 > **Part of the [VOC Treatment Engineering: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

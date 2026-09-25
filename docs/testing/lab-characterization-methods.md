@@ -1,3 +1,8 @@
+---
+title: "Laboratory Characterization Methods: BET, XRD, XRF and ICP"
+description: "Laboratory characterization of catalysts and adsorbents: BET surface area, XRD, XRF, ICP and how each method supports material decisions."
+---
+
 # Laboratory Characterization: BET, XRD and the Numbers Behind the Material
 
 > **Part of the [Testing & Analysis: The Complete Guide](index.md)** — this article is one of the detailed pages in the guide.

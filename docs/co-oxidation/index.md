@@ -1,3 +1,8 @@
+---
+title: "CO Oxidation Catalysts: The Complete Guide to Carbon Monoxide Removal"
+description: "Complete CO oxidation guide: precious-metal and base-metal catalysts, light-off temperature, reactor design, deactivation and applications."
+---
+
 # CO Oxidation: The Complete Guide
 
 **Direct answer:** CO oxidation catalysts convert carbon monoxide to CO₂ at
