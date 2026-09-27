@@ -67,3 +67,10 @@ wins; the crossover is stream-specific — calculate, do not assume.
 - [Adsorption Engineering](voc-adsorption-engineering.md)
 - [RCO vs RTO](rco-vs-rto.md)
 - [Combined Systems](voc-combined-systems.md)
+
+## Source & Purchase
+
+- [VOC catalyst range](https://xuanbaoenvironment.com/products/voc-catalysts/) — Pt, Pt-Pd and non-precious-metal honeycomb catalysts.
+- [Honeycomb activated carbon](https://xuanbaoenvironment.com/products/activated-carbon/honeycomb-activated-carbon/) — adsorption route for dilute streams.
+- [ZSM-5 zeolite](https://xuanbaoenvironment.com/products/zeolite-molecular-sieve/zsm-5/) — hydrophobic adsorbent for humid, ketone-bearing exhaust.
+- [Contact us](https://xuanbaoenvironment.com/contact/) to route your stream between adsorption and oxidation.

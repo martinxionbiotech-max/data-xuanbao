@@ -55,3 +55,10 @@ flow is large; the crossover depends on electricity cost and the cycle length.
 - [Breakthrough Curves](activated-carbon-breakthrough-curves.md)
 - [Capacity Calculation](activated-carbon-capacity-calculation.md)
 - [Adsorption Mechanism](activated-carbon-adsorption-mechanism.md)
+
+## Source & Purchase
+
+- [Honeycomb activated carbon](https://xuanbaoenvironment.com/products/activated-carbon/honeycomb-activated-carbon/) — low-pressure-drop structured blocks for VOC units.
+- [Coal-based columnar activated carbon](https://xuanbaoenvironment.com/products/activated-carbon/coal-based-columnar-carbon/) — dense extruded pellets for packed beds and solvent recovery.
+- [Full activated carbon range](https://xuanbaoenvironment.com/products/activated-carbon/) — compare all five forms with specification data.
+- [Contact us](https://xuanbaoenvironment.com/contact/) for sizing against your flow and concentration.

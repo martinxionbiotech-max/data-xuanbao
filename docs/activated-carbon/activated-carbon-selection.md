@@ -68,3 +68,13 @@ not comparable across suppliers.
 - [Honeycomb vs Columnar Activated Carbon](honeycomb-vs-columnar.md)
 - [Capacity Calculation](activated-carbon-capacity-calculation.md)
 - [Replacement Cycles](activated-carbon-replacement-cycles.md)
+
+## Source & Purchase
+
+The selection logic above maps to Xuanbao's product lines on the main site:
+
+- [Activated carbon category](https://xuanbaoenvironment.com/products/activated-carbon/) — honeycomb, columnar, coconut-shell, fruit-shell and fiber forms.
+- [Honeycomb activated carbon](https://xuanbaoenvironment.com/products/activated-carbon/honeycomb-activated-carbon/) — structured blocks for gas-phase units.
+- [Coal-based columnar carbon](https://xuanbaoenvironment.com/products/activated-carbon/coal-based-columnar-carbon/) — packed-bed duty where reactivation matters.
+- [Coconut-shell carbon](https://xuanbaoenvironment.com/products/activated-carbon/coconut-shell-carbon/) — high-hardness granular grades for water and gold recovery.
+- [Request a quotation](https://xuanbaoenvironment.com/contact/) — share your stream parameters for a matched recommendation.

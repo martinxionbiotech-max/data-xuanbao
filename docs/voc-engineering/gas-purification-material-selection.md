@@ -77,3 +77,9 @@ position must fall inside it, or the position must move.
 - [How to Select a VOC Catalyst](../voc-catalysts/voc-catalyst-selection.md)
 - [CO Catalyst Selection](../co-oxidation/co-catalyst-selection.md)
 - [SCR Plate vs Honeycomb](../scr-denox/plate-vs-honeycomb-scr.md)
+
+## Source & Purchase
+
+- [Product catalog](https://xuanbaoenvironment.com/products/) — catalysts, activated carbon and zeolite molecular sieves.
+- [Application guides](https://xuanbaoenvironment.com/applications/) — selection logic by treatment target (VOC, NOx, CO, odor, water).
+- [Contact us](https://xuanbaoenvironment.com/contact/) with your gas composition and operating parameters for a specific recommendation.

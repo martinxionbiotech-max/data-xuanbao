@@ -1,0 +1,39 @@
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+        <div class="md-copyright__highlight">
+          © 2026 Yancheng Xuanbao Environmental Technology Co., Ltd.
+        </div>
+        <div class="md-footer__links">
+          <a href="https://xuanbaoenvironment.com/" target="_blank" rel="noopener">Main Website</a>
+          ·
+          <a href="https://xuanbaoenvironment.com/products/" target="_blank" rel="noopener">Products</a>
+          ·
+          <a href="https://xuanbaoenvironment.com/contact/" target="_blank" rel="noopener">Contact</a>
+          ·
+          <a href="https://xuanbaoenvironment.com/about/" target="_blank" rel="noopener">About</a>
+        </div>
+        {% if not config.extra.generator == false %}
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        {% endif %}
+      </div>
+      <style>
+        .md-footer__links {
+          margin-bottom: 0.25rem;
+          font-size: 0.7rem;
+        }
+        .md-footer__links a {
+          color: var(--md-footer-fg-color--light);
+          text-decoration: none;
+        }
+        .md-footer__links a:hover {
+          text-decoration: underline;
+        }
+      </style>
+    </div>
+  </div>
+</footer>

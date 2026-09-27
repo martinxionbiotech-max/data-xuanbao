@@ -20,6 +20,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - Main Website ↗: https://xuanbaoenvironment.com/
   - Activated Carbon & Adsorption:
       - Complete Guide: activated-carbon/index.md
       - How to Select: activated-carbon/activated-carbon-selection.md

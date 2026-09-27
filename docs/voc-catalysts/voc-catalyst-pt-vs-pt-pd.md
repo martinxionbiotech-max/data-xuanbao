@@ -61,3 +61,10 @@ figure is shared with the
 - [Precious vs Non-Precious](voc-precious-vs-non-precious.md)
 - [Catalytic vs Thermal Oxidation](voc-catalytic-vs-thermal-oxidation.md)
 - [Space Velocity Design](voc-space-velocity-design.md)
+
+## Source & Purchase
+
+- [Platinum VOC catalyst (YC-XB-A)](https://xuanbaoenvironment.com/products/voc-catalysts/platinum-catalyst/) — honeycomb Pt catalyst for standard loads.
+- [Pt-Pd VOC catalyst (YC-XB-B)](https://xuanbaoenvironment.com/products/voc-catalysts/platinum-palladium-catalyst/) — bimetallic formulation for lower light-off and mixed solvents.
+- [Non-precious-metal VOC catalyst (YC-XB-C)](https://xuanbaoenvironment.com/products/voc-catalysts/non-precious-metal-catalyst/) — cost-driven option for suitable streams.
+- [Contact us](https://xuanbaoenvironment.com/contact/) with your VOC species list and temperature window.
