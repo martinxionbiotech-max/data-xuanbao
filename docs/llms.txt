@@ -22,6 +22,8 @@
 
 ## Activated Carbon articles
 
+- [How to Select Activated Carbon](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-selection/)
+- [Honeycomb vs Columnar](https://data.xuanbaoenvironment.com/activated-carbon/honeycomb-vs-columnar/)
 - [Raw Materials Comparison](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-raw-materials/)
 - [Adsorption Mechanism](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-adsorption-mechanism/)
 - [Humidity & Temperature Effects](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-humidity-temperature/)
@@ -76,6 +78,7 @@
 ## VOC Catalyst articles
 
 - [Catalyst Selection](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-selection/)
+- [Pt vs Pt-Pd](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-pt-vs-pt-pd/)
 - [Deactivation](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-deactivation/)
 - [Regeneration & Lifecycle](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-lifecycle/)
 - [Space Velocity Design](https://data.xuanbaoenvironment.com/voc-catalysts/voc-space-velocity-design/)
@@ -87,6 +90,8 @@
 
 ## VOC Engineering articles
 
+- [Material Selection Guide](https://data.xuanbaoenvironment.com/voc-engineering/gas-purification-material-selection/)
+- [Adsorption vs Catalytic Oxidation](https://data.xuanbaoenvironment.com/voc-engineering/adsorption-vs-catalytic-oxidation/)
 - [Zeolite vs Activated Carbon](https://data.xuanbaoenvironment.com/voc-engineering/zeolite-vs-activated-carbon/)
 - [Adsorption Engineering](https://data.xuanbaoenvironment.com/voc-engineering/voc-adsorption-engineering/)
 - [Technology Comparison](https://data.xuanbaoenvironment.com/voc-engineering/voc-technology-comparison/)

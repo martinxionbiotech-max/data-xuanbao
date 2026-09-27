@@ -22,6 +22,8 @@ nav:
   - Home: index.md
   - Activated Carbon & Adsorption:
       - Complete Guide: activated-carbon/index.md
+      - How to Select: activated-carbon/activated-carbon-selection.md
+      - Honeycomb vs Columnar: activated-carbon/honeycomb-vs-columnar.md
       - Raw Materials Comparison: activated-carbon/activated-carbon-raw-materials.md
       - Adsorption Mechanism: activated-carbon/activated-carbon-adsorption-mechanism.md
       - Humidity & Temperature Effects: activated-carbon/activated-carbon-humidity-temperature.md
@@ -74,6 +76,7 @@ nav:
       - VOC Catalysts:
           - Complete Guide: voc-catalysts/index.md
           - Catalyst Selection: voc-catalysts/voc-catalyst-selection.md
+          - Pt vs Pt-Pd: voc-catalysts/voc-catalyst-pt-vs-pt-pd.md
           - Deactivation: voc-catalysts/voc-catalyst-deactivation.md
           - Regeneration & Lifecycle: voc-catalysts/voc-catalyst-lifecycle.md
           - Space Velocity Design: voc-catalysts/voc-space-velocity-design.md
@@ -84,6 +87,8 @@ nav:
           - Printing Industry: voc-catalysts/voc-printing-industry.md
   - Gas Treatment Engineering:
       - Complete Guide: voc-engineering/index.md
+      - Material Selection Guide: voc-engineering/gas-purification-material-selection.md
+      - Adsorption vs Catalytic Oxidation: voc-engineering/adsorption-vs-catalytic-oxidation.md
       - Zeolite vs Activated Carbon: voc-engineering/zeolite-vs-activated-carbon.md
       - Adsorption Engineering: voc-engineering/voc-adsorption-engineering.md
       - Technology Comparison: voc-engineering/voc-technology-comparison.md
