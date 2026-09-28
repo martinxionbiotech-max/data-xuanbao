@@ -36,10 +36,19 @@ The catalyst is always downstream of the dedicated gas-cleaning train:
   safe.
 - **Moisture** — wet scrubbing leaves saturated gas; condensation protection is mandatory.
 
-## Reported field experience
+## Documented field test result
 
-Field tests on medical waste incineration report CO reduced from over 11,000 mg/Nm³ to below 20 mg/Nm³ under
-test conditions — but the test gas composition, temperature and moisture are what determine whether such
+| Item | Detail |
+| --- | --- |
+| Result | CO: 11,224.2 mg/Nm³ → 16.2 mg/Nm³ |
+| Data type | Field Test Result |
+| Test date | 2023-03-20, as recorded in the original field test report |
+| Derived value | Removal efficiency ≈ 99.9% |
+| Source | [Medical Waste Incinerator CO Removal — Field Test](https://xuanbaoenvironment.com/case-studies/medical-waste-incinerator-co-removal/) on the main site |
+| Completeness | The published record does not include gas flow, temperature, O₂, operating time or test instrument |
+
+**Engineering interpretation:** a CO stream in the thousands of mg/Nm³ was brought below 20 mg/Nm³ in a
+documented test — but the test gas composition, temperature and moisture are what determine whether such
 performance is repeatable in continuous service. Pilot confirmation on the actual gas is the standard
 practice.
 

@@ -11,6 +11,7 @@ concentration, catalytic oxidation at medium, thermal oxidation at high
 concentration and tough streams, and concentration wheels upgrade huge dilute
 streams into small rich ones. This guide is the engineering hub for the whole
 topic; detailed articles are linked throughout.
+> **Key Engineering Point:** Technology choice follows four measured numbers — flow, concentration, species and duty pattern. Every selection error on record starts with choosing the technology before measuring the stream.
 
 ---
 
@@ -77,7 +78,8 @@ For adsorption duties the recurring choice: carbon (more capacity, flammable,
 humidity-sensitive) versus zeolite (thermal regeneration, hydrophobic grades,
 non-flammable). The structured comparison — capacity, regeneration, safety,
 humidity behaviour — is in
-[Zeolite vs Activated Carbon](zeolite-vs-activated-carbon.md).
+[Zeolite vs Activated Carbon](zeolite-vs-activated-carbon.md). When the duty spans several technology families, start from the cross-technology
+[Gas Purification Material Selection](gas-purification-material-selection.md) workflow.
 
 ## 6. The selection workflow
 

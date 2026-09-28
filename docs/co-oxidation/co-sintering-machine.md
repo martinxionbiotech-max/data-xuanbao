@@ -41,11 +41,21 @@ The typical layout is dedusting → temperature management → CO oxidation → 
   accordingly.
 - Plan **bypass or preheat** for cold starts and low-load operation.
 
-## Field results and expectations
+## Documented field test result
 
-Reported sintering machine tests show outlet CO below 20 ppm from four-digit inlet values under stable
-conditions — but sustained performance depends on temperature stability and peak management. Plants should
-measure the full CO range over normal operation before sizing.
+| Item | Detail |
+| --- | --- |
+| Result | CO: 1,499 ppm → 18 ppm |
+| Data type | Field Test Result |
+| Test date | 2022-08-23, as recorded in the original field test report |
+| Derived value | Removal efficiency ≈ 98.8% |
+| Source | [Sintering Machine CO Removal — Field Test](https://xuanbaoenvironment.com/case-studies/sintering-machine-co-removal/) on the main site |
+| Completeness | The published record does not include gas flow, operating temperature, O₂, catalyst volume or space velocity |
+
+**Engineering interpretation:** the test shows a four-digit ppm inlet brought below 20 ppm on a real
+sintering stream — but sustained performance depends on temperature stability and peak management, and the
+record lacks the supporting conditions needed to generalize the number. Plants should measure the full CO
+range over normal operation before sizing.
 
 ## Manufacturer perspective
 

@@ -12,6 +12,7 @@ control, odor control, water treatment, decolorization and industrial
 purification. Suitability for a specific application is determined by pore
 structure, physical form, surface chemistry and the operating conditions —
 **not by raw material name alone.**
+> **Key Engineering Point:** Iodine number and BET surface area describe capacity, not suitability. For industrial VOC adsorption, match the pore-size distribution to the target molecule and check humidity, temperature and regeneration requirements before committing to a carbon type.
 
 This pillar page is the map: each question below is answered briefly and
 links to the cluster article that covers it in depth.
@@ -150,6 +151,7 @@ behind such decisions is classified.
 ## Related pages
 
 - [Quality Indicators](activated-carbon-quality-indicators.md)
+- [CTC & Methylene Blue Tests](activated-carbon-ctc-methylene-blue.md)
 - [Capacity Calculation](activated-carbon-capacity-calculation.md)
 - [Replacement Cycles](activated-carbon-replacement-cycles.md)
 - [Regeneration](activated-carbon-regeneration.md)

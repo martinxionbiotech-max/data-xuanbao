@@ -78,4 +78,5 @@ or is withheld entirely. The knowledge center does not publish:
 - **Not published** — unverifiable claims are excluded rather than hedged.
 
 For the formal data-type classification used on technical pages, see
-[Data Classification](data-classification.md).
+[Data Classification](data-classification.md). Terminology used throughout this site is defined in
+[Technical Terms](technical-terms.md).

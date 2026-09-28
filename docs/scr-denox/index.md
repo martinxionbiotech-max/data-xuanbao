@@ -11,6 +11,7 @@ nitrogen and water. It is the workhorse NOx control technology for coal power, s
 cement, glass and waste incineration — typically delivering 80–95% NOx removal within
 a defined temperature window. This guide is the hub: it summarizes the whole SCR
 topic and links to detailed articles on every part of it.
+> **Key Engineering Point:** SCR performance is set by the temperature window and the flue-gas condition at the catalyst face — dust, SO₂ and alkali metals degrade activity faster than age does. A catalyst chosen on removal rate alone fails if the inlet conditions are wrong.
 
 ---
 

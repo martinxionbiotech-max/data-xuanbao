@@ -10,6 +10,7 @@ uniform, molecule-sized pores that separate gas components by size and polarity.
 In emission control they dry gases, purify air, separate hydrocarbons, adsorb CO₂
 and concentrate VOC for downstream oxidation. The type number (3A, 4A, 5A, 13X,
 NaY, ZSM-5) defines the pore size and therefore what each sieve can and cannot do.
+> **Key Engineering Point:** The type number (3A/4A/5A/13X/NaY/ZSM-5) is the pore size — the target molecule must fit through the window while competing molecules stay out. Selecting by brand familiarity instead of pore size is the most common sieve failure.
 
 ---
 
@@ -38,7 +39,8 @@ properties no amorphous adsorbent matches.
 | ZSM-5 | ~0.5–0.6 nm | Hydrophobic VOC adsorption, concentration wheels |
 
 The full selection logic — target molecule, excluded species, concentration, and
-humidity — is in [Type Selection](molecular-sieve-type-selection.md).
+humidity — is in [Type Selection](molecular-sieve-type-selection.md), with the smallest-pore
+pair covered in [3A & 4A Sieves](molecular-sieve-3a-4a.md).
 
 ## 3. Key performance concepts
 

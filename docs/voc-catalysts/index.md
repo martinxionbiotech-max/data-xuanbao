@@ -10,6 +10,7 @@ oxidizing them to CO₂ and water over a catalyst at 200–450°C — typically 
 cooler than thermal oxidation, cutting fuel consumption drastically. Catalysts use
 platinum, platinum-palladium or non-precious-metal active systems on ceramic
 honeycomb substrates. This guide is the hub for the entire VOC catalyst topic.
+> **Key Engineering Point:** Catalyst selection is decided by species list, temperature and poisons, not by metal loading alone. Sulfur, halogens and dust shorten life faster than VOC throughput does — a poison audit comes before any performance claim.
 
 ---
 
@@ -33,7 +34,8 @@ contains no catalyst poisons.
 | Non-precious metal | Transition metal oxides | 250–450°C | Cost-sensitive, clean streams |
 
 Full selection logic — temperature, species list, poison check, duty pattern — is
-in [VOC Catalyst Selection](voc-catalyst-selection.md).
+in [VOC Catalyst Selection](voc-catalyst-selection.md), with the direct metal-cost and
+performance trade-off in [Pt vs Pt-Pd](voc-catalyst-pt-vs-pt-pd.md).
 
 ## 3. Key design parameters
 

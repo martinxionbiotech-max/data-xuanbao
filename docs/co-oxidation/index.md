@@ -11,6 +11,7 @@ precious-metal (Pt, Pd) or base-metal active systems on honeycomb or pellet
 substrates. They serve sintering, incineration, furnace exhaust and safety duties
 wherever CO must be removed from oxygen-containing gas. This guide is the hub for
 the whole CO oxidation topic; detailed articles are linked throughout.
+> **Key Engineering Point:** CO duty is sized from the peak concentration, not the average — compliance tests can come at any hour. Compute the adiabatic temperature rise at peak CO before choosing a single-stage bed.
 
 ---
 
