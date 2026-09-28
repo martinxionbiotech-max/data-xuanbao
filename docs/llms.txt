@@ -16,6 +16,7 @@
 - [VOC Catalytic Oxidation: Complete Guide](https://data.xuanbaoenvironment.com/voc-catalysts/): Pt/Pt-Pd/non-precious systems, deactivation, lifecycle, space velocity.
 - [VOC Treatment Engineering Guide](https://data.xuanbaoenvironment.com/voc-engineering/): adsorption engineering, RCO vs RTO, LEL safety, combined systems.
 - [Water & Purification Guide](https://data.xuanbaoenvironment.com/water-purification/): activated carbon in water treatment, PAC vs GAC, contact time.
+- [PAC vs GAC](https://data.xuanbaoenvironment.com/water-purification/pac-vs-gac/)
 - [Testing & Analysis Guide](https://data.xuanbaoenvironment.com/testing/): activity evaluation, sampling, laboratory characterization, reading test reports.
 - [Emission Compliance Guide](https://data.xuanbaoenvironment.com/compliance/): standards, CEMS, reporting and audit.
 - [Methodology & Data](https://data.xuanbaoenvironment.com/methodology/): data classification, sources and evidence levels, technical terms.
@@ -46,6 +47,7 @@
 - [Dehydration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-dehydration/)
 - [Quality Indicators](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-quality-indicators/)
 - [VOC Treatment Roles](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-voc-treatment/)
+- [3A & 4A Molecular Sieves](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-3a-4a/)
 
 ## SCR DeNOx articles
 
