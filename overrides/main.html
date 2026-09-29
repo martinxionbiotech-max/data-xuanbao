@@ -2,6 +2,32 @@
 
 {% block extrahead %}
   {{ super() }}
+  <style>
+    .md-footer-contact {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.75rem;
+      color: var(--md-footer-fg-color--light);
+      font-size: 0.7rem;
+      line-height: 1.4;
+    }
+    .md-footer-contact__btn {
+      display: inline-flex;
+      align-items: center;
+      background-color: #25D366;
+      color: #ffffff;
+      font-weight: 600;
+      padding: 0.35rem 0.9rem;
+      border-radius: 999px;
+      text-decoration: none;
+      transition: background-color 0.2s;
+    }
+    .md-footer-contact__btn:hover {
+      background-color: #1ebe5b;
+      color: #ffffff;
+    }
+  </style>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -12,7 +38,15 @@
     "url": "https://xuanbaoenvironment.com",
     "sameAs": [
       "https://data.xuanbaoenvironment.com"
-    ]
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "name": "Joanna D.",
+      "telephone": "+86-15153588090",
+      "email": "joanna@dinweys.com",
+      "availableLanguage": ["en", "zh"]
+    }
   }
   </script>
   <script type="application/ld+json">
