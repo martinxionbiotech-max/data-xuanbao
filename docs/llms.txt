@@ -55,6 +55,8 @@
 - [Fire Safety](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-fire-safety/)
 - [Flue Gas Treatment](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-flue-gas-treatment/)
 - [Impregnated Carbon](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-impregnated/)
+- [Sulfur-Containing VOC Streams](https://data.xuanbaoenvironment.com/activated-carbon/sulfur-voc-carbon-selection/)
+- [Replacement Economics](https://data.xuanbaoenvironment.com/activated-carbon/replacement-economics/)
 
 ## Molecular Sieves articles
 
@@ -62,6 +64,7 @@
 - [Adsorption Mechanism](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-adsorption-mechanism/)
 - [Regeneration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-regeneration/)
 - [Concentration Wheels](https://data.xuanbaoenvironment.com/molecular-sieves/zeolite-concentration-wheel/)
+- [Wheel Sizing Calculation](https://data.xuanbaoenvironment.com/molecular-sieves/zeolite-wheel-sizing/)
 - [Dehydration](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-dehydration/)
 - [Quality Indicators](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-quality-indicators/)
 - [VOC Treatment Roles](https://data.xuanbaoenvironment.com/molecular-sieves/molecular-sieve-voc-treatment/)
@@ -129,6 +132,8 @@
 - [Flue Gas Sampling](https://data.xuanbaoenvironment.com/testing/flue-gas-sampling/)
 - [Laboratory Characterization](https://data.xuanbaoenvironment.com/testing/lab-characterization-methods/)
 - [Reading Test Reports](https://data.xuanbaoenvironment.com/testing/reading-test-reports/)
+- [Lab vs Field Activity](https://data.xuanbaoenvironment.com/testing/lab-vs-field-activity/)
+- [Field Test Report Template](https://data.xuanbaoenvironment.com/testing/test-report-template/)
 - [China ULE Standards](https://data.xuanbaoenvironment.com/compliance/china-ultra-low-emission-standards/)
 - [CEMS & Monitoring](https://data.xuanbaoenvironment.com/compliance/cems-continuous-monitoring/)
 - [Reporting & Audit](https://data.xuanbaoenvironment.com/compliance/compliance-reporting-audit/)
@@ -139,4 +144,6 @@
 - [Technical Data & Source Methodology](https://data.xuanbaoenvironment.com/methodology/)
 - [Data Classification](https://data.xuanbaoenvironment.com/methodology/data-classification/)
 - [Sources & Evidence Levels](https://data.xuanbaoenvironment.com/methodology/sources/)
+- [Evidence Registry](https://data.xuanbaoenvironment.com/methodology/evidence-registry/)
+- [Evidence Registry (中文)](https://data.xuanbaoenvironment.com/methodology/evidence-registry-zh/)
 - [Technical Terms](https://data.xuanbaoenvironment.com/methodology/technical-terms/)

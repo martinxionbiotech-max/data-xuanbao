@@ -5,6 +5,8 @@ description: "The evidence registry of this knowledge center: documented field t
 
 # Evidence Registry
 
+> **中文版：** [证据注册表（中文译本）](evidence-registry-zh.md) — Chinese translation; the English page is authoritative.
+
 **Direct answer:** This registry records the documented performance evidence
 referenced across this knowledge center — field test results, manufacturer
 specifications and derived values — with their data type, source, date where

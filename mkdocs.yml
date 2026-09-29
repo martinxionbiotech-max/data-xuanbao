@@ -33,16 +33,19 @@ nav:
       - Quality Indicators: activated-carbon/activated-carbon-quality-indicators.md
       - Capacity Calculation: activated-carbon/activated-carbon-capacity-calculation.md
       - Replacement Cycles: activated-carbon/activated-carbon-replacement-cycles.md
+      - Replacement Economics: activated-carbon/replacement-economics.md
       - Regeneration: activated-carbon/activated-carbon-regeneration.md
       - Fire Safety: activated-carbon/activated-carbon-fire-safety.md
       - Flue Gas Treatment: activated-carbon/activated-carbon-flue-gas-treatment.md
       - Impregnated Carbon: activated-carbon/activated-carbon-impregnated.md
+      - Sulfur-Containing VOC Streams: activated-carbon/sulfur-voc-carbon-selection.md
   - Molecular Sieves & Zeolites:
       - Complete Guide: molecular-sieves/index.md
       - Type Selection: molecular-sieves/molecular-sieve-type-selection.md
       - Adsorption Mechanism: molecular-sieves/molecular-sieve-adsorption-mechanism.md
       - Regeneration: molecular-sieves/molecular-sieve-regeneration.md
       - Concentration Wheels: molecular-sieves/zeolite-concentration-wheel.md
+      - Wheel Sizing Calculation: molecular-sieves/zeolite-wheel-sizing.md
       - Dehydration: molecular-sieves/molecular-sieve-dehydration.md
       - 3A & 4A Sieves: molecular-sieves/molecular-sieve-3a-4a.md
       - Quality Indicators: molecular-sieves/molecular-sieve-quality-indicators.md
@@ -117,6 +120,8 @@ nav:
       - Flue Gas Sampling: testing/flue-gas-sampling.md
       - Laboratory Characterization: testing/lab-characterization-methods.md
       - Reading Test Reports: testing/reading-test-reports.md
+      - Lab vs Field Activity: testing/lab-vs-field-activity.md
+      - Field Test Report Template: testing/test-report-template.md
   - Compliance & Standards:
       - Complete Guide: compliance/index.md
       - China ULE Standards: compliance/china-ultra-low-emission-standards.md
@@ -128,5 +133,6 @@ nav:
       - Data Classification: methodology/data-classification.md
       - Sources & Evidence: methodology/sources.md
       - Evidence Registry: methodology/evidence-registry.md
+      - Evidence Registry (中文): methodology/evidence-registry-zh.md
       - Engineering Views: methodology/engineering-views.md
       - Technical Terms: methodology/technical-terms.md

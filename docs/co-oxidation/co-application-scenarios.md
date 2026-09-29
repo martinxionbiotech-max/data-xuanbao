@@ -39,6 +39,22 @@ the CO level itself is a combustion-quality signal.
 - Temperature is usually sufficient for light-off once the boiler design provides
   it; reheating may be needed at low load.
 
+### Medical waste incineration — deeper look
+
+Medical waste units combine the worst of thermal cycling with an aggressive gas
+chemistry.
+
+- **Temperature:** after gas cleaning the stream is often 150–220°C — near the
+  light-off margin, so pre-heating or a low-light-off formulation is usually needed.
+- **CO fluctuation:** batch charging produces surges from the hundreds to the
+  thousands of mg/Nm³; size for the peak and verify the exotherm stays safe.
+- **Poisons:** residual HCl after the scrubber and heavy-metal fume attack the
+  catalyst; chloride tolerance and upstream cleaning define the catalyst life.
+- **Sizing note:** the documented medical-waste result in the Evidence Registry
+  (XB-EV-002) shows high single-pass conversion, but the test record does not publish
+  flow, temperature or O₂ — so the duty must be re-sized on the customer's own
+  measured gas, not copied from the result.
+
 ## Industrial furnaces, kilns and dryers
 
 Furnaces, rotary kilns and drying lines vent CO from incomplete fuel burnout.
@@ -47,6 +63,36 @@ Furnaces, rotary kilns and drying lines vent CO from incomplete fuel burnout.
 - Temperature varies with batch operation — light-off margin and pre-heating matter.
 - Where fuel is switched seasonally, gas composition shifts; sizing should cover the
   worst-case fuel.
+
+### Gas-fired boilers and kilns — deeper look
+
+Gas-fired units run cleaner than coal or incineration but have their own CO pattern.
+
+- **Temperature:** gas burners hold flue-gas temperature relatively stable, but
+  low-load and start-up conditions can fall below light-off.
+- **CO fluctuation:** CO tracks air-fuel ratio upsets — a briefly rich burner can
+  spike CO sharply; a polishing catalyst must ride these transients.
+- **Poisons:** low SO₂ and dust on natural gas means longer catalyst life, but
+  moisture from combustion is always present; condensation protection still matters.
+- **Sizing note:** the sizing input is the peak CO during burner upsets, not the
+  steady-state average, because compliance can be tested during a transient.
+
+## Coking flue gas
+
+Coke-oven and coking by-product gas streams add complexity beyond a simple furnace
+vent.
+
+- **Temperature:** coking flue gas temperature varies with the battery operating
+  cycle and heat-recovery design; confirm the minimum continuous temperature at the
+  catalyst face.
+- **CO fluctuation:** CO level shifts with oven charging and pushing; treat as a
+  dynamic duty, not a steady stream.
+- **Poisons:** coking gas can carry sulfur species (H₂S, SO₂), tars and condensables
+  that foul or poison the catalyst — upstream tar removal and sulfur control are
+  prerequisites.
+- **Sizing note:** a coking stream is sized like a sintering stream in miniature —
+  poisons and duty pattern dominate, and the catalyst must sit behind effective
+  particulate and tar removal.
 
 ## Catalytic combustion tail gas
 
@@ -64,10 +110,27 @@ electric pre-heating provide continuous low-temperature CO abatement.
 | Scenario | Temperature | Key challenges |
 | --- | --- | --- |
 | Sintering exhaust | Moderate | SO₂, moisture, huge flow |
-| Waste incineration | Variable | HCl, metals, dynamic load |
+| Medical waste incineration | Variable, near light-off | HCl, metals, dynamic load |
+| Gas boiler / kiln | Stable | Cold starts, burner-transient CO |
+| Coking flue gas | Variable | Sulfur, tars, duty swings |
 | Furnace / kiln off-gas | Intermittent | Cold starts, fuel changes |
 | Catalytic combustion tail | Low | Low-temperature light-off |
 | Enclosed space | Ambient | Continuous safety duty |
+
+## Documented field results
+
+Two scenarios have documented field-test evidence, registered in the
+[Evidence Registry](../methodology/evidence-registry.md):
+
+- **Sintering machine CO (XB-EV-001):** CO 1,499 ppm → 18 ppm (2022-08-23) — see
+  [Sintering Machine CO Control](co-sintering-machine.md).
+- **Medical waste incinerator CO (XB-EV-002):** CO 11,224.2 mg/Nm³ → 16.2 mg/Nm³
+  (2023-03-20) — see [Waste Incineration CO Control](co-waste-incineration.md).
+
+Both are **Field Test Results** and **Partially recorded** — the operating conditions
+behind the numbers are not published, so neither result generalizes to other plants.
+The coking and gas-boiler scenarios have no published field evidence and are described
+above from engineering principles only.
 
 ## Manufacturer perspective
 

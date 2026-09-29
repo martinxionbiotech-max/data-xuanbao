@@ -13,6 +13,11 @@ problems: ammonium sulfate/bisulfate deposition and slow reaction kinetics. They
 reaches the reactor at low temperature — tail-end layouts, biomass firing, waste heat boilers and retrofit
 plants where reheat is expensive.
 
+> **Key Engineering Point:** Low-temperature SCR is a *conditions* decision, not a chemistry decision. The
+> candidate formulation is worthless without confirming the real flue-gas profile — minimum continuous
+> temperature, SO₂/SO₃, moisture and load turndown. Choosing on temperature alone, then discovering ABS
+> fouling or SO₂ poisoning in service, is the standard failure mode.
+
 ## Why standard catalysts struggle at low temperature
 
 A standard V-Mo-Ti catalyst designed for 300–400°C loses most of its activity below 250°C because reaction
@@ -50,6 +55,50 @@ temperature) and by limiting SO₂→SO₃ oxidation so that less sulfate forms 
   minimum continuous temperature, not just the design case.
 - **ABS cleaning planning.** Even good low-temperature catalysts accumulate ABS over time; plan soot-blowing
   or periodic thermal regeneration into the operating regime.
+
+## Engineering risk checklist
+
+Low-temperature operation concentrates risk in four areas. Each must be closed out before
+a full-layer commitment.
+
+### 1. Ammonium sulfate / bisulfate deposition
+
+- ABS (ammonium bisulfate) forms below its dew point from SO₃ + NH₃ + H₂O and is the
+  dominant low-temperature failure mode.
+- The formation is self-reinforcing: as ABS blinds the surface, conversion falls, the plant
+  injects more NH₃ to compensate, slip rises, and more ABS forms.
+- Mitigation: keep the SO₃ load low (low-SO₂ fuel or upstream desulfurization), limit NH₃
+  slip, and plan soot-blowing or periodic thermal regeneration into the operating regime.
+
+### 2. Low-temperature activity decay rate
+
+- Low-temperature formulations often decay faster than mid-temperature V-Mo-Ti under the
+  same poisons, because the low-temperature reaction has less kinetic headroom.
+- A fresh-sample activity curve cannot predict end-of-life; the decay rate must come from
+  operating history on a similar fuel.
+- Size for the end-of-life activity (K/K₀ at replacement trigger), not the fresh value —
+  see [SCR Activity Testing](scr-activity-testing.md).
+
+### 3. Backup heating requirement
+
+- Low-temperature operation is frequently paired with low-load operation, where the gas
+  can fall *below* the catalyst's minimum working temperature.
+- Confirm the minimum continuous temperature over the full load range — not just the
+  design case — and decide whether electric or steam reheating (or a bypass strategy) is
+  required to hold the catalyst in its window during transients and cold starts.
+
+### 4. Real flue gas vs clean gas
+
+- Laboratory and synthetic-gas results overstate field performance because real gas
+  carries SO₂, moisture and dust that the clean-gas test omits.
+- Manganese-based formulations in particular are sensitive to sulfur and moisture and
+  should be restricted to clean, low-SO₂ streams unless validated on the real gas.
+- Confirm water content before choosing manganese systems, and run simulation testing on
+  the customer's actual gas before a large order.
+
+> *Data type:* the risk factors above are Typical Value engineering reference — not
+> product guarantees and not measured data. See
+> [Data Classification](../methodology/data-classification.md).
 
 ## Manufacturer perspective
 
