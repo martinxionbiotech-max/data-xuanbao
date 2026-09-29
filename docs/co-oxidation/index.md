@@ -13,6 +13,23 @@ wherever CO must be removed from oxygen-containing gas. This guide is the hub fo
 the whole CO oxidation topic; detailed articles are linked throughout.
 > **Key Engineering Point:** CO duty is sized from the peak concentration, not the average — compliance tests can come at any hour. Compute the adiabatic temperature rise at peak CO before choosing a single-stage bed.
 
+## Material entity profile
+
+| Entity field | CO oxidation catalyst |
+| --- | --- |
+| Material class | Heterogeneous oxidation catalyst |
+| Composition | Precious metals (Pt, Pd) or base-metal oxides (hopcalite-type, transition metal oxides) on ceramic honeycomb or pellets |
+| Structure | Monolith channels or packed pellets |
+| Key properties | Light-off temperature (T50/T90), conversion, poison resistance, thermal stability |
+| Target pollutants | CO |
+| Mechanism | Catalytic oxidation: 2CO + O₂ → 2CO₂ |
+| Regeneration | Generally replaced; field regeneration limited |
+
+*Data type:* temperature windows and design ranges are Typical Value engineering
+references; documented field results are listed in the
+[Evidence Registry](../methodology/evidence-registry.md). See
+[Data Classification](../methodology/data-classification.md).
+
 ---
 
 ## 1. Why CO oxidation matters
@@ -60,6 +77,11 @@ are covered in [Light-Off Temperature](co-light-off-temperature.md).
 | O₂ requirement | Lean (≥3%) | Stoichiometric air added if needed |
 | CO range | Hundreds–thousands ppm | Concentration drives exotherm |
 
+*Data type: Typical Value engineering references for design guidance — not product
+specifications and not universal guarantees. Product-specific values are Manufacturer
+Specification; see [Data Classification](../methodology/data-classification.md).*
+
+
 ## 5. The four application scenarios
 
 Different industries impose different constraints — detailed in
@@ -101,6 +123,13 @@ signal, visible before conversion falls at the operating point. See
 - [CO Catalyst Selection](co-catalyst-selection.md) — precious vs base metal, the four questions.
 - [Light-Off Temperature](co-light-off-temperature.md) — T50/T90, test conditions, cold start.
 - [Application Scenarios](co-application-scenarios.md) — sintering, incineration, furnaces, safety duty.
+
+## When catalytic CO oxidation is not the right choice
+
+- Peak CO so concentrated that adiabatic rise exceeds bed rating — stage, dilute or go thermal (see [Exotherm Management](co-exotherm-management.md)).
+- Gas temperature permanently below light-off with no preheat or bypass strategy.
+- Heavy dust, acid or metal-fume load with no upstream cleaning — catalyst life collapses.
+- Fluctuating fuel/process where peak CO is unknown — size from measured peaks, not averages.
 
 ## 9. Manufacturer perspective
 

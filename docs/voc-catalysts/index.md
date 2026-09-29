@@ -12,6 +12,23 @@ platinum, platinum-palladium or non-precious-metal active systems on ceramic
 honeycomb substrates. This guide is the hub for the entire VOC catalyst topic.
 > **Key Engineering Point:** Catalyst selection is decided by species list, temperature and poisons, not by metal loading alone. Sulfur, halogens and dust shorten life faster than VOC throughput does — a poison audit comes before any performance claim.
 
+## Material entity profile
+
+| Entity field | VOC oxidation catalyst |
+| --- | --- |
+| Material class | Heterogeneous oxidation catalyst |
+| Composition | Pt, Pd or Pt-Pd active metals on γ-Al₂O₃ washcoat over ceramic honeycomb; non-precious transition-metal oxide formulations |
+| Structure | Monolith channels (typical cell density by flow/pressure-drop design) |
+| Key properties | Light-off temperature, conversion vs temperature, space velocity rating, poison resistance |
+| Target pollutants | VOC incl. aromatics (BTEX), oxygenates (formaldehyde, alcohols, ketones, esters), alkanes, olefins |
+| Mechanism | Catalytic oxidation to CO₂ + H₂O |
+| Regeneration | Limited washing/thermal treatment; deactivated metal generally not recoverable in field |
+
+*Data type:* temperature windows and design ranges are Typical Value engineering
+references; product data are Manufacturer Specification. See
+[Data Classification](../methodology/data-classification.md) and the
+[Evidence Registry](../methodology/evidence-registry.md).
+
 ---
 
 ## 1. The technology in one paragraph
@@ -47,13 +64,18 @@ performance trade-off in [Pt vs Pt-Pd](voc-catalyst-pt-vs-pt-pd.md).
 | Destruction efficiency | 90–99% | Species- and temperature-dependent |
 | Pressure drop | ~1–3 kPa | Honeycomb face velocity driven |
 
+*Data type: Typical Value engineering references for design guidance — not product
+specifications and not universal guarantees. Product-specific values are Manufacturer
+Specification; see [Data Classification](../methodology/data-classification.md).*
+
+
 Sizing step-by-step — including adiabatic temperature rise and deactivation
 margin — is in [Space Velocity Design](voc-space-velocity-design.md)
 - [Catalytic vs Thermal Oxidation](voc-catalytic-vs-thermal-oxidation.md) — choosing the route.
 - [Precious vs Non-Precious Metal](voc-precious-vs-non-precious.md) — chemistry, cost, lifecycle.
 - [Halogenated VOC Treatment](voc-halogenated-treatment.md)
 - [Coating & Paint Shops](voc-coating-industry.md) — concentration + oxidation architecture.
-- [Printing Industry](voc-printing-industry.md) — solvents, dryers, recovery economics. — what catalysts can and cannot do..
+- [Printing Industry](voc-printing-industry.md) — solvents, dryers, recovery economics.
 
 ## 4. What kills VOC catalysts
 
@@ -102,6 +124,13 @@ table is in [RCO vs RTO](../voc-engineering/rco-vs-rto.md).
 - [VOC Catalyst Deactivation](voc-catalyst-deactivation.md) — poisons, fouling, thermal aging.
 - [Regeneration & Lifecycle](voc-catalyst-lifecycle.md) — burn-off, monitoring, replacement budgeting.
 - [Space Velocity Design](voc-space-velocity-design.md) — GHSV, contact time, adiabatic rise, sizing margin.
+
+## When catalytic oxidation is not the right choice
+
+- Very low VOC concentration at high flow — concentration (wheel/adsorption) or adsorption alone usually wins on energy.
+- Halogenated streams without upstream scrubbing — acids and dioxin risk; thermal oxidation + scrubber is the safer route (see [Halogenated VOC Treatment](voc-halogenated-treatment.md)).
+- Heavy dust or mist loading — catalyst masking; pretreatment is mandatory.
+- Gas temperature permanently below light-off with no preheat budget.
 
 ## 9. Manufacturer perspective
 

@@ -12,6 +12,23 @@ and concentrate VOC for downstream oxidation. The type number (3A, 4A, 5A, 13X,
 NaY, ZSM-5) defines the pore size and therefore what each sieve can and cannot do.
 > **Key Engineering Point:** The type number (3A/4A/5A/13X/NaY/ZSM-5) is the pore size — the target molecule must fit through the window while competing molecules stay out. Selecting by brand familiarity instead of pore size is the most common sieve failure.
 
+## Material entity profile
+
+| Entity field | Zeolite molecular sieves |
+| --- | --- |
+| Material class | Crystalline aluminosilicate adsorbent |
+| Composition | Al₂O₃·SiO₂ framework with exchangeable cations (Na⁺, K⁺, Ca²⁺); Si/Al ratio varies by type |
+| Structure | Uniform micropore channels (0.3–1.0 nm by type); zeolite framework with strong polarity |
+| Key properties | Pore size, water capacity, crush strength, Si/Al ratio, adsorption selectivity |
+| Target pollutants | H₂O (drying), CO₂, polar VOC, hydrocarbons (separation), VOC (concentration wheel) |
+| Mechanism | Size-selective physical adsorption + strong polar interaction |
+| Regeneration | Thermal (200–350 °C typical), pressure or purge-gas desorption |
+
+*Data type:* property ranges are Typical Value engineering references or as
+labeled; product values are Manufacturer Specification. See
+[Data Classification](../methodology/data-classification.md) and the
+[Evidence Registry](../methodology/evidence-registry.md).
+
 ---
 
 ## 1. What a molecular sieve is
@@ -99,6 +116,13 @@ comparison is in
 - [Type Selection](molecular-sieve-type-selection.md) — 3A/4A/5A/13X/NaY/ZSM-5 compared and chosen.
 - [Regeneration](molecular-sieve-regeneration.md) — TSA/PSA/purge, temperatures, lifetime.
 - [Concentration Wheels](zeolite-concentration-wheel.md) — rotor operation, concentration ratio, limits.
+
+## When molecular sieves are not the right choice
+
+- Very humid streams where the target is weakly polar — water competes for sites; activated carbon or a dedicated dryer upstream may be better.
+- Molecules larger than the pore window — sieves simply cannot take them; check size before type.
+- Acidic or reactive species that degrade the aluminosilicate framework.
+- Liquid-phase large-molecule duty — pore size limits apply harder than in gas phase.
 
 ## 9. Manufacturer perspective
 

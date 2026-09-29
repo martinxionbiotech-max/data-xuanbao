@@ -1,5 +1,5 @@
-site_name: Xuanbao Industrial Materials Knowledge Center
-site_description: Technical reference system for activated carbon, adsorption materials, molecular sieves, catalysts and industrial treatment engineering — properties, mechanisms, selection, testing and standards by Xuanbao Environmental Technology.
+site_name: Industrial Emission Control Knowledge & Data Center
+site_description: Technical knowledge and data center for industrial emission control - material database (activated carbon, zeolite molecular sieves, SCR DeNOx, CO oxidation and VOC oxidation catalysts), pollutant profiles (NOx, CO, VOC, BTEX, formaldehyde), engineering selection guidance, testing methodology and standards by Yancheng Xuanbao Environmental Technology Co., Ltd.
 site_url: https://data.xuanbaoenvironment.com
 site_author: Yancheng Xuanbao Environmental Technology Co., Ltd.
 copyright: © 2026 Yancheng Xuanbao Environmental Technology Co., Ltd.
@@ -61,6 +61,7 @@ nav:
           - Reactor Positioning: scr-denox/scr-reactor-positioning.md
           - Reducing Agent Systems: scr-denox/scr-reducing-agent-systems.md
           - Volume Calculation: scr-denox/scr-catalyst-volume-calculation.md
+          - Catalyst Selection: scr-denox/scr-catalyst-selection.md
           - Flow Distribution & CFD: scr-denox/scr-flow-distribution-cfd.md
           - SNCR vs SCR: scr-denox/scr-sncr-comparison.md
           - Cleaning & Maintenance: scr-denox/scr-cleaning-maintenance.md
@@ -100,6 +101,13 @@ nav:
       - Energy Management: voc-engineering/voc-energy-management.md
       - Combined Systems: voc-engineering/voc-combined-systems.md
       - Wet Scrubbers: voc-engineering/voc-wet-scrubbers.md
+  - Pollutants:
+      - Complete Guide: pollutants/index.md
+      - NOx: pollutants/nox.md
+      - CO: pollutants/co.md
+      - VOC: pollutants/voc.md
+      - Benzene, Toluene & Xylene: pollutants/benzene-toluene-xylene.md
+      - Formaldehyde: pollutants/formaldehyde.md
   - Water & Purification:
       - Complete Guide: water-purification/index.md
       - PAC vs GAC: water-purification/pac-vs-gac.md
@@ -119,4 +127,5 @@ nav:
       - Methodology: methodology/index.md
       - Data Classification: methodology/data-classification.md
       - Sources & Evidence: methodology/sources.md
+      - Evidence Registry: methodology/evidence-registry.md
       - Technical Terms: methodology/technical-terms.md

@@ -35,6 +35,11 @@ against the target molecule decides.
 **Bulk density (g/L).** An economic and handling parameter: it correlates with
 bed weight, packing volume and, loosely, with capacity per unit volume.
 
+> *Data type:* the indicator ranges above are Typical Value engineering references for
+> commercial gas-phase carbons — they describe what is common in the market, not what any
+> specific product guarantees. Product values are Manufacturer Specification. See
+> [Data Classification](../methodology/data-classification.md).*
+
 ## Matching indicator to pollutant
 
 | Target | Most relevant indicator |

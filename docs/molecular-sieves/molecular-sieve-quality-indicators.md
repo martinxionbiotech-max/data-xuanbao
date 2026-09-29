@@ -22,6 +22,10 @@ integrity, attrition guards pressure-drop stability and downstream cleanliness.
 | Attrition loss | <0.5–1.0 wt% | Dust generation, ΔP stability |
 | Particle size distribution | ±0.3 mm tolerance | Pressure drop and channeling control |
 
+*Data type: Typical Value engineering references for commercial molecular sieve products —
+not universal guarantees. Product values are Manufacturer Specification. See
+[Data Classification](../methodology/data-classification.md).*
+
 ## Reading capacity honestly
 
 Static water adsorption is measured at fixed conditions (e.g., 25°C, defined relative humidity) and tells

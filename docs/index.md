@@ -1,35 +1,38 @@
 ---
-title: "Xuanbao Industrial Materials Knowledge Center"
-description: "Technical reference system for activated carbon, adsorption materials, molecular sieves, catalysts and industrial treatment engineering - properties, mechanisms, selection, testing and standards."
+title: "Industrial Emission Control Knowledge & Data Center"
+description: "Knowledge and data center for industrial emission control: materials database, pollutant profiles (NOx, CO, VOC, BTEX, formaldehyde), engineering selection, testing and standards by Xuanbao Environmental Technology."
 ---
 
-# Xuanbao Industrial Materials Knowledge Center
+# Industrial Emission Control Knowledge & Data Center
 
-A technical reference system covering **activated carbon, adsorption materials,
-molecular sieves, catalysts and industrial treatment engineering** — how
-materials work, how their properties are measured, how they are selected for
-real operating conditions, and how their performance is verified.
+A technical knowledge and data center covering **materials, pollutants,
+technologies and engineering decisions** for industrial emission control — how
+activated carbon, zeolite molecular sieves and oxidation / SCR catalysts work,
+which pollutants they treat (NOx, CO, VOC, BTEX, formaldehyde), how systems are
+selected for real operating conditions, and how performance is tested and verified.
 
 Published by [Yancheng Xuanbao Environmental Technology Co., Ltd.](https://xuanbaoenvironment.com/).
 Commercial product information lives on the [main site](https://xuanbaoenvironment.com/);
-this knowledge center explains the technical basis behind material selection.
+this data center explains the technical basis behind material selection — the why,
+the how and the under-what-conditions.
 
 ## What This Knowledge Center Covers
 
-Three connected knowledge systems:
+Four connected knowledge systems:
 
-1. **Adsorption materials** — activated carbon and zeolite molecular sieves:
-   raw materials, pore structure, adsorption mechanisms, regeneration and
-   application engineering.
-2. **Catalytic materials** — SCR DeNOx, CO oxidation and VOC oxidation
-   catalysts: chemistry, operating windows, poisoning, deactivation and
-   lifecycle.
-3. **Industrial treatment engineering** — system-level technology: adsorption
-   beds, catalytic oxidation, combined systems, emission limits and process
-   safety.
+1. **Materials** — activated carbon, zeolite molecular sieves, SCR DeNOx,
+   CO oxidation and VOC oxidation catalysts: composition, structure, properties,
+   operating windows, regeneration and lifecycle.
+2. **Pollutants** — NOx, CO, VOC, BTEX aromatics and formaldehyde as engineering
+   entities: sources, properties, treatment challenges and matching routes.
+3. **Technologies** — system-level treatment: adsorption, catalytic oxidation,
+   SCR, concentration wheels, combined systems, emission limits and process safety.
+4. **Engineering decisions** — selection guides and comparisons: which material,
+   which technology, under what conditions, and when not to use each.
 
 Supporting every domain: testing and quality methodology, compliance and
-standards, and a formal system for how technical data is sourced and classified.
+standards, and a formal system for how technical data is sourced, classified
+and registered as evidence.
 
 ## Explore by Material
 
@@ -38,6 +41,14 @@ standards, and a formal system for how technical data is sourced and classified.
 - [SCR DeNOx Catalysts](scr-denox/index.md) — NOx reduction: plate vs honeycomb, poisoning, ammonia slip.
 - [CO Oxidation Catalysts](co-oxidation/index.md) — CO removal: light-off, precious vs base metal, bed design.
 - [VOC Oxidation Catalysts](voc-catalysts/index.md) — Pt / Pt-Pd / non-precious systems, deactivation, space velocity.
+
+## Explore by Pollutant
+
+- [NOx](pollutants/nox.md) — combustion nitrogen oxides: sources, properties, SCR/SNCR treatment.
+- [CO](pollutants/co.md) — carbon monoxide: light-off, exotherm, catalytic oxidation.
+- [VOC](pollutants/voc.md) — the volatile organics class: species-aware treatment.
+- [Benzene, Toluene & Xylene (BTEX)](pollutants/benzene-toluene-xylene.md) — aromatic trio: adsorption vs oxidation.
+- [Formaldehyde](pollutants/formaldehyde.md) — the polar oxygenate: scrubbing, Pt oxidation, impregnated media.
 
 ## Explore by Application
 

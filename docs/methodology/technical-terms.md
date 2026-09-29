@@ -9,6 +9,35 @@ Definitions of core terms used across this knowledge center. Terms are defined
 at the level needed for reading specifications, test reports and engineering
 calculations.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://data.xuanbaoenvironment.com/methodology/technical-terms/#term-set",
+  "name": "Emission Control Technical Terms",
+  "description": "Core terms of adsorption, catalysis and industrial emission control used across the Xuanbao knowledge center.",
+  "inLanguage": "en",
+  "hasDefinedTerm": [
+    {"@type": "DefinedTerm", "@id": "#adsorption", "name": "Adsorption", "termCode": "adsorption"},
+    {"@type": "DefinedTerm", "@id": "#bet-surface-area", "name": "BET surface area", "termCode": "bet-surface-area"},
+    {"@type": "DefinedTerm", "@id": "#iodine-number", "name": "Iodine number", "termCode": "iodine-number"},
+    {"@type": "DefinedTerm", "@id": "#pore-structure", "name": "Pore structure", "termCode": "pore-structure"},
+    {"@type": "DefinedTerm", "@id": "#breakthrough", "name": "Breakthrough", "termCode": "breakthrough"},
+    {"@type": "DefinedTerm", "@id": "#working-capacity", "name": "Working capacity", "termCode": "working-capacity"},
+    {"@type": "DefinedTerm", "@id": "#empty-bed-contact-time-ebct", "name": "Empty bed contact time (EBCT)", "termCode": "ebct"},
+    {"@type": "DefinedTerm", "@id": "#space-velocity-ghsv", "name": "Space velocity (GHSV)", "termCode": "ghsv"},
+    {"@type": "DefinedTerm", "@id": "#light-off-temperature", "name": "Light-off temperature", "termCode": "light-off"},
+    {"@type": "DefinedTerm", "@id": "#scr-selective-catalytic-reduction", "name": "SCR (Selective Catalytic Reduction)", "termCode": "scr"},
+    {"@type": "DefinedTerm", "@id": "#catalyst-deactivation", "name": "Catalyst deactivation", "termCode": "catalyst-deactivation"},
+    {"@type": "DefinedTerm", "@id": "#regeneration", "name": "Regeneration", "termCode": "regeneration"},
+    {"@type": "DefinedTerm", "@id": "#pressure-drop", "name": "Pressure drop", "termCode": "pressure-drop"},
+    {"@type": "DefinedTerm", "@id": "#lel-lower-explosive-limit", "name": "LEL (Lower Explosive Limit)", "termCode": "lel"},
+    {"@type": "DefinedTerm", "@id": "#cems-continuous-emission-monitoring-system", "name": "CEMS (Continuous Emission Monitoring System)", "termCode": "cems"},
+    {"@type": "DefinedTerm", "@id": "#isotherm", "name": "Isotherm", "termCode": "isotherm"}
+  ]
+}
+</script>
+
 ## Adsorption
 
 The adhesion of gas or liquid molecules onto a solid surface. **Physical

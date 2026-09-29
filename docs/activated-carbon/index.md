@@ -14,6 +14,23 @@ structure, physical form, surface chemistry and the operating conditions —
 **not by raw material name alone.**
 > **Key Engineering Point:** Iodine number and BET surface area describe capacity, not suitability. For industrial VOC adsorption, match the pore-size distribution to the target molecule and check humidity, temperature and regeneration requirements before committing to a carbon type.
 
+## Material entity profile
+
+| Entity field | Activated carbon |
+| --- | --- |
+| Material class | Porous carbon adsorbent |
+| Composition | Carbon (≥80–95% by mass, grade-dependent), mineral ash, surface oxygen groups |
+| Structure | Amorphous graphitic microcrystallites; micro/meso/macropore network |
+| Key properties | BET surface area, iodine number, CTC, pore-size distribution, hardness, ash |
+| Target pollutants | VOC, odorants, H₂S (impregnated), mercury (impregnated), dissolved organics, chlorine |
+| Mechanism | Physical adsorption (van der Waals) + chemisorption on impregnated grades |
+| Regeneration | Thermal, steam or chemical — or disposal |
+
+*Data type:* the property ranges on this page are Typical Value engineering
+references or as labeled; product values are Manufacturer Specification. See
+[Data Classification](../methodology/data-classification.md) and the
+[Evidence Registry](../methodology/evidence-registry.md).
+
 This pillar page is the map: each question below is answered briefly and
 links to the cluster article that covers it in depth.
 
@@ -147,6 +164,13 @@ regeneration). Suitability is established by matching measured properties
 and test data to the operating conditions — see
 [Technical Data & Source Methodology](../methodology/index.md) for how the data
 behind such decisions is classified.
+
+## When activated carbon is not the right choice
+
+- Very high temperature gas (>~150–200 °C) without cooling — capacity collapses and fire risk rises (see [Fire Safety](activated-carbon-fire-safety.md)).
+- Polar, water-soluble species (formaldehyde-type) — plain carbon adsorbs them poorly; impregnated media, scrubbing or catalytic oxidation fit better.
+- Very high concentration VOC without regeneration economics — carbon saturates fast; consider concentration + oxidation.
+- Ketone-heavy streams — polymerization risk on carbon; zeolite or catalytic oxidation is usually safer.
 
 ## Related pages
 

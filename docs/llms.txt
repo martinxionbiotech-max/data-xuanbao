@@ -1,9 +1,9 @@
-# Xuanbao Industrial Materials Knowledge Center
+# Industrial Emission Control Knowledge & Data Center
 
-> Technical reference system by Yancheng Xuanbao Environmental Technology Co., Ltd.
-> covering activated carbon, adsorption materials, molecular sieves, catalysts and
-> industrial treatment engineering: material properties, adsorption and catalytic
-> mechanisms, engineering conditions, testing, selection and standards.
+> Technical knowledge and data center by Yancheng Xuanbao Environmental Technology Co., Ltd.
+> covering industrial emission control: material database (activated carbon, zeolite molecular
+> sieves, SCR DeNOx, CO and VOC oxidation catalysts), pollutant profiles (NOx, CO, VOC, BTEX,
+> formaldehyde), engineering selection guidance, testing methodology and standards.
 > Commercial site: https://xuanbaoenvironment.com/
 
 ## Core Knowledge Areas
@@ -15,11 +15,28 @@
 - [CO Oxidation: Complete Guide](https://data.xuanbaoenvironment.com/co-oxidation/): catalyst families, light-off temperature, bed design, deactivation.
 - [VOC Catalytic Oxidation: Complete Guide](https://data.xuanbaoenvironment.com/voc-catalysts/): Pt/Pt-Pd/non-precious systems, deactivation, lifecycle, space velocity.
 - [VOC Treatment Engineering Guide](https://data.xuanbaoenvironment.com/voc-engineering/): adsorption engineering, RCO vs RTO, LEL safety, combined systems.
+- [Pollutants: Knowledge Layer](https://data.xuanbaoenvironment.com/pollutants/): NOx, CO, VOC, BTEX and formaldehyde profiles.
 - [Water & Purification Guide](https://data.xuanbaoenvironment.com/water-purification/): activated carbon in water treatment, PAC vs GAC, contact time.
 - [PAC vs GAC](https://data.xuanbaoenvironment.com/water-purification/pac-vs-gac/)
 - [Testing & Analysis Guide](https://data.xuanbaoenvironment.com/testing/): activity evaluation, sampling, laboratory characterization, reading test reports.
 - [Emission Compliance Guide](https://data.xuanbaoenvironment.com/compliance/): standards, CEMS, reporting and audit.
 - [Methodology & Data](https://data.xuanbaoenvironment.com/methodology/): data classification, sources and evidence levels, technical terms.
+
+## Pollutant profiles
+
+- [NOx](https://data.xuanbaoenvironment.com/pollutants/nox/)
+- [CO](https://data.xuanbaoenvironment.com/pollutants/co/)
+- [VOC](https://data.xuanbaoenvironment.com/pollutants/voc/)
+- [Benzene, Toluene & Xylene](https://data.xuanbaoenvironment.com/pollutants/benzene-toluene-xylene/)
+- [Formaldehyde](https://data.xuanbaoenvironment.com/pollutants/formaldehyde/)
+
+## Engineering decisions
+
+- [How to Select an SCR Catalyst](https://data.xuanbaoenvironment.com/scr-denox/scr-catalyst-selection/)
+- [How to Select Activated Carbon](https://data.xuanbaoenvironment.com/activated-carbon/activated-carbon-selection/)
+- [How to Select a VOC Catalyst](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-selection/)
+- [Gas Purification Material Selection](https://data.xuanbaoenvironment.com/voc-engineering/gas-purification-material-selection/)
+- [Evidence Registry](https://data.xuanbaoenvironment.com/methodology/evidence-registry/)
 
 ## Activated Carbon articles
 

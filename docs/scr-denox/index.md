@@ -13,6 +13,23 @@ a defined temperature window. This guide is the hub: it summarizes the whole SCR
 topic and links to detailed articles on every part of it.
 > **Key Engineering Point:** SCR performance is set by the temperature window and the flue-gas condition at the catalyst face — dust, SO₂ and alkali metals degrade activity faster than age does. A catalyst chosen on removal rate alone fails if the inlet conditions are wrong.
 
+## Material entity profile
+
+| Entity field | SCR DeNOx catalyst |
+| --- | --- |
+| Material class | Heterogeneous reduction catalyst |
+| Composition | V₂O₅ (active) / MoO₃ or WO₃ (promoter) / TiO₂ (support); plate catalysts on steel mesh, honeycomb as extruded monolith |
+| Structure | Macroporous monolith channels (pitch ~6–9 mm plate; 6–20 cells honeycomb) |
+| Key properties | NOx conversion, SO₂→SO₃ oxidation rate, ammonia slip, pressure drop, erosion resistance |
+| Target pollutants | NOx (NO + NO₂) |
+| Mechanism | NH₃ + NOx → N₂ + H₂O over active sites |
+| Regeneration | Chemical cleaning / rejuvenation in place or ex situ |
+
+*Data type:* operating windows and design ranges are Typical Value engineering
+references; product data are Manufacturer Specification. See
+[Data Classification](../methodology/data-classification.md) and the
+[Evidence Registry](../methodology/evidence-registry.md).
+
 ---
 
 ## 1. What SCR does and where it is used
@@ -72,6 +89,11 @@ reactor, typically 2+1 or 3+1 layers with a spare layer position.
 | NH₃/NOx molar ratio | 0.8–1.05 | Above 1: rising ammonia slip |
 | SO₂ oxidation rate | ≤1% | Formulation-dependent; SO₃ drives bisulfate issues |
 | Design NOx removal | 80–95% | Set by permit and economic trade-off |
+
+*Data type: Typical Value engineering references for design guidance — not product
+specifications and not universal guarantees. Product-specific values are Manufacturer
+Specification; see [Data Classification](../methodology/data-classification.md).*
+
 
 The selection decision path is covered step-by-step in the articles below — the
 short version: define gas conditions (temperature, NOx, SO₂, dust, moisture),
@@ -136,6 +158,13 @@ characterization, simulation with the real gas, and in-situ field testing —
 - [Ammonia Slip Control](scr-ammonia-slip-control.md) — AIG tuning, distribution, stoichiometry.
 - [Ash, Erosion & Mechanical Life](scr-ash-erosion.md) — pitch, face velocity, flow conditioning.
 - [Activity Testing](scr-activity-testing.md) — K value, lab/simulation/field verification.
+
+## When SCR is not the right choice
+
+- Flue gas temperature far below the catalyst window with no reheating budget — evaluate SNCR, staging or a low-temperature formulation after a bisulfate audit.
+- Very high SO₃ with no upstream control — catalyst poisoning and acid condensation dominate economics.
+- Unknown fuel/poison profile with no test program — see [Catalyst Selection](scr-catalyst-selection.md) for the full decision path.
+- Space or pressure-drop constraints no catalyst geometry can satisfy.
 
 ## 10. Manufacturer perspective
 
