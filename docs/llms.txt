@@ -37,6 +37,7 @@
 - [How to Select a VOC Catalyst](https://data.xuanbaoenvironment.com/voc-catalysts/voc-catalyst-selection/)
 - [Gas Purification Material Selection](https://data.xuanbaoenvironment.com/voc-engineering/gas-purification-material-selection/)
 - [Evidence Registry](https://data.xuanbaoenvironment.com/methodology/evidence-registry/)
+- [Xuanbao Engineering Views](https://data.xuanbaoenvironment.com/methodology/engineering-views/)
 
 ## Activated Carbon articles
 

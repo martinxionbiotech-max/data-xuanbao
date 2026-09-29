@@ -169,7 +169,7 @@ characterization, simulation with the real gas, and in-situ field testing —
 ## 10. Manufacturer perspective
 
 SCR is a systems problem, not a catalyst purchase. The same NOx target can require
-20–40% more catalyst volume on a high-poisoning fuel, and a world-class catalyst
+20–40% more catalyst volume on a high-poisoning fuel, and even the best catalyst
 behind a badly tuned AIG will slip ammonia from day one. We size from the current
 fuel and flue gas analysis, the measured velocity distribution and the outage
 window — and we recommend simulation testing with your actual gas before large

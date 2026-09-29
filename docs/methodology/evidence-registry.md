@@ -48,7 +48,7 @@ Discussed on: [CO Sintering Machine](../co-oxidation/co-sintering-machine.md), [
 
 | Field | Value |
 | --- | --- |
-| Data / Claim | CO: 11,224.2 mg/Nm³ → 16.2 mg/Nm³ (derived removal ≈ 99.9%) |
+| Data / Claim | CO: 11,224.2 mg/Nm³ → 16.2 mg/Nm³ (derived removal ≈ 99.86%) |
 | Data Type | Field Test Result |
 | Test date | 2023-03-20, as recorded in the original field test report |
 | Source | [Medical Waste Incinerator CO Removal — Field Test](https://xuanbaoenvironment.com/case-studies/medical-waste-incinerator-co-removal/) on the main site |
